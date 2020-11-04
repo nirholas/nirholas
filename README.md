@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**nirholas/nirholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/nirholas) represent my journey :running_man: - Hi, I'm Nicholas Resendez [nirholas] - Internet security researcher and entrepreneur.
 
