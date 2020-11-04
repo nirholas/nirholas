@@ -2,9 +2,6 @@
 **Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/nirholas) represent my journey :running_man: - Hi, I'm Nicholas Resendez [nirholas] - Internet security researcher and entrepreneur.
 
 - 🔭 I’m currently working on my project [uALREADY](https://github.com/nirholas/ualready)
-- 🌱 I’m currently learning life
-- 👯 I’m looking to collaborate on anything which positively impacts everyday life
-- 🤔 I’m looking for help with anything I can :)
 - 💬 Ask me about anything [here](https://github.com/nirholas/nirholas/issues)
 - 📫 How to reach me: [instagram](https://instagram.com/nirholas) [twitter](https://twitter.com/bothersome) [linkedin](https://linkedin.com/in/nixholas)
 
