@@ -18,7 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=nirholas&show_icons=true)
-Outside of [GitHub](https://github.com/nirholas/), You can **find me. Currently I'm **free to contribute**
+Outside of [GitHub](https://github.com/nirholas/), **Currently I'm free to contribute**
 [![Twitter: bothersome](https://img.shields.io/twitter/follow/bothersome?style=social)](https://twitter.com/bothersome)
 [![Linkedin: Nicholas Resendez](https://img.shields.io/badge/-nixholas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nixholas/)](https://www.linkedin.com/in/nixholas/)
 [![GitHub Nirholas](https://img.shields.io/github/followers/nirholas?label=follow&style=social)](https://github.com/nirholas)
