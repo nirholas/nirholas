@@ -1,7 +1,7 @@
 
 **Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/nirholas) represent my journey :running_man: - Hi, I'm Nicholas Resendez [nirholas] - Internet security researcher and entrepreneur.
 
-- 🔭 I’m currently working on my project [uALREADY](https://github.com/nirholas/ualready)
+- 🔭 I’m currently working on my projects [Grindez](https://grindez.com) &  [uALREADY](https://ualready.com)
 - 💬 Ask me about anything [here](https://github.com/nirholas/nirholas/issues)
 - 📫 How to reach me: [instagram](https://instagram.com/nirholas) [twitter](https://twitter.com/bothersome) [linkedin](https://linkedin.com/in/nixholas)
 
@@ -22,6 +22,9 @@ Outside of [GitHub](https://github.com/nirholas/), **Currently I'm free to contr
 [![Twitter: bothersome](https://img.shields.io/twitter/follow/bothersome?style=social)](https://twitter.com/bothersome)
 [![Linkedin: Nicholas Resendez](https://img.shields.io/badge/-nixholas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nixholas/)](https://www.linkedin.com/in/nixholas/)
 [![GitHub Nirholas](https://img.shields.io/github/followers/nirholas?label=follow&style=social)](https://github.com/nirholas)
-<p><a href="https://ualready.com.com">🌐 Check out my website</a></p>
+<p><a href="https://grindez.com">🌐 Check out my job marketplace, Grindez.</a></p>
+
+<p><a href="https://ualready.com">🌐 Check out my digital development agency, uALREADY.</a></p>
+
 
 
