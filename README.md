@@ -23,6 +23,7 @@ Outside of [GitHub](https://github.com/nirholas/), **Currently I'm free to contr
 [![Linkedin: Nicholas Resendez](https://img.shields.io/badge/-nixholas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nixholas/)](https://www.linkedin.com/in/nixholas/)
 [![GitHub Nirholas](https://img.shields.io/github/followers/nirholas?label=follow&style=social)](https://github.com/nirholas)
 
+<p><a href="https://grindez.com">🌐 Check out my job marketplace, Grindez.</a></p>
 <p><a href="https://ualready.com">🌐 Check out my digital development agency, uALREADY.</a></p>
 
 
