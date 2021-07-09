@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my projects [Grindez](https://grindez.com) &  [uALREADY](https://ualready.com)
 - 💬 Ask me about anything [here](https://github.com/nirholas/nirholas/issues)
-- 📫 How to reach me: [instagram](https://instagram.com/nirholas) [twitter](https://twitter.com/bothersome) [linkedin](https://linkedin.com/in/nixholas)
+- 📫 How to reach me: [instagram](https://instagram.com/nirholas) [twitter](https://twitter.com/nickresendez) [linkedin](https://linkedin.com/in/nixholas)
 
 
 **Languages and Tools:**  
