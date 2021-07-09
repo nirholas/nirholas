@@ -2,7 +2,7 @@
 **Happy to see you here!** :star_struck: <br> :running_man: - Hi, I'm Nicholas Resendez [nirholas] - Internet security researcher and entrepreneur.
 
 - 🔭 I’m currently working on my projects [Grindez](https://grindez.com) &  [uALREADY](https://ualready.com)
-- 💬 Ask me about anything [here](https://github.com/nirholas/nirholas/issues)
+- 💬 Ask me about anything [here](https://twitter.com/nickresendez)
 - 📫 How to reach me: [instagram](https://instagram.com/nirholas) [twitter](https://twitter.com/nickresendez) [linkedin](https://linkedin.com/in/nixholas)
 
 
@@ -18,8 +18,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=nirholas&show_icons=true)
-Outside of [GitHub](https://github.com/nirholas/), **Currently I'm free to contribute**
-[![Twitter: bothersome](https://img.shields.io/twitter/follow/bothersome?style=social)](https://twitter.com/bothersome)
+Outside of [GitHub](https://github.com/nirholas/), **Currently I'm willing to contribute**
+[![Twitter: nickresendez](https://img.shields.io/twitter/follow/nickresendez?style=social)](https://twitter.com/nickresendez)
 [![Linkedin: Nicholas Resendez](https://img.shields.io/badge/-nixholas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nixholas/)](https://www.linkedin.com/in/nixholas/)
 [![GitHub Nirholas](https://img.shields.io/github/followers/nirholas?label=follow&style=social)](https://github.com/nirholas)
 
