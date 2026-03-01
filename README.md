@@ -1,4 +1,4 @@
-<h1 align="center">hi, i am nich [nirholas]</h1>
+<h1 align="center">nirholas</h1>
 
 <p align="center">
   Building open-source tools at the intersection of <strong>AI agents</strong>, <strong>crypto</strong>, and <strong>Web3</strong>.
@@ -71,8 +71,7 @@ All public repositories, sorted by stars.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirholas&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirholas&layout=compact&hide_title=true&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirholas&hide_border=true&theme=transparent" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
