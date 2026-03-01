@@ -1,4 +1,4 @@
-<h1 align="center">nirholas</h1>
+<h1 align="center">hi, i am nich [nirholas]</h1>
 
 <p align="center">
   Building open-source tools at the intersection of <strong>AI agents</strong>, <strong>crypto</strong>, and <strong>Web3</strong>.
