@@ -1,0 +1,33 @@
+# nirholas
+
+> Open-source tooling for 3D AI agents, agent payments and on-chain builders. 391 public repositories by nirholas, part of the three.ws ecosystem.
+
+## Catalog
+
+- [Full machine-readable list](https://github.com/nirholas/nirholas/blob/main/repos.json): name, description, topics, language and stars for every repo
+- [Human catalog](https://github.com/nirholas/nirholas#readme): grouped by topic
+
+## Sections
+
+- Robinhood Chain: 22 repositories
+- x402 payments and agent commerce: 83 repositories
+- MCP servers for AI agents: 56 repositories
+- three.ws platform and 3D agents: 59 repositories
+- Solana and pump.fun tooling: 24 repositories
+- DeFi mechanisms and Uniswap v4 hooks: 46 repositories
+- On-chain experiments and collectibles: 73 repositories
+- Developer tools and everything else: 28 repositories
+
+## Featured
+
+- [fresh-start](https://github.com/nirholas/fresh-start): The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with...
+- [XActions](https://github.com/nirholas/XActions): ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No...
+- [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv): Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required....
+- [three.ws](https://github.com/nirholas/three.ws): Open-source platform for 3D AI agents. Turn text or a photo into a rigged, animated GLB avatar, give it an LLM brain...
+- [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk): Token creation launching, bonding curve trading, AMM migration, tiered fees, creator fee sharing, vanity keygen, MCP...
+- [PAI](https://github.com/nirholas/PAI): A complete private computer on a USB stick. PAI is a bootable Debian 12 Linux distro that runs Ollama locally on any...
+
+## Platform
+
+- [three.ws](https://three.ws): the platform
+- [three.ws llms.txt](https://three.ws/llms.txt)
