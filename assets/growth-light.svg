@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" role="img" aria-labelledby="t d" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<title id="t">How the catalog grew</title>
+<desc id="d">Cumulative public repositories by section from Jan 26 to Oct 26, ending at 391.</desc>
+<text x="24" y="36" fill="#1f2328" font-size="19" font-weight="700">How the catalog grew</text>
+<text x="24" y="57" fill="#59636e" font-size="12.5">Cumulative repositories by creation month, stacked by section. 384 created so far in 2026.</text>
+<defs><clipPath id="draw"><rect x="54" y="74" width="638" height="228"><animate attributeName="width" from="0" to="638" dur="2.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></rect></clipPath></defs>
+<line x1="54" y1="300" x2="690" y2="300" stroke="#d1d9e0" stroke-opacity="1"/><text x="46" y="304" fill="#818b98" font-size="11" text-anchor="end">0</text>
+<line x1="54" y1="246" x2="690" y2="246" stroke="#d1d9e0" stroke-opacity="0.6"/><text x="46" y="250" fill="#818b98" font-size="11" text-anchor="end">100</text>
+<line x1="54" y1="192" x2="690" y2="192" stroke="#d1d9e0" stroke-opacity="0.6"/><text x="46" y="196" fill="#818b98" font-size="11" text-anchor="end">200</text>
+<line x1="54" y1="138" x2="690" y2="138" stroke="#d1d9e0" stroke-opacity="0.6"/><text x="46" y="142" fill="#818b98" font-size="11" text-anchor="end">300</text>
+<line x1="54" y1="84" x2="690" y2="84" stroke="#d1d9e0" stroke-opacity="0.6"/><text x="46" y="88" fill="#818b98" font-size="11" text-anchor="end">400</text>
+<text x="124.7" y="318" fill="#818b98" font-size="11" text-anchor="middle">Feb 26</text>
+<text x="266" y="318" fill="#818b98" font-size="11" text-anchor="middle">Apr 26</text>
+<text x="407.3" y="318" fill="#818b98" font-size="11" text-anchor="middle">Jun 26</text>
+<text x="548.7" y="318" fill="#818b98" font-size="11" text-anchor="middle">Aug 26</text>
+<text x="690" y="318" fill="#818b98" font-size="11" text-anchor="middle">Oct 26</text>
+<g clip-path="url(#draw)"><polygon points="54,300 124.7,300 195.3,300 266,300 336.7,300 407.3,300 478,289.2 548.7,288.7 619.3,288.1 690,288.1 690,300 619.3,300 548.7,300 478,300 407.3,300 336.7,300 266,300 195.3,300 124.7,300 54,300" fill="#2a78d6" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,298.4 124.7,297.8 195.3,297.8 266,297.8 336.7,297.3 407.3,289.2 478,277.9 548.7,249.2 619.3,246 690,243.3 690,288.1 619.3,288.1 548.7,288.7 478,289.2 407.3,300 336.7,300 266,300 195.3,300 124.7,300 54,300" fill="#eb6834" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,295.7 124.7,295.1 195.3,294.1 266,294.1 336.7,293.5 407.3,273 478,261.7 548.7,232.5 619.3,224.9 690,213.1 690,243.3 619.3,246 548.7,249.2 478,277.9 407.3,289.2 336.7,297.3 266,297.8 195.3,297.8 124.7,297.8 54,298.4" fill="#1baf7a" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,295.7 124.7,295.1 195.3,294.1 266,293 336.7,291.9 407.3,271.4 478,259 548.7,229.8 619.3,213.6 690,181.2 690,213.1 619.3,224.9 548.7,232.5 478,261.7 407.3,273 336.7,293.5 266,294.1 195.3,294.1 124.7,295.1 54,295.7" fill="#eda100" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,294.6 124.7,293 195.3,289.7 266,288.7 336.7,286.5 407.3,266 478,253.6 548.7,223.9 619.3,200.6 690,168.2 690,181.2 619.3,213.6 548.7,229.8 478,259 407.3,271.4 336.7,291.9 266,293 195.3,294.1 124.7,295.1 54,295.7" fill="#e87ba4" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,292.4 124.7,290.8 195.3,287.6 266,286.5 336.7,284.3 407.3,263.8 478,251.4 548.7,221.2 619.3,175.8 690,143.4 690,168.2 619.3,200.6 548.7,223.9 478,253.6 407.3,266 336.7,286.5 266,288.7 195.3,289.7 124.7,293 54,294.6" fill="#008300" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,291.9 124.7,290.3 195.3,287 266,286 336.7,282.7 407.3,261.7 478,249.2 548.7,218.5 619.3,137.5 690,104 690,143.4 619.3,175.8 548.7,221.2 478,251.4 407.3,263.8 336.7,284.3 266,286.5 195.3,287.6 124.7,290.8 54,292.4" fill="#6250d6" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,286 124.7,282.2 195.3,276.2 266,273 336.7,269.2 407.3,248.2 478,235.7 548.7,205 619.3,122.3 690,88.9 690,104 619.3,137.5 548.7,218.5 478,249.2 407.3,261.7 336.7,282.7 266,286 195.3,287 124.7,290.3 54,291.9" fill="#e34948" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/></g>
+<circle cx="690" cy="88.9" r="4" fill="#1f2328"><animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.15;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="682" y="78.9" fill="#1f2328" font-size="13" font-weight="700" text-anchor="end">391</text>
+<line x1="694" y1="294.1" x2="706" y2="294.1" stroke="#2a78d6"/><text x="710" y="298.1" fill="#1f2328" font-size="11.5">Robinhood Chain <tspan fill="#59636e">22</tspan></text>
+<line x1="694" y1="265.7" x2="706" y2="265.7" stroke="#eb6834"/><text x="710" y="269.7" fill="#1f2328" font-size="11.5">x402 payments <tspan fill="#59636e">83</tspan></text>
+<line x1="694" y1="228.2" x2="706" y2="228.2" stroke="#1baf7a"/><text x="710" y="232.2" fill="#1f2328" font-size="11.5">MCP servers <tspan fill="#59636e">56</tspan></text>
+<line x1="694" y1="197.1" x2="706" y2="197.1" stroke="#eda100"/><text x="710" y="201.1" fill="#1f2328" font-size="11.5">3D AI agents <tspan fill="#59636e">59</tspan></text>
+<line x1="694" y1="174.7" x2="706" y2="174.7" stroke="#e87ba4"/><text x="710" y="178.7" fill="#1f2328" font-size="11.5">Solana <tspan fill="#59636e">24</tspan></text>
+<line x1="694" y1="155.8" x2="706" y2="155.8" stroke="#008300"/><text x="710" y="159.8" fill="#1f2328" font-size="11.5">DeFi mechanisms <tspan fill="#59636e">46</tspan></text>
+<line x1="694" y1="123.7" x2="706" y2="123.7" stroke="#6250d6"/><text x="710" y="127.7" fill="#1f2328" font-size="11.5">On-chain experiments <tspan fill="#59636e">73</tspan></text>
+<line x1="694" y1="96.4" x2="706" y2="96.4" stroke="#e34948"/><text x="710" y="100.4" fill="#1f2328" font-size="11.5">Developer tools <tspan fill="#59636e">28</tspan></text>
+</svg>

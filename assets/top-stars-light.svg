@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 434" width="900" height="434" role="img" aria-labelledby="t d" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<title id="t">Most-starred repositories</title>
+<desc id="d">fresh-start: 6229 stars; XActions: 579 stars; cryptocurrency.cv: 319 stars; three.ws: 230 stars; pump-fun-sdk: 134 stars; PAI: 113 stars; crypto-vision: 94 stars; agenti: 80 stars; universal-crypto-mcp: 42 stars; defi-agents: 35 stars; pump-swap-sdk: 35 stars; extract-llms-docs: 34 stars</desc>
+<text x="24" y="36" fill="#1f2328" font-size="19" font-weight="700">Most-starred</text>
+<text x="24" y="57" fill="#59636e" font-size="12.5">Stars per repository on a log scale, colored by section.</text>
+<line x1="214" y1="82" x2="214" y2="420" stroke="#d1d9e0" stroke-opacity="0.7"/><text x="214" y="76" fill="#818b98" font-size="11" text-anchor="middle">1</text>
+<line x1="365.5" y1="82" x2="365.5" y2="420" stroke="#d1d9e0" stroke-opacity="0.7"/><text x="365.5" y="76" fill="#818b98" font-size="11" text-anchor="middle">10</text>
+<line x1="517" y1="82" x2="517" y2="420" stroke="#d1d9e0" stroke-opacity="0.7"/><text x="517" y="76" fill="#818b98" font-size="11" text-anchor="middle">100</text>
+<line x1="668.5" y1="82" x2="668.5" y2="420" stroke="#d1d9e0" stroke-opacity="0.7"/><text x="668.5" y="76" fill="#818b98" font-size="11" text-anchor="middle">1k</text>
+<line x1="820" y1="82" x2="820" y2="420" stroke="#d1d9e0" stroke-opacity="0.7"/><text x="820" y="76" fill="#818b98" font-size="11" text-anchor="middle">10k</text>
+<text x="200" y="106" fill="#1f2328" font-size="13" text-anchor="end">fresh-start</text>
+<line x1="214" y1="102" x2="788.9" y2="102" stroke="#e34948" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" from="214" to="788.9" dur="1.3s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<circle cx="788.9" cy="102" r="6.5" fill="#e34948" stroke="#ffffff" stroke-width="2"><animate attributeName="cx" from="214" to="788.9" dur="1.3s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle>
+<text x="800.9" y="106" fill="#59636e" font-size="12" font-weight="600">6,229<animate attributeName="x" from="226" to="800.9" dur="1.3s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></text>
+<text x="200" y="133" fill="#1f2328" font-size="13" text-anchor="end">XActions</text>
+<line x1="214" y1="129" x2="632.5" y2="129" stroke="#1baf7a" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" from="214" to="632.5" dur="1.3s" begin="0.27s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<circle cx="632.5" cy="129" r="6.5" fill="#1baf7a" stroke="#ffffff" stroke-width="2"><animate attributeName="cx" from="214" to="632.5" dur="1.3s" begin="0.27s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle>
+<text x="644.5" y="133" fill="#59636e" font-size="12" font-weight="600">579<animate attributeName="x" from="226" to="644.5" dur="1.3s" begin="0.27s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></text>
+<text x="200" y="160" fill="#1f2328" font-size="13" text-anchor="end">cryptocurrency.cv</text>
+<line x1="214" y1="156" x2="593.3" y2="156" stroke="#008300" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" from="214" to="593.3" dur="1.3s" begin="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<circle cx="593.3" cy="156" r="6.5" fill="#008300" stroke="#ffffff" stroke-width="2"><animate attributeName="cx" from="214" to="593.3" dur="1.3s" begin="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle>
+<text x="605.3" y="160" fill="#59636e" font-size="12" font-weight="600">319<animate attributeName="x" from="226" to="605.3" dur="1.3s" begin="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></text>
+<text x="200" y="187" fill="#1f2328" font-size="13" text-anchor="end">three.ws</text>
+<line x1="214" y1="183" x2="571.8" y2="183" stroke="#eb6834" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" from="214" to="571.8" dur="1.3s" begin="0.41s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<circle cx="571.8" cy="183" r="6.5" fill="#eb6834" stroke="#ffffff" stroke-width="2"><animate attributeName="cx" from="214" to="571.8" dur="1.3s" begin="0.41s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle>
+<text x="583.8" y="187" fill="#59636e" font-size="12" font-weight="600">230<animate attributeName="x" from="226" to="583.8" dur="1.3s" begin="0.41s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></text>
+<text x="200" y="214" fill="#1f2328" font-size="13" text-anchor="end">pump-fun-sdk</text>
+<line x1="214" y1="210" x2="536.3" y2="210" stroke="#e87ba4" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" from="214" to="536.3" dur="1.3s" begin="0.48s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<circle cx="536.3" cy="210" r="6.5" fill="#e87ba4" stroke="#ffffff" stroke-width="2"><animate attributeName="cx" from="214" to="536.3" dur="1.3s" begin="0.48s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle>
+<text x="548.3" y="214" fill="#59636e" font-size="12" font-weight="600">134<animate attributeName="x" from="226" to="548.3" dur="1.3s" begin="0.48s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></text>
+<text x="200" y="241" fill="#1f2328" font-size="13" text-anchor="end">PAI</text>
+<line x1="214" y1="237" x2="525" y2="237" stroke="#e34948" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" from="214" to="525" dur="1.3s" begin="0.55s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<circle cx="525" cy="237" r="6.5" fill="#e34948" stroke="#ffffff" stroke-width="2"><animate attributeName="cx" from="214" to="525" dur="1.3s" begin="0.55s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle>
+<text x="537" y="241" fill="#59636e" font-size="12" font-weight="600">113<animate attributeName="x" from="226" to="537" dur="1.3s" begin="0.55s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></text>
+<text x="200" y="268" fill="#1f2328" font-size="13" text-anchor="end">crypto-vision</text>
+<line x1="214" y1="264" x2="512.9" y2="264" stroke="#008300" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" from="214" to="512.9" dur="1.3s" begin="0.62s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<circle cx="512.9" cy="264" r="6.5" fill="#008300" stroke="#ffffff" stroke-width="2"><animate attributeName="cx" from="214" to="512.9" dur="1.3s" begin="0.62s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle>
+<text x="524.9" y="268" fill="#59636e" font-size="12" font-weight="600">94<animate attributeName="x" from="226" to="524.9" dur="1.3s" begin="0.62s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></text>
+<text x="200" y="295" fill="#1f2328" font-size="13" text-anchor="end">agenti</text>
+<line x1="214" y1="291" x2="502.3" y2="291" stroke="#eb6834" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" from="214" to="502.3" dur="1.3s" begin="0.69s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<circle cx="502.3" cy="291" r="6.5" fill="#eb6834" stroke="#ffffff" stroke-width="2"><animate attributeName="cx" from="214" to="502.3" dur="1.3s" begin="0.69s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle>
+<text x="514.3" y="295" fill="#59636e" font-size="12" font-weight="600">80<animate attributeName="x" from="226" to="514.3" dur="1.3s" begin="0.69s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></text>
+<text x="200" y="322" fill="#1f2328" font-size="13" text-anchor="end">universal-crypto-mcp</text>
+<line x1="214" y1="318" x2="459.9" y2="318" stroke="#1baf7a" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" from="214" to="459.9" dur="1.3s" begin="0.76s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<circle cx="459.9" cy="318" r="6.5" fill="#1baf7a" stroke="#ffffff" stroke-width="2"><animate attributeName="cx" from="214" to="459.9" dur="1.3s" begin="0.76s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle>
+<text x="471.9" y="322" fill="#59636e" font-size="12" font-weight="600">42<animate attributeName="x" from="226" to="471.9" dur="1.3s" begin="0.76s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></text>
+<text x="200" y="349" fill="#1f2328" font-size="13" text-anchor="end">defi-agents</text>
+<line x1="214" y1="345" x2="447.9" y2="345" stroke="#008300" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" from="214" to="447.9" dur="1.3s" begin="0.83s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<circle cx="447.9" cy="345" r="6.5" fill="#008300" stroke="#ffffff" stroke-width="2"><animate attributeName="cx" from="214" to="447.9" dur="1.3s" begin="0.83s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle>
+<text x="459.9" y="349" fill="#59636e" font-size="12" font-weight="600">35<animate attributeName="x" from="226" to="459.9" dur="1.3s" begin="0.83s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></text>
+<text x="200" y="376" fill="#1f2328" font-size="13" text-anchor="end">pump-swap-sdk</text>
+<line x1="214" y1="372" x2="447.9" y2="372" stroke="#e87ba4" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" from="214" to="447.9" dur="1.3s" begin="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<circle cx="447.9" cy="372" r="6.5" fill="#e87ba4" stroke="#ffffff" stroke-width="2"><animate attributeName="cx" from="214" to="447.9" dur="1.3s" begin="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle>
+<text x="459.9" y="376" fill="#59636e" font-size="12" font-weight="600">35<animate attributeName="x" from="226" to="459.9" dur="1.3s" begin="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></text>
+<text x="200" y="403" fill="#1f2328" font-size="13" text-anchor="end">extract-llms-docs</text>
+<line x1="214" y1="399" x2="446" y2="399" stroke="#1baf7a" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" from="214" to="446" dur="1.3s" begin="0.97s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<circle cx="446" cy="399" r="6.5" fill="#1baf7a" stroke="#ffffff" stroke-width="2"><animate attributeName="cx" from="214" to="446" dur="1.3s" begin="0.97s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle>
+<text x="458" y="403" fill="#59636e" font-size="12" font-weight="600">34<animate attributeName="x" from="226" to="458" dur="1.3s" begin="0.97s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></text>
+</svg>

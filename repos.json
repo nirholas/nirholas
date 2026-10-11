@@ -42,7 +42,7 @@
 			"three-ws"
 		],
 		"language": "HTML",
-		"stars": 578,
+		"stars": 579,
 		"homepage": "https://xactions.app/features"
 	},
 	{
@@ -6365,7 +6365,11 @@
 			"ai-agents",
 			"web",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 3,
@@ -6393,7 +6397,9 @@
 			"ai-agents",
 			"three-js",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"javascript",
+			"llms-txt"
 		],
 		"language": "JavaScript",
 		"stars": 3,
@@ -6418,7 +6424,11 @@
 			"vision",
 			"agent",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 3,
@@ -6442,7 +6452,11 @@
 			"github",
 			"threejs",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 3,
@@ -6467,7 +6481,11 @@
 			"ai-agents",
 			"threejs",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 3,
@@ -6494,7 +6512,10 @@
 			"threejs",
 			"ai-agents",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt"
 		],
 		"language": "JavaScript",
 		"stars": 3,
@@ -6520,7 +6541,11 @@
 			"threejs",
 			"usdc",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 3,
@@ -8339,7 +8364,11 @@
 			"threejs",
 			"tts",
 			"widget",
-			"nodejs"
+			"nodejs",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8363,7 +8392,11 @@
 			"sdk",
 			"three-ws",
 			"threejs",
-			"web3"
+			"web3",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8388,7 +8421,11 @@
 			"web3",
 			"readyplayerme-alternative",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8443,7 +8480,11 @@
 			"support-chat",
 			"three-ws",
 			"threejs",
-			"nodejs"
+			"nodejs",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8496,7 +8537,11 @@
 			"threejs",
 			"validate",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8516,7 +8561,11 @@
 			"threejs",
 			"tool-policy",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8643,7 +8692,11 @@
 			"tool-result",
 			"validator",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8700,7 +8753,10 @@
 			"terminal",
 			"three-ws",
 			"threejs",
-			"tui"
+			"tui",
+			"agents-md",
+			"javascript",
+			"llms-txt"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8720,7 +8776,10 @@
 			"solana",
 			"three-ws",
 			"threejs",
-			"typescript"
+			"typescript",
+			"agents-md",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "TypeScript",
 		"stars": 1,
@@ -8746,7 +8805,11 @@
 			"sdk",
 			"three-js",
 			"three-ws",
-			"threejs"
+			"threejs",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8770,7 +8833,11 @@
 			"three-ws",
 			"threejs",
 			"tts",
-			"widget"
+			"widget",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8797,7 +8864,10 @@
 			"gemini",
 			"grok-bot",
 			"sdk",
-			"threejs"
+			"threejs",
+			"agents-md",
+			"javascript",
+			"llms-txt"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8821,7 +8891,11 @@
 			"threejs",
 			"trellis",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8845,7 +8919,11 @@
 			"trust-layer",
 			"watsonx",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8874,7 +8952,8 @@
 			"nodejs",
 			"quests",
 			"sdk",
-			"solana"
+			"solana",
+			"javascript"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8898,7 +8977,11 @@
 			"threejs",
 			"webcam",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8923,7 +9006,11 @@
 			"usdc",
 			"x402",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8949,7 +9036,11 @@
 			"three-ws",
 			"threejs",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8970,7 +9061,11 @@
 			"threejs",
 			"walk",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -8994,7 +9089,11 @@
 			"threejs",
 			"trust-score",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -9079,7 +9178,11 @@
 			"tts",
 			"visemes",
 			"nodejs",
-			"sdk"
+			"sdk",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -9106,7 +9209,10 @@
 			"floor-reflection",
 			"visage-derived",
 			"sdk",
-			"threejs"
+			"threejs",
+			"agents-md",
+			"javascript",
+			"llms-txt"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -9129,7 +9235,11 @@
 			"mcp-server",
 			"model-context-protocol",
 			"threejs",
-			"nodejs"
+			"nodejs",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 1,
@@ -9419,7 +9529,11 @@
 			"risk-management",
 			"solana",
 			"trading-bot",
-			"typescript"
+			"typescript",
+			"agents-md",
+			"ai-agents",
+			"open-source",
+			"three-ws"
 		],
 		"language": "TypeScript",
 		"stars": 0,
@@ -9474,7 +9588,11 @@
 			"pumpfun",
 			"telegram-bot",
 			"trading-bot",
-			"typescript"
+			"typescript",
+			"agents-md",
+			"llms-txt",
+			"open-source",
+			"three-ws"
 		],
 		"language": "TypeScript",
 		"stars": 0,
@@ -9557,7 +9675,11 @@
 			"three-ws",
 			"mcp-server",
 			"threejs",
-			"nodejs"
+			"nodejs",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 0,
@@ -9670,7 +9792,11 @@
 			"spl",
 			"three-ws",
 			"sdk",
-			"threejs"
+			"threejs",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 0,
@@ -9691,7 +9817,11 @@
 			"three-ws",
 			"threejs",
 			"onchain-media",
-			"nodejs"
+			"nodejs",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
 		],
 		"language": "JavaScript",
 		"stars": 0,
@@ -9898,7 +10028,8 @@
 			"threejs",
 			"walking",
 			"webgl",
-			"zero-dependencies"
+			"zero-dependencies",
+			"llms-txt"
 		],
 		"language": "JavaScript",
 		"stars": 0,

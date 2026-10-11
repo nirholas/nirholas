@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it as below.
 title: "nirholas"
-abstract: "Open-source tooling for 3D AI agents, agent payments and on-chain builders. Catalog of every public repository."
+abstract: "Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. Catalog of every public repository."
 repository-code: "https://github.com/nirholas/nirholas"
-url: "https://three.ws"
+url: "https://github.com/nirholas"
 authors:
-  - name: three.ws
-    website: "https://three.ws"
+  - alias: nirholas
+    website: "https://github.com/nirholas"

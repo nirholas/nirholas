@@ -1,32 +1,79 @@
 # nirholas
 
-> Open-source tooling for 3D AI agents, agent payments and on-chain builders. Catalog of every public repository.
+> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 391 public repositories.
+
+## Catalog
+
+- [Full machine-readable list](https://github.com/nirholas/nirholas/blob/main/repos.json): name, description, topics, language and stars for every repo
+- [Human catalog](https://github.com/nirholas/nirholas#readme): grouped by topic
+
+## Sections
+
+- Robinhood Chain: 22 repositories
+- x402 payments and agent commerce: 83 repositories
+- MCP servers for AI agents: 56 repositories
+- 3D AI agents and avatars: 59 repositories
+- Solana and pump.fun tooling: 24 repositories
+- DeFi mechanisms and Uniswap v4 hooks: 46 repositories
+- On-chain experiments and collectibles: 73 repositories
+- Developer tools and everything else: 28 repositories
+
+## Featured
+
+- [fresh-start](https://github.com/nirholas/fresh-start): The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with...
+- [XActions](https://github.com/nirholas/XActions): ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No...
+- [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv): Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required....
+- [three.ws](https://github.com/nirholas/three.ws): Open-source platform for 3D AI agents. Turn text or a photo into a rigged, animated GLB avatar, give it an LLM brain...
+- [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk): Token creation launching, bonding curve trading, AMM migration, tiered fees, creator fee sharing, vanity keygen, MCP...
+- [PAI](https://github.com/nirholas/PAI): A complete private computer on a USB stick. PAI is a bootable Debian 12 Linux distro that runs Ollama locally on any...
+
+---
 
 <h1 align="center">nirholas</h1>
 
-<p align="center"><b>Open-source tooling for 3D AI agents, agent payments and on-chain builders.</b><br/>391 public repositories, all documented for people and for AI agents.</p>
+<p align="center"><b>I build open-source software: AI agents, MCP servers, 3D, on-chain tooling and developer tools.</b><br/>391 public repositories, each documented for people and for AI agents.</p>
 
 <p align="center">
-<a href="https://three.ws"><img alt="three.ws" src="https://img.shields.io/badge/platform-three.ws-6d5dfc?style=for-the-badge"/></a>
-<a href="https://github.com/nirholas?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/nirholas?style=for-the-badge&logo=github"/></a>
-<a href="https://github.com/nirholas/three.ws"><img alt="three.ws stars" src="https://img.shields.io/github/stars/nirholas/three.ws?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/nirholas?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/nirholas?style=for-the-badge&logo=github&label=followers"/></a>
+<a href="https://github.com/nirholas?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/nirholas?affiliations=OWNER&style=for-the-badge&logo=github&label=stars"/></a>
+<a href="https://github.com/nirholas?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-391-6250d6?style=for-the-badge&logo=github"/></a>
 </p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="391 repositories, 10031 stars" src="./assets/stats-light.svg" width="100%"/></picture></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/planet-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/planet-light.svg"/><img alt="A rotating 3D planet with one point per repository, sized by stars and colored by section" src="./assets/planet-light.svg" width="100%"/></picture></p>
 
 ## Start here
 
 - [fresh-start](https://github.com/nirholas/fresh-start) ★6229: The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with Anthropic and Github...
-- [XActions](https://github.com/nirholas/XActions) ★578: ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open...
+- [XActions](https://github.com/nirholas/XActions) ★579: ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open...
 - [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) ★319: Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST...
 - [three.ws](https://github.com/nirholas/three.ws) ★230: Open-source platform for 3D AI agents. Turn text or a photo into a rigged, animated GLB avatar, give it an LLM brain, memory and a wallet...
 - [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) ★134: Token creation launching, bonding curve trading, AMM migration, tiered fees, creator fee sharing, vanity keygen, MCP server, Telegram bot &...
 - [PAI](https://github.com/nirholas/PAI) ★113: A complete private computer on a USB stick. PAI is a bootable Debian 12 Linux distro that runs Ollama locally on any x86_64 or ARM64...
 
-**Find your way:** use the repository topics on the left of any repo, or jump to a section below. Every repo ships a README, an [AGENTS.md](https://agents.md) and an [llms.txt](https://llmstxt.org) so a coding agent can pick it up cold. The full machine-readable list is [repos.json](./repos.json).
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/top-stars-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/top-stars-light.svg"/><img alt="The most-starred repositories on a log scale" src="./assets/top-stars-light.svg" width="100%"/></picture>
+
+## By the numbers
+
+Every chart below is rendered from the live GitHub listing each time the catalog is rebuilt, so the numbers are always current.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/city-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/city-light.svg"/><img alt="An isometric city with one tower per repository, height by stars, one district per section" src="./assets/city-light.svg" width="100%"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/growth-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/growth-light.svg"/><img alt="Cumulative repositories over time, stacked by section" src="./assets/growth-light.svg" width="100%"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg"/><img alt="A spinning 3D donut of primary languages" src="./assets/languages-light.svg" width="100%"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/punchcard-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/punchcard-light.svg"/><img alt="Punchcard of when repositories were created, by weekday and hour" src="./assets/punchcard-light.svg" width="100%"/></picture>
+
+## Find your way
+
+Use the repository topics on the left of any repo, or jump to a section below. Every repo ships a README, an [AGENTS.md](https://agents.md) and an [llms.txt](https://llmstxt.org) so a coding agent can pick it up cold. The full machine-readable list is [repos.json](./repos.json).
 
 - [Robinhood Chain](#robinhood-chain) (22)
 - [x402 payments and agent commerce](#x402-payments-and-agent-commerce) (83)
 - [MCP servers for AI agents](#mcp-servers-for-ai-agents) (56)
-- [three.ws platform and 3D agents](#threews-platform-and-3d-agents) (59)
+- [3D AI agents and avatars](#3d-ai-agents-and-avatars) (59)
 - [Solana and pump.fun tooling](#solana-and-pumpfun-tooling) (24)
 - [DeFi mechanisms and Uniswap v4 hooks](#defi-mechanisms-and-uniswap-v4-hooks) (46)
 - [On-chain experiments and collectibles](#on-chain-experiments-and-collectibles) (73)
@@ -164,7 +211,7 @@ Model Context Protocol servers that give any MCP client new abilities.
 <details>
 <summary>56 repositories</summary>
 
-- [XActions](https://github.com/nirholas/XActions) ★578: ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open...
+- [XActions](https://github.com/nirholas/XActions) ★579: ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open...
 - [universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) ★42: Universal MCP server for AI agents to interact with any* blockchain via natural language and plugins. Supports swaps, bridges, gas...
 - [extract-llms-docs](https://github.com/nirholas/extract-llms-docs) ★34: Extract documentation for AI agents from any site with llms.txt support. Features MCP server, REST API, batch processing, and multiple...
 - [github-to-mcp](https://github.com/nirholas/github-to-mcp) ★32: Convert GitHub repositories to MCP servers automatically. Extract tools from OpenAPI, GraphQL & REST APIs for Claude Desktop, Cursor...
@@ -223,9 +270,9 @@ Model Context Protocol servers that give any MCP client new abilities.
 
 </details>
 
-## three.ws platform and 3D agents
+## 3D AI agents and avatars
 
-The platform for 3D AI agents with Solana wallets, its SDKs, CLIs and the avatar toolchain.
+Agents with 3D bodies, wallets and memory, plus the SDKs, CLIs and avatar toolchain around them.
 
 <details>
 <summary>59 repositories</summary>
@@ -503,12 +550,10 @@ Utilities, data tools and side projects.
 
 </details>
 
-## Why star and follow
+## Say hi
 
-Stars are how developers and AI agents decide which repositories to trust. If something here helped you, a star takes one click and tells the next person it is worth their time. Follow [@nirholas](https://github.com/nirholas) to see new releases, and open a Discussion on any repo if you want to build with it.
+If something here helped you, a star takes one click and tells the next person it is worth their time. [Follow @nirholas](https://github.com/nirholas) to see new releases, and open an issue or a Discussion on any repo if you want to build with it.
 
-- Platform: [three.ws](https://three.ws)
-- Live site feeds: [changelog](https://three.ws/changelog) and [llms.txt](https://three.ws/llms.txt)
-- Contact: [support@three.ws](mailto:support@three.ws)
+Coding agents and LLM tooling can read this profile directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt) and [repos.json](./repos.json).
 
-<p align="center"><sub>Catalog generated from the live GitHub listing by <code>scripts/build-github-profile.mjs</code> in <a href="https://github.com/nirholas/three.ws">three.ws</a> (391 repositories, 10030 stars across them).</sub></p>
+<p align="center"><sub>Catalog and charts regenerated from the live GitHub listing: 391 repositories, 10031 stars.</sub></p>

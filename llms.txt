@@ -1,6 +1,6 @@
 # nirholas
 
-> Open-source tooling for 3D AI agents, agent payments and on-chain builders. 391 public repositories by nirholas, part of the three.ws ecosystem.
+> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 391 public repositories.
 
 ## Catalog
 
@@ -12,7 +12,7 @@
 - Robinhood Chain: 22 repositories
 - x402 payments and agent commerce: 83 repositories
 - MCP servers for AI agents: 56 repositories
-- three.ws platform and 3D agents: 59 repositories
+- 3D AI agents and avatars: 59 repositories
 - Solana and pump.fun tooling: 24 repositories
 - DeFi mechanisms and Uniswap v4 hooks: 46 repositories
 - On-chain experiments and collectibles: 73 repositories
@@ -26,8 +26,3 @@
 - [three.ws](https://github.com/nirholas/three.ws): Open-source platform for 3D AI agents. Turn text or a photo into a rigged, animated GLB avatar, give it an LLM brain...
 - [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk): Token creation launching, bonding curve trading, AMM migration, tiered fees, creator fee sharing, vanity keygen, MCP...
 - [PAI](https://github.com/nirholas/PAI): A complete private computer on a USB stick. PAI is a bootable Debian 12 Linux distro that runs Ollama locally on any...
-
-## Platform
-
-- [three.ws](https://three.ws): the platform
-- [three.ws llms.txt](https://three.ws/llms.txt)
