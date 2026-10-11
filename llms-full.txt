@@ -1,6 +1,6 @@
 # nirholas
 
-> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 391 public repositories.
+> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 401 public repositories.
 
 ## Catalog
 
@@ -10,12 +10,12 @@
 ## Sections
 
 - Robinhood Chain: 22 repositories
-- x402 payments and agent commerce: 83 repositories
+- x402 payments and agent commerce: 84 repositories
 - MCP servers for AI agents: 56 repositories
 - 3D AI agents and avatars: 59 repositories
 - Solana and pump.fun tooling: 24 repositories
-- DeFi mechanisms and Uniswap v4 hooks: 46 repositories
-- On-chain experiments and collectibles: 73 repositories
+- DeFi mechanisms and Uniswap v4 hooks: 54 repositories
+- On-chain experiments and collectibles: 74 repositories
 - Developer tools and everything else: 28 repositories
 
 ## Featured
@@ -31,17 +31,23 @@
 
 <h1 align="center">nirholas</h1>
 
-<p align="center"><b>I build open-source software: AI agents, MCP servers, 3D, on-chain tooling and developer tools.</b><br/>391 public repositories, each documented for people and for AI agents.</p>
+<p align="center"><b>I build open-source software: AI agents, MCP servers, 3D, on-chain tooling and developer tools.</b><br/>401 public repositories, each documented for people and for AI agents.</p>
 
 <p align="center">
 <a href="https://github.com/nirholas?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/nirholas?style=for-the-badge&logo=github&label=followers"/></a>
 <a href="https://github.com/nirholas?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/nirholas?affiliations=OWNER&style=for-the-badge&logo=github&label=stars"/></a>
-<a href="https://github.com/nirholas?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-391-6250d6?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/nirholas?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-401-6250d6?style=for-the-badge&logo=github"/></a>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="391 repositories, 10031 stars" src="./assets/stats-light.svg" width="100%"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="401 repositories, 10043 stars" src="./assets/stats-light.svg" width="100%"/></picture></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/planet-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/planet-light.svg"/><img alt="A rotating 3D planet with one point per repository, sized by stars and colored by section" src="./assets/planet-light.svg" width="100%"/></picture></p>
+
+## About
+
+I studied Marketing and Computer Science at the University of Washington and finished with a double bachelor's. I have done security research for Apple, AT&T, Microsoft, Google, the U.S. Department of Defense and the State of California. Before building open source full time I wrote full-stack software for some of the largest companies and brands, and I write and contribute at Entrepreneur Magazine.
+
+Today I ship in public: AI agents, MCP servers, 3D, on-chain tooling and the developer tools around them, all documented so a person or a coding agent can pick them up cold.
 
 ## Start here
 
@@ -61,22 +67,54 @@ Every chart below is rendered from the live GitHub listing each time the catalog
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/city-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/city-light.svg"/><img alt="An isometric city with one tower per repository, height by stars, one district per section" src="./assets/city-light.svg" width="100%"/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/growth-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/growth-light.svg"/><img alt="Cumulative repositories over time, stacked by section" src="./assets/growth-light.svg" width="100%"/></picture>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg"/><img alt="A spinning 3D donut of primary languages" src="./assets/languages-light.svg" width="100%"/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/punchcard-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/punchcard-light.svg"/><img alt="Punchcard of when repositories were created, by weekday and hour" src="./assets/punchcard-light.svg" width="100%"/></picture>
+
+## How I build
+
+Pulled from the GitHub API on October 11, 2026. Commit counts and streaks include private repositories as counts only. Lines and hours come from public repositories, with any commit over 20,000 changed lines left out as a bulk import. Hours are not a stopwatch: a day counts each clock hour (UTC) in which at least one commit landed, so it cannot pass 24.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-volume-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/activity-volume-light.svg"/><img alt="Commits, lines added and lines removed over the last 12 months" src="./assets/activity-volume-light.svg" width="100%"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-habit-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/activity-habit-light.svg"/><img alt="Hours with a push, active days and longest streak" src="./assets/activity-habit-light.svg" width="100%"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-calendar-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/activity-calendar-light.svg"/><img alt="Calendar of daily commit counts for the last 365 days" src="./assets/activity-calendar-light.svg" width="100%"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-lines-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/activity-lines-light.svg"/><img alt="Lines added and removed per month" src="./assets/activity-lines-light.svg" width="100%"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-hours-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/activity-hours-light.svg"/><img alt="Hours of the day with a push for each of the last 90 days" src="./assets/activity-hours-light.svg" width="100%"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-rhythm-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/activity-rhythm-light.svg"/><img alt="Punchcard of commits by weekday and hour" src="./assets/activity-rhythm-light.svg" width="100%"/></picture>
+
+- Busiest day: January 26, 2026 with 5,417 commits.
+- Biggest day for lines: August 7, 2026 with 775,578 lines changed.
+- Most hours with a push in one day: 24 on January 9, 2026.
+- Last 30 days: 3,103 commits, 1,036,134 lines added and 138,527 removed, pushes in 123 separate hours on 28 active days.
+- Current streak: 4 days. Longest: 127 days, ending August 30, 2026.
+
+| Where the lines went | Commits | Added | Removed |
+|---|---:|---:|---:|
+| [three.ws](https://github.com/nirholas/three.ws) | 9,192 | 5,025,624 | 1,255,412 |
+| [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) | 1,127 | 1,196,125 | 202,050 |
+| [three-ui](https://github.com/nirholas/three-ui) | 533 | 446,945 | 132,368 |
+| [XActions](https://github.com/nirholas/XActions) | 438 | 425,537 | 58,802 |
+| [crypto-vision](https://github.com/nirholas/crypto-vision) | 142 | 268,018 | 27,752 |
+| [universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) | 417 | 241,508 | 23,590 |
+| [crypto-data-aggregator](https://github.com/nirholas/crypto-data-aggregator) | 85 | 122,439 | 26,303 |
+| [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) | 3,602 | 110,057 | 13,045 |
 
 ## Find your way
 
 Use the repository topics on the left of any repo, or jump to a section below. Every repo ships a README, an [AGENTS.md](https://agents.md) and an [llms.txt](https://llmstxt.org) so a coding agent can pick it up cold. The full machine-readable list is [repos.json](./repos.json).
 
 - [Robinhood Chain](#robinhood-chain) (22)
-- [x402 payments and agent commerce](#x402-payments-and-agent-commerce) (83)
+- [x402 payments and agent commerce](#x402-payments-and-agent-commerce) (84)
 - [MCP servers for AI agents](#mcp-servers-for-ai-agents) (56)
 - [3D AI agents and avatars](#3d-ai-agents-and-avatars) (59)
 - [Solana and pump.fun tooling](#solana-and-pumpfun-tooling) (24)
-- [DeFi mechanisms and Uniswap v4 hooks](#defi-mechanisms-and-uniswap-v4-hooks) (46)
-- [On-chain experiments and collectibles](#on-chain-experiments-and-collectibles) (73)
+- [DeFi mechanisms and Uniswap v4 hooks](#defi-mechanisms-and-uniswap-v4-hooks) (54)
+- [On-chain experiments and collectibles](#on-chain-experiments-and-collectibles) (74)
 - [Developer tools and everything else](#developer-tools-and-everything-else) (28)
 
 ## Robinhood Chain
@@ -116,7 +154,7 @@ SDKs, bots, alerts and tooling for Robinhood Chain.
 Pay-per-call APIs and the clients, gates and facilitators that let agents buy.
 
 <details open>
-<summary>83 repositories</summary>
+<summary>84 repositories</summary>
 
 - [three.ws](https://github.com/nirholas/three.ws) ★230: Open-source platform for 3D AI agents. Turn text or a photo into a rigged, animated GLB avatar, give it an LLM brain, memory and a wallet...
 - [agenti](https://github.com/nirholas/agenti) ★80: Give any AI agent a crypto wallet. Agents deserve access to money. Pay x402 APIs, receive USDC, check balances: autonomously. Works with...
@@ -197,6 +235,7 @@ Pay-per-call APIs and the clients, gates and facilitators that let agents buy.
 - [x402-preflight](https://github.com/nirholas/x402-preflight) ★3: Ask an x402 seller whether it can actually settle, before you sign anything. Fetches and verifies a signed, time-bounded payability...
 - [agent-capability-card](https://github.com/nirholas/agent-capability-card) ★2: Generate machine-readable agent endpoint, pricing, and capability metadata.
 - [agent-runtime](https://github.com/nirholas/agent-runtime) ★1: The three.ws agent engine: a plan/execute decision loop with human-approval gates, a seven-layer GuardChain (security blacklist...
+- [papertrade-x402](https://github.com/nirholas/papertrade-x402) ★1: Pay-per-call Papertrade intelligence API for AI agents over x402: liquidation risk, liquidation maps, settlement estimates and top-trader...
 - [three-ws-names](https://github.com/nirholas/three-ws-names) ★1: ENS + SNS name resolution, *.threews.sol subdomain minting, and pay-by-name in one import. The three.ws agent-identity SDK.
 - [knock-sdk](https://github.com/nirholas/knock-sdk): Reach a real person, and pay their price to do it. Every three.ws account can publish a priced door; paying it buys one message through...
 - [names](https://github.com/nirholas/names): ENS + SNS name resolution, *.threews.sol subdomain minting, and pay-by-name in one import. The three.ws agent-identity SDK.
@@ -250,6 +289,7 @@ Model Context Protocol servers that give any MCP client new abilities.
 - [home-bridge](https://github.com/nirholas/home-bridge) ★3: Connect a three.ws agent to a real Home Assistant instance: live entity state, safe service calls, a room graph for the 3D scene, and the...
 - [home-mcp](https://github.com/nirholas/home-mcp) ★3: Give any MCP assistant safe control of a real Home Assistant house: floors, rooms and live state, the household's own scenes, and service...
 - [three-ws-portal](https://github.com/nirholas/three-ws-portal) ★3: Turn any website into a walkable 3D world. Reads a page's real structure and lays out a city from it: sections become buildings, links...
+- [pulse](https://github.com/nirholas/pulse) ★2: Open-source market intelligence for the Solana and Robinhood Chain trenches: launches, runners, wallets, daily Telegram newsletter...
 - [assistant-mcp](https://github.com/nirholas/assistant-mcp) ★1: Generate a paste-ready three.ws assistant widget from any AI agent. build_assistant_widget turns a config into an embeddable <script> tag...
 - [blender-mcp](https://github.com/nirholas/blender-mcp) ★1: Drive the Blender on your machine from any AI agent, headless. Inspect a 3D file, convert between...
 - [concierge-mcp](https://github.com/nirholas/concierge-mcp) ★1: Ask any website's AI concierge a grounded question, and generate the copy-paste embed code to add a three.ws Concierge (an AI chat widget...
@@ -263,7 +303,6 @@ Model Context Protocol servers that give any MCP client new abilities.
 - [papertrade-ai](https://github.com/nirholas/papertrade-ai): Trade Papertrade BTC and ETH perps from Claude, ChatGPT, Codex, Cursor, Gemini CLI and VS Code. MCP server with OAuth, non-custodial...
 - [perpad](https://github.com/nirholas/perpad): Autonomous perp-trading agents on Hyperliquid with hard risk limits enforced in code, a tamper-evident public journal, paper + live modes...
 - [portal](https://github.com/nirholas/portal): Turn any website into a walkable 3D world. Reads a page's real structure and lays out a city from it: sections become buildings, links...
-- [pulse](https://github.com/nirholas/pulse): Open-source market intelligence for the Solana and Robinhood Chain trenches: launches, runners, wallets, daily Telegram newsletter...
 - [scene-mcp](https://github.com/nirholas/scene-mcp): Speak 3D worlds into being from any AI agent. compose_scene turns one sentence into a placed diorama plan (mood, palette, and single-object...
 - [solana-memo-media-mcp](https://github.com/nirholas/solana-memo-media-mcp): Extract, validate, and display image data URIs embedded in Solana SPL Memo instructions. Read-only, local decoding, no key required.
 - [three-ws-agent-cli](https://github.com/nirholas/three-ws-agent-cli): Run a three.ws agent on your own machine or VPS: a terminal UI with slash commands, streaming tool output, local file and shell tools in a...
@@ -378,7 +417,7 @@ Wallets, SDKs, claims, vanity addresses and launch tooling on Solana.
 Research-grade mechanism designs: hooks, curves, auctions and fee models.
 
 <details>
-<summary>46 repositories</summary>
+<summary>54 repositories</summary>
 
 - [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) ★319: Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST...
 - [crypto-vision](https://github.com/nirholas/crypto-vision) ★94: The most comprehensive cryptocurrency API. Real-time prices, OHLCV, order books & market cap for 10,000+ tokens across 500+ exchanges. DeFi...
@@ -426,6 +465,14 @@ Research-grade mechanism designs: hooks, curves, auctions and fee models.
 - [priority-fee-modeler](https://github.com/nirholas/priority-fee-modeler) ★2: Model total v1 priority fees for bandwidth-heavy transactions without instruction scanning.
 - [oracle-desk](https://github.com/nirholas/oracle-desk) ★1: Self-custody autonomous trading desk for Solana launches: radar, research seats, risk desk, execution, audit loop and a head of desk that...
 - [paired.exchange](https://github.com/nirholas/paired.exchange) ★1: Launch a coin paired with real stocks. Permissionless, fixed supply, liquidity nobody can pull. On Robinhood Chain. Every coin here is...
+- [papertrade-alerts](https://github.com/nirholas/papertrade-alerts) ★1: Self-hostable Papertrade alerts: Telegram, Discord and signed-webhook notifications for liquidation risk, opens, closes and staking...
+- [papertrade-analytics](https://github.com/nirholas/papertrade-analytics) ★1: Live protocol analytics dashboard and keyless JSON API for Papertrade on HyperEVM: TVL, volume, open interest, LP equity, PAPER economics...
+- [papertrade-copytrade](https://github.com/nirholas/papertrade-copytrade) ★1: Copy-trading CLI and library for Papertrade 1000x perps on HyperEVM: rank leaders, mirror trades with a trading-only session key behind...
+- [papertrade-explorer](https://github.com/nirholas/papertrade-explorer) ★1: Block-explorer-style site for Papertrade wallets, positions, intents and leaderboards on HyperEVM, with transaction calldata decoding and...
+- [papertrade-liquidations](https://github.com/nirholas/papertrade-liquidations) ★1: Live liquidation map, heatmap and closest-to-bust feed for Papertrade 1000x perps on HyperEVM, with a cascade stat and a JSON API....
+- [papertrade-sdk](https://github.com/nirholas/papertrade-sdk) ★1: TypeScript SDK for Papertrade, the 1000x on-chain perps exchange on Hyperliquid HyperEVM: API client, live stream, EIP-712 intent signing...
+- [papertrade-terminal](https://github.com/nirholas/papertrade-terminal) ★1: Non-custodial trading terminal for Papertrade perps on HyperEVM: wallet connect, session keys, live charts, positions, deposits...
+- [papertrade-yield](https://github.com/nirholas/papertrade-yield) ★1: PAPER staking and yield dashboard for Papertrade on HyperEVM: mint curve, realized USDC reward history, wallet view and wallet-signed...
 
 </details>
 
@@ -434,7 +481,7 @@ Research-grade mechanism designs: hooks, curves, auctions and fee models.
 Small, shippable ideas that live fully on-chain: receipts, postcards, mints and byte-level curiosities.
 
 <details>
-<summary>73 repositories</summary>
+<summary>74 repositories</summary>
 
 - [boosty](https://github.com/nirholas/boosty) ★29: Boosty MCP servers for DeFi - Volume generation, trading, and wallet management
 - [atomic](https://github.com/nirholas/atomic) ★16: Atomic scripts for launching, collecting fees from, and trading pump.fun coins. Built around Jito bundles for atomicity across multiple...
@@ -506,6 +553,7 @@ Small, shippable ideas that live fully on-chain: receipts, postcards, mints and 
 - [viral-mint-card](https://github.com/nirholas/viral-mint-card) ★2: Generate a clean social card and verifiable launch-facts payload for any mint.
 - [winternitz-lab](https://github.com/nirholas/winternitz-lab) ★2: Explore transaction sizing for Winternitz one-time signature payloads.
 - [zk-proof-packer](https://github.com/nirholas/zk-proof-packer) ★2: Size ZK proof bytes, public inputs, and instructions before building a v1 transaction.
+- [paper-exchange](https://github.com/nirholas/paper-exchange) ★1: Paper trading for AI agents over MCP. Real Hyperliquid prices, fake money: leveraged perps, limit orders, stop-loss, liquidation...
 - [promptpad](https://github.com/nirholas/promptpad) ★1: Launch a token from a prompt: Claude MCP connector + launchpad on Robinhood Chain and Solana. Bonding curve, locked liquidity at...
 - [agents-sdk](https://github.com/nirholas/agents-sdk): TypeScript SDK for the three.ws v1 Agents API: create, start and chat with AI agents, run goals, automate, and trade from Solana agent...
 - [skill-license](https://github.com/nirholas/skill-license): On-chain skill licenses for agents: each purchased skill is a 1/1 SPL NFT plus a deterministic SkillLicense PDA. Mint, verify, and read...
@@ -556,4 +604,4 @@ If something here helped you, a star takes one click and tells the next person i
 
 Coding agents and LLM tooling can read this profile directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt) and [repos.json](./repos.json).
 
-<p align="center"><sub>Catalog and charts regenerated from the live GitHub listing: 391 repositories, 10031 stars.</sub></p>
+<p align="center"><sub>Catalog and charts regenerated from the live GitHub listing: 401 repositories, 10043 stars.</sub></p>

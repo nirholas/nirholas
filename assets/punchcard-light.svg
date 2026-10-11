@@ -86,6 +86,8 @@
 <circle class="p" style="animation-delay:1.01s" cx="825.9" cy="256" r="2" fill="#2a78d6" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:1.04s" cx="859.3" cy="256" r="2" fill="#2a78d6" fill-opacity="0.36"/>
 <text x="60" y="292" fill="#59636e" font-size="12" text-anchor="end">Sun</text><line x1="74" y1="288" x2="876" y2="288" stroke="#d1d9e0" stroke-opacity="0.5"/>
+<circle class="p" style="animation-delay:0.49s" cx="191" cy="288" r="5.2" fill="#2a78d6" fill-opacity="0.43"/>
+<circle class="p" style="animation-delay:0.52s" cx="224.4" cy="288" r="2" fill="#2a78d6" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.55s" cx="257.8" cy="288" r="2.4" fill="#2a78d6" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.73s" cx="458.3" cy="288" r="6.9" fill="#2a78d6" fill-opacity="0.5"/>
 <circle class="p" style="animation-delay:0.85s" cx="592" cy="288" r="2" fill="#2a78d6" fill-opacity="0.36"/>

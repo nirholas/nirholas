@@ -1,6 +1,6 @@
 # nirholas
 
-> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 391 public repositories.
+> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 401 public repositories.
 
 ## Catalog
 
@@ -10,12 +10,12 @@
 ## Sections
 
 - Robinhood Chain: 22 repositories
-- x402 payments and agent commerce: 83 repositories
+- x402 payments and agent commerce: 84 repositories
 - MCP servers for AI agents: 56 repositories
 - 3D AI agents and avatars: 59 repositories
 - Solana and pump.fun tooling: 24 repositories
-- DeFi mechanisms and Uniswap v4 hooks: 46 repositories
-- On-chain experiments and collectibles: 73 repositories
+- DeFi mechanisms and Uniswap v4 hooks: 54 repositories
+- On-chain experiments and collectibles: 74 repositories
 - Developer tools and everything else: 28 repositories
 
 ## Featured
