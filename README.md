@@ -57,6 +57,8 @@ Every chart below is rendered from the live GitHub listing each time the catalog
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/punchcard-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/punchcard-light.svg"/><img alt="Punchcard of when repositories were created, by weekday and hour" src="./assets/punchcard-light.svg" width="100%"/></picture>
 
+<a href="https://www.star-history.com/nirholas"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=nirholas/fresh-start,nirholas/XActions,nirholas/cryptocurrency.cv,nirholas/three.ws,nirholas/pump-fun-sdk,nirholas/PAI&type=Date&theme=dark"/><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=nirholas/fresh-start,nirholas/XActions,nirholas/cryptocurrency.cv,nirholas/three.ws,nirholas/pump-fun-sdk,nirholas/PAI&type=Date"/><img alt="Star history of the most-starred repositories" src="https://api.star-history.com/svg?repos=nirholas/fresh-start,nirholas/XActions,nirholas/cryptocurrency.cv,nirholas/three.ws,nirholas/pump-fun-sdk,nirholas/PAI&type=Date" width="100%"/></picture></a>
+
 ## How I build
 
 Pulled from the GitHub API on October 11, 2026. Commit counts and streaks include private repositories as counts only. Lines and hours come from public repositories, with any commit over 20,000 changed lines left out as a bulk import. Hours are not a stopwatch: a day counts each clock hour (UTC) in which at least one commit landed, so it cannot pass 24.
