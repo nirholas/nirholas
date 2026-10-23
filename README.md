@@ -4,10 +4,11 @@
 
 <p align="center">
 <a href="https://github.com/nirholas?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/nirholas?style=for-the-badge&logo=github&label=followers"/></a>
-<a href="https://www.star-history.com/nirholas"><img alt="Top Committer 2026" src="https://api.star-history.com/badge?user=nirholas&year=2026" height="44" align="middle"/></a>
 <a href="https://github.com/nirholas?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/nirholas?affiliations=OWNER&style=for-the-badge&logo=github&label=stars"/></a>
 <a href="https://github.com/nirholas?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-401-6250d6?style=for-the-badge&logo=github"/></a>
 </p>
+
+<p align="center"><a href="https://www.star-history.com/nirholas"><img alt="GitHub Top Committer 2026, global rank" src="https://api.star-history.com/badge?user=nirholas&year=2026" height="64"/></a></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="401 repositories, 10043 stars" src="./assets/stats-light.svg" width="100%"/></picture></p>
 
