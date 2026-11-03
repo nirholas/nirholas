@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" role="img" aria-labelledby="t d" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
 <title id="t">How the catalog grew</title>
-<desc id="d">Cumulative public repositories by section from Jan 26 to Oct 26, ending at 401.</desc>
+<desc id="d">Cumulative public repositories by section from Jan 26 to Nov 26, ending at 405.</desc>
 <text x="24" y="36" fill="#1f2328" font-size="19" font-weight="700">How the catalog grew</text>
-<text x="24" y="57" fill="#59636e" font-size="12.5">Cumulative repositories by creation month, stacked by section. 394 created so far in 2026.</text>
+<text x="24" y="57" fill="#59636e" font-size="12.5">Cumulative repositories by creation month, stacked by section. 398 created so far in 2026.</text>
 <defs><clipPath id="draw"><rect x="54" y="74" width="638" height="228"><animate attributeName="width" from="0" to="638" dur="2.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></rect></clipPath></defs>
 <line x1="54" y1="300" x2="690" y2="300" stroke="#d1d9e0" stroke-opacity="1"/><text x="46" y="304" fill="#818b98" font-size="11" text-anchor="end">0</text>
 <line x1="54" y1="256.8" x2="690" y2="256.8" stroke="#d1d9e0" stroke-opacity="0.6"/><text x="46" y="260.8" fill="#818b98" font-size="11" text-anchor="end">100</text>
@@ -10,27 +10,28 @@
 <line x1="54" y1="170.4" x2="690" y2="170.4" stroke="#d1d9e0" stroke-opacity="0.6"/><text x="46" y="174.4" fill="#818b98" font-size="11" text-anchor="end">300</text>
 <line x1="54" y1="127.2" x2="690" y2="127.2" stroke="#d1d9e0" stroke-opacity="0.6"/><text x="46" y="131.2" fill="#818b98" font-size="11" text-anchor="end">400</text>
 <line x1="54" y1="84" x2="690" y2="84" stroke="#d1d9e0" stroke-opacity="0.6"/><text x="46" y="88" fill="#818b98" font-size="11" text-anchor="end">500</text>
-<text x="124.7" y="318" fill="#818b98" font-size="11" text-anchor="middle">Feb 26</text>
-<text x="266" y="318" fill="#818b98" font-size="11" text-anchor="middle">Apr 26</text>
-<text x="407.3" y="318" fill="#818b98" font-size="11" text-anchor="middle">Jun 26</text>
-<text x="548.7" y="318" fill="#818b98" font-size="11" text-anchor="middle">Aug 26</text>
-<text x="690" y="318" fill="#818b98" font-size="11" text-anchor="middle">Oct 26</text>
-<g clip-path="url(#draw)"><polygon points="54,300 124.7,300 195.3,300 266,300 336.7,300 407.3,300 478,291.4 548.7,290.9 619.3,290.5 690,290.5 690,300 619.3,300 548.7,300 478,300 407.3,300 336.7,300 266,300 195.3,300 124.7,300 54,300" fill="#2a78d6" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
-<polygon points="54,298.7 124.7,298.3 195.3,298.3 266,298.3 336.7,297.8 407.3,291.4 478,282.3 548.7,259.4 619.3,256.8 690,254.2 690,290.5 619.3,290.5 548.7,290.9 478,291.4 407.3,300 336.7,300 266,300 195.3,300 124.7,300 54,300" fill="#eb6834" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
-<polygon points="54,296.5 124.7,296.1 195.3,295.2 266,295.2 336.7,294.8 407.3,278.4 478,269.3 548.7,246 619.3,240 690,230 690,254.2 619.3,256.8 548.7,259.4 478,282.3 407.3,291.4 336.7,297.8 266,298.3 195.3,298.3 124.7,298.3 54,298.7" fill="#1baf7a" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
-<polygon points="54,296.5 124.7,296.1 195.3,295.2 266,294.4 336.7,293.5 407.3,277.1 478,267.2 548.7,243.8 619.3,230.9 690,204.5 690,230 619.3,240 548.7,246 478,269.3 407.3,278.4 336.7,294.8 266,295.2 195.3,295.2 124.7,296.1 54,296.5" fill="#eda100" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
-<polygon points="54,295.7 124.7,294.4 195.3,291.8 266,290.9 336.7,289.2 407.3,272.8 478,262.8 548.7,239.1 619.3,220.5 690,194.2 690,204.5 619.3,230.9 548.7,243.8 478,267.2 407.3,277.1 336.7,293.5 266,294.4 195.3,295.2 124.7,296.1 54,296.5" fill="#e87ba4" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
-<polygon points="54,294 124.7,292.7 195.3,290.1 266,289.2 336.7,287.5 407.3,271.1 478,261.1 548.7,236.9 619.3,200.6 690,170.8 690,194.2 619.3,220.5 548.7,239.1 478,262.8 407.3,272.8 336.7,289.2 266,290.9 195.3,291.8 124.7,294.4 54,295.7" fill="#008300" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
-<polygon points="54,293.5 124.7,292.2 195.3,289.6 266,288.8 336.7,286.2 407.3,269.3 478,259.4 548.7,234.8 619.3,170 690,138.9 690,170.8 619.3,200.6 548.7,236.9 478,261.1 407.3,271.1 336.7,287.5 266,289.2 195.3,290.1 124.7,292.7 54,294" fill="#6250d6" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
-<polygon points="54,288.8 124.7,285.7 195.3,281 266,278.4 336.7,275.4 407.3,258.5 478,248.6 548.7,224 619.3,157.9 690,126.8 690,138.9 619.3,170 548.7,234.8 478,259.4 407.3,269.3 336.7,286.2 266,288.8 195.3,289.6 124.7,292.2 54,293.5" fill="#e34948" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/></g>
-<circle cx="690" cy="126.8" r="4" fill="#1f2328"><animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.15;1" dur="2s" repeatCount="indefinite"/></circle>
-<text x="682" y="116.8" fill="#1f2328" font-size="13" font-weight="700" text-anchor="end">401</text>
+<text x="54" y="318" fill="#818b98" font-size="11" text-anchor="middle">Jan 26</text>
+<text x="181.2" y="318" fill="#818b98" font-size="11" text-anchor="middle">Mar 26</text>
+<text x="308.4" y="318" fill="#818b98" font-size="11" text-anchor="middle">May 26</text>
+<text x="435.6" y="318" fill="#818b98" font-size="11" text-anchor="middle">Jul 26</text>
+<text x="562.8" y="318" fill="#818b98" font-size="11" text-anchor="middle">Sep 26</text>
+<text x="690" y="318" fill="#818b98" font-size="11" text-anchor="middle">Nov 26</text>
+<g clip-path="url(#draw)"><polygon points="54,300 117.6,300 181.2,300 244.8,300 308.4,300 372,300 435.6,291.4 499.2,290.9 562.8,290.5 626.4,290.5 690,290.5 690,300 626.4,300 562.8,300 499.2,300 435.6,300 372,300 308.4,300 244.8,300 181.2,300 117.6,300 54,300" fill="#2a78d6" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,298.7 117.6,298.3 181.2,298.3 244.8,298.3 308.4,297.8 372,291.4 435.6,282.3 499.2,259.4 562.8,256.8 626.4,253.3 690,253.3 690,290.5 626.4,290.5 562.8,290.5 499.2,290.9 435.6,291.4 372,300 308.4,300 244.8,300 181.2,300 117.6,300 54,300" fill="#eb6834" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,296.5 117.6,296.1 181.2,295.2 244.8,295.2 308.4,294.8 372,278.4 435.6,269.3 499.2,246 562.8,240 626.4,229.2 690,229.2 690,253.3 626.4,253.3 562.8,256.8 499.2,259.4 435.6,282.3 372,291.4 308.4,297.8 244.8,298.3 181.2,298.3 117.6,298.3 54,298.7" fill="#1baf7a" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,296.5 117.6,296.1 181.2,295.2 244.8,294.4 308.4,293.5 372,277.1 435.6,267.2 499.2,243.8 562.8,230.9 626.4,203.7 690,203.2 690,229.2 626.4,229.2 562.8,240 499.2,246 435.6,269.3 372,278.4 308.4,294.8 244.8,295.2 181.2,295.2 117.6,296.1 54,296.5" fill="#eda100" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,295.7 117.6,294.4 181.2,291.8 244.8,290.9 308.4,289.2 372,272.8 435.6,262.8 499.2,239.1 562.8,220.5 626.4,193.3 690,192.9 690,203.2 626.4,203.7 562.8,230.9 499.2,243.8 435.6,267.2 372,277.1 308.4,293.5 244.8,294.4 181.2,295.2 117.6,296.1 54,296.5" fill="#e87ba4" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,294 117.6,292.7 181.2,290.1 244.8,289.2 308.4,287.5 372,271.1 435.6,261.1 499.2,236.9 562.8,200.6 626.4,170 690,169.5 690,192.9 626.4,193.3 562.8,220.5 499.2,239.1 435.6,262.8 372,272.8 308.4,289.2 244.8,290.9 181.2,291.8 117.6,294.4 54,295.7" fill="#008300" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,293.5 117.6,292.2 181.2,289.6 244.8,288.8 308.4,286.2 372,269.3 435.6,259.4 499.2,234.8 562.8,170 626.4,138 690,137.6 690,169.5 626.4,170 562.8,200.6 499.2,236.9 435.6,261.1 372,271.1 308.4,287.5 244.8,289.2 181.2,290.1 117.6,292.7 54,294" fill="#6250d6" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="54,288.3 117.6,285.3 181.2,280.6 244.8,278 308.4,274.9 372,258.1 435.6,248.2 499.2,223.5 562.8,157.4 626.4,125.5 690,125 690,137.6 626.4,138 562.8,170 499.2,234.8 435.6,259.4 372,269.3 308.4,286.2 244.8,288.8 181.2,289.6 117.6,292.2 54,293.5" fill="#e34948" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/></g>
+<circle cx="690" cy="125" r="4" fill="#1f2328"><animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.15;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="682" y="115" fill="#1f2328" font-size="13" font-weight="700" text-anchor="end">405</text>
 <line x1="694" y1="295.2" x2="706" y2="295.2" stroke="#2a78d6"/><text x="710" y="299.2" fill="#1f2328" font-size="11.5">Robinhood Chain <tspan fill="#59636e">22</tspan></text>
-<line x1="694" y1="272.4" x2="706" y2="272.4" stroke="#eb6834"/><text x="710" y="276.4" fill="#1f2328" font-size="11.5">x402 payments <tspan fill="#59636e">84</tspan></text>
-<line x1="694" y1="242.1" x2="706" y2="242.1" stroke="#1baf7a"/><text x="710" y="246.1" fill="#1f2328" font-size="11.5">MCP servers <tspan fill="#59636e">56</tspan></text>
-<line x1="694" y1="217.3" x2="706" y2="217.3" stroke="#eda100"/><text x="710" y="221.3" fill="#1f2328" font-size="11.5">3D AI agents <tspan fill="#59636e">59</tspan></text>
-<line x1="694" y1="199.3" x2="706" y2="199.3" stroke="#e87ba4"/><text x="710" y="203.3" fill="#1f2328" font-size="11.5">Solana <tspan fill="#59636e">24</tspan></text>
-<line x1="694" y1="182.3" x2="706" y2="182.3" stroke="#008300"/><text x="710" y="186.3" fill="#1f2328" font-size="11.5">DeFi mechanisms <tspan fill="#59636e">54</tspan></text>
-<line x1="694" y1="154.8" x2="706" y2="154.8" stroke="#6250d6"/><text x="710" y="158.8" fill="#1f2328" font-size="11.5">On-chain experiments <tspan fill="#59636e">74</tspan></text>
-<line x1="694" y1="132.8" x2="706" y2="132.8" stroke="#e34948"/><text x="710" y="136.8" fill="#1f2328" font-size="11.5">Developer tools <tspan fill="#59636e">28</tspan></text>
+<line x1="694" y1="271.9" x2="706" y2="271.9" stroke="#eb6834"/><text x="710" y="275.9" fill="#1f2328" font-size="11.5">x402 payments <tspan fill="#59636e">86</tspan></text>
+<line x1="694" y1="241.2" x2="706" y2="241.2" stroke="#1baf7a"/><text x="710" y="245.2" fill="#1f2328" font-size="11.5">MCP servers <tspan fill="#59636e">56</tspan></text>
+<line x1="694" y1="216.2" x2="706" y2="216.2" stroke="#eda100"/><text x="710" y="220.2" fill="#1f2328" font-size="11.5">3D AI agents <tspan fill="#59636e">60</tspan></text>
+<line x1="694" y1="198" x2="706" y2="198" stroke="#e87ba4"/><text x="710" y="202" fill="#1f2328" font-size="11.5">Solana <tspan fill="#59636e">24</tspan></text>
+<line x1="694" y1="181" x2="706" y2="181" stroke="#008300"/><text x="710" y="185" fill="#1f2328" font-size="11.5">DeFi mechanisms <tspan fill="#59636e">54</tspan></text>
+<line x1="694" y1="153.6" x2="706" y2="153.6" stroke="#6250d6"/><text x="710" y="157.6" fill="#1f2328" font-size="11.5">On-chain experiments <tspan fill="#59636e">74</tspan></text>
+<line x1="694" y1="131.3" x2="706" y2="131.3" stroke="#e34948"/><text x="710" y="135.3" fill="#1f2328" font-size="11.5">Developer tools <tspan fill="#59636e">29</tspan></text>
 </svg>

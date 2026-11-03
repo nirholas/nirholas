@@ -12,7 +12,7 @@
 <circle class="p" style="animation-delay:0.31s" cx="324.6" cy="96" r="4.2" fill="#3987e5" fill-opacity="0.4"/>
 <circle class="p" style="animation-delay:0.34s" cx="358" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.49s" cx="525.1" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
-<circle class="p" style="animation-delay:0.55s" cx="592" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
+<circle class="p" style="animation-delay:0.55s" cx="592" cy="96" r="2.4" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.61s" cx="658.8" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.64s" cx="692.2" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.67s" cx="725.6" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
@@ -24,13 +24,14 @@
 <circle class="p" style="animation-delay:0.15s" cx="90.7" cy="128" r="2.4" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.18s" cx="124.1" cy="128" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.21s" cx="157.5" cy="128" r="2" fill="#3987e5" fill-opacity="0.36"/>
-<circle class="p" style="animation-delay:0.24s" cx="191" cy="128" r="2" fill="#3987e5" fill-opacity="0.36"/>
+<circle class="p" style="animation-delay:0.24s" cx="191" cy="128" r="2.4" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.27s" cx="224.4" cy="128" r="2.4" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.3s" cx="257.8" cy="128" r="3.4" fill="#3987e5" fill-opacity="0.39"/>
 <circle class="p" style="animation-delay:0.33s" cx="291.2" cy="128" r="3" fill="#3987e5" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.36s" cx="324.6" cy="128" r="14.5" fill="#3987e5" fill-opacity="1"/>
 <circle class="p" style="animation-delay:0.42s" cx="391.5" cy="128" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.6s" cx="592" cy="128" r="2.4" fill="#3987e5" fill-opacity="0.37"/>
+<circle class="p" style="animation-delay:0.69s" cx="692.2" cy="128" r="2.4" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.72s" cx="725.6" cy="128" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.75s" cx="759" cy="128" r="4.9" fill="#3987e5" fill-opacity="0.42"/>
 <circle class="p" style="animation-delay:0.78s" cx="792.5" cy="128" r="4.9" fill="#3987e5" fill-opacity="0.42"/>
