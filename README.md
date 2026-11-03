@@ -18,7 +18,7 @@
 
 I studied Marketing and Computer Science at the University of Wisconsin and finished with a double bachelor's. I have done security research for Apple, AT&T, Microsoft, Google, the U.S. Department of Defense and the State of California. Before building open source full time I wrote full-stack software for some of the largest companies and brands.
 
-I have written about crypto, AI and technology for years: as a contributor to [Entrepreneur Magazine](https://www.entrepreneur.com/author/nicholas-resendez), on [HackerNoon](https://hackernoon.com/u/nich) and [Medium](https://nrese.medium.com/), and in [my books on Amazon](https://www.amazon.com/stores/Nicholas-Resendez/author/B0964F8NZT). My photography is on Vogue's [PhotoVogue](https://www.vogue.com/photovogue/photographers/311030). I have held a Wisconsin real estate license since I was 18 and still do.
+I have written about crypto, AI and technology for years: as a contributor to [Entrepreneur Magazine](https://www.entrepreneur.com/author/nicholas-resendez), on [HackerNoon](https://hackernoon.com/u/nich) and [Medium](https://nrese.medium.com/), and in [my books on Amazon](https://www.amazon.com/stores/Nicholas-Resendez/author/B0964F8NZT). My photography has been featured on Vogue's PhotoVogue. I have held a Wisconsin real estate license since I was 18 and still do.
 
 My work under the handles nichxbt and nirholas has been covered in the press, including [Business Insider](https://www.businessinsider.com/claude-code-leak-what-happened-recreated-python-features-revealed-2026-4)'s reporting on the Claude Code source leak.
 
