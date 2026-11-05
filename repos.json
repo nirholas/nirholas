@@ -12,7 +12,7 @@
 			"three-ws"
 		],
 		"language": null,
-		"stars": 6238,
+		"stars": 6235,
 		"homepage": "https://three.ws"
 	},
 	{
@@ -42,7 +42,7 @@
 			"three-ws"
 		],
 		"language": "HTML",
-		"stars": 640,
+		"stars": 643,
 		"homepage": "https://xactions.app/features"
 	},
 	{
@@ -102,7 +102,7 @@
 			"claude-code"
 		],
 		"language": "JavaScript",
-		"stars": 266,
+		"stars": 268,
 		"homepage": "https://three.ws"
 	},
 	{
@@ -130,7 +130,7 @@
 			"typescript"
 		],
 		"language": "TypeScript",
-		"stars": 144,
+		"stars": 145,
 		"homepage": "https://sdk.pumpk.it"
 	},
 	{
@@ -218,8 +218,8 @@
 			"typescript"
 		],
 		"language": "TypeScript",
-		"stars": 81,
-		"homepage": "https://agenti.cash"
+		"stars": 82,
+		"homepage": "https://agenti.ninabrekkerese.workers.dev"
 	},
 	{
 		"name": "universal-crypto-mcp",
@@ -278,7 +278,7 @@
 			"mcp"
 		],
 		"language": "TypeScript",
-		"stars": 36,
+		"stars": 37,
 		"homepage": "https://sperax.click"
 	},
 	{
@@ -308,7 +308,7 @@
 		],
 		"language": "TypeScript",
 		"stars": 36,
-		"homepage": "https://github.com/nirholas/pump-swap-sdk"
+		"homepage": "https://pump-swap-sdk.modelcontextprotocol.name"
 	},
 	{
 		"name": "extract-llms-docs",
@@ -366,7 +366,7 @@
 		],
 		"language": "TypeScript",
 		"stars": 34,
-		"homepage": "https://nirholas.github.io/github-to-mcp/"
+		"homepage": "https://github-to-mcp.modelcontextprotocol.name"
 	},
 	{
 		"name": "crypto-data-aggregator",
@@ -392,7 +392,7 @@
 		],
 		"language": "TypeScript",
 		"stars": 33,
-		"homepage": "https://nirholas.github.io/crypto-data-aggregator/"
+		"homepage": "https://crypto-data-aggregator.modelcontextprotocol.name"
 	},
 	{
 		"name": "mcp-notify",
@@ -418,7 +418,7 @@
 		],
 		"language": "Go",
 		"stars": 32,
-		"homepage": "https://nirholas.github.io/mcp-notify/"
+		"homepage": "https://mcp-notify.modelcontextprotocol.name"
 	},
 	{
 		"name": "solana-wallet-toolkit",
@@ -446,7 +446,7 @@
 		],
 		"language": "TypeScript",
 		"stars": 31,
-		"homepage": "https://nirholas.github.io/solana-wallet-toolkit/"
+		"homepage": "https://solana-wallet-toolkit.modelcontextprotocol.name"
 	},
 	{
 		"name": "boosty",
@@ -479,32 +479,6 @@
 		"homepage": "https://github.com/nirholas/boosty"
 	},
 	{
-		"name": "lstm-bitcoin-prediction.ipynb",
-		"url": "https://github.com/nirholas/lstm-bitcoin-prediction.ipynb",
-		"description": "lstm-bitcoin-prediction",
-		"topics": [
-			"open-source",
-			"web3",
-			"bitcoin",
-			"cryptocurrency",
-			"deep-learning",
-			"jupyter-notebook",
-			"lstm",
-			"machine-learning",
-			"price-prediction",
-			"python",
-			"tensorflow",
-			"time-series",
-			"agents-md",
-			"ai-agents",
-			"llms-txt",
-			"three-ws"
-		],
-		"language": "Jupyter Notebook",
-		"stars": 29,
-		"homepage": "https://three.ws"
-	},
-	{
 		"name": "ethereum-wallet-toolkit",
 		"url": "https://github.com/nirholas/ethereum-wallet-toolkit",
 		"description": "Python toolkit for Ethereum wallets: CLI tools + Model Context Protocol (MCP) servers for wallet generation, BIP39/BIP44 HD wallets, Web3 Secret Storage V3 keystores, and EIP-712 typed data signing",
@@ -531,8 +505,34 @@
 			"mcp"
 		],
 		"language": "HTML",
-		"stars": 28,
-		"homepage": "https://github.com/nirholas/ethereum-wallet-toolkit"
+		"stars": 29,
+		"homepage": "https://ethereum-wallet-toolkit.modelcontextprotocol.name"
+	},
+	{
+		"name": "lstm-bitcoin-prediction.ipynb",
+		"url": "https://github.com/nirholas/lstm-bitcoin-prediction.ipynb",
+		"description": "lstm-bitcoin-prediction",
+		"topics": [
+			"open-source",
+			"web3",
+			"bitcoin",
+			"cryptocurrency",
+			"deep-learning",
+			"jupyter-notebook",
+			"lstm",
+			"machine-learning",
+			"price-prediction",
+			"python",
+			"tensorflow",
+			"time-series",
+			"agents-md",
+			"ai-agents",
+			"llms-txt",
+			"three-ws"
+		],
+		"language": "Jupyter Notebook",
+		"stars": 29,
+		"homepage": "https://three.ws"
 	},
 	{
 		"name": "LooK",
@@ -558,7 +558,7 @@
 		],
 		"language": "JavaScript",
 		"stars": 27,
-		"homepage": "https://loook-production.up.railway.app/"
+		"homepage": "https://look.modelcontextprotocol.name"
 	},
 	{
 		"name": "openbare",
@@ -669,7 +669,7 @@
 		],
 		"language": "TypeScript",
 		"stars": 26,
-		"homepage": "https://nirholas.github.io/x402-deploy/"
+		"homepage": "https://x402-deploy.modelcontextprotocol.name"
 	},
 	{
 		"name": "crypto-market-data-ts",
@@ -1855,9 +1855,9 @@
 		"homepage": "https://nirholas.github.io/readme-3d/"
 	},
 	{
-		"name": "three-ui",
-		"url": "https://github.com/nirholas/three-ui",
-		"description": "Browser-native 3D agent viewer and chat UI from three.ws: drop in a GLB, give it an LLM brain, and embed it anywhere.",
+		"name": "three.ws-chat",
+		"url": "https://github.com/nirholas/three.ws-chat",
+		"description": "three.ws/chat",
 		"topics": [
 			"3d-agent",
 			"3d-model-viewer",
@@ -1879,7 +1879,7 @@
 		],
 		"language": "JavaScript",
 		"stars": 10,
-		"homepage": "https://nirholas.github.io/three-ui/"
+		"homepage": "three.ws/chat"
 	},
 	{
 		"name": "3d-agent-mcp",
@@ -5471,6 +5471,35 @@
 		"homepage": "https://priority-fee-tax.pages.dev"
 	},
 	{
+		"name": "pulse",
+		"url": "https://github.com/nirholas/pulse",
+		"description": "Open-source market intelligence for the Solana and Robinhood Chain trenches: launches, runners, wallets, daily Telegram newsletter, dashboard, MCP server and a Postgres archive for trading bots.",
+		"topics": [
+			"robinhood-chain",
+			"solana",
+			"ai-agents",
+			"crypto-analytics",
+			"dashboard",
+			"mcp",
+			"mcp-server",
+			"memecoins",
+			"model-context-protocol",
+			"onchain-data",
+			"postgres",
+			"pumpfun",
+			"telegram-bot",
+			"trading-bot",
+			"typescript",
+			"agents-md",
+			"llms-txt",
+			"open-source",
+			"three-ws"
+		],
+		"language": "TypeScript",
+		"stars": 7,
+		"homepage": "https://nirholas.github.io/pulse/"
+	},
+	{
 		"name": "pumpfun-github-claims",
 		"url": "https://github.com/nirholas/pumpfun-github-claims",
 		"description": "Pump.fun GitHub Claims: first-time fee claims for GitHub-linked coins. Price, market cap, developer history and socials. Read-only Telegram feed.",
@@ -6473,35 +6502,6 @@
 		"language": "TypeScript",
 		"stars": 6,
 		"homepage": "http://promptpad.fun/"
-	},
-	{
-		"name": "pulse",
-		"url": "https://github.com/nirholas/pulse",
-		"description": "Open-source market intelligence for the Solana and Robinhood Chain trenches: launches, runners, wallets, daily Telegram newsletter, dashboard, MCP server and a Postgres archive for trading bots.",
-		"topics": [
-			"robinhood-chain",
-			"solana",
-			"ai-agents",
-			"crypto-analytics",
-			"dashboard",
-			"mcp",
-			"mcp-server",
-			"memecoins",
-			"model-context-protocol",
-			"onchain-data",
-			"postgres",
-			"pumpfun",
-			"telegram-bot",
-			"trading-bot",
-			"typescript",
-			"agents-md",
-			"llms-txt",
-			"open-source",
-			"three-ws"
-		],
-		"language": "TypeScript",
-		"stars": 6,
-		"homepage": "https://nirholas.github.io/pulse/"
 	},
 	{
 		"name": "solana-firsts",
@@ -10441,5 +10441,21 @@
 		"language": null,
 		"stars": 0,
 		"homepage": "https://three.ws/forge"
+	},
+	{
+		"name": "three-ws-home-assistant",
+		"url": "https://github.com/nirholas/three-ws-home-assistant",
+		"description": "A Home Assistant integration for three.ws: put a 3D agent with a voice in front of this home.",
+		"topics": [
+			"hacs",
+			"hacs-integration",
+			"home-assistant",
+			"homeassistant",
+			"smart-home",
+			"three-ws"
+		],
+		"language": "Python",
+		"stars": 0,
+		"homepage": "https://three.ws/docs/home-relay"
 	}
 ]
