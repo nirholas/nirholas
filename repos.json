@@ -42,7 +42,7 @@
 			"three-ws"
 		],
 		"language": "HTML",
-		"stars": 643,
+		"stars": 644,
 		"homepage": "https://xactions.app/features"
 	},
 	{
@@ -102,7 +102,7 @@
 			"claude-code"
 		],
 		"language": "JavaScript",
-		"stars": 268,
+		"stars": 269,
 		"homepage": "https://three.ws"
 	},
 	{
@@ -308,7 +308,7 @@
 		],
 		"language": "TypeScript",
 		"stars": 36,
-		"homepage": "https://pump-swap-sdk.modelcontextprotocol.name"
+		"homepage": "https://sdk.pumpk.it/"
 	},
 	{
 		"name": "extract-llms-docs",
@@ -725,6 +725,34 @@
 		"homepage": "https://nirholas.github.io/xspace-AI/"
 	},
 	{
+		"name": "pumpfun-claims-bot",
+		"url": "https://github.com/nirholas/pumpfun-claims-bot",
+		"description": "PumpFun GitHub social fee claim monitor: real-time Telegram feed for first-time creator fee claims on Solana",
+		"topics": [
+			"api",
+			"crypto",
+			"cryptocurrency",
+			"helius",
+			"mcp",
+			"memecoin",
+			"pumpfun",
+			"solana",
+			"solano",
+			"telegram",
+			"trade",
+			"trading",
+			"agents-md",
+			"ai-agents",
+			"llms-txt",
+			"open-source",
+			"three-ws",
+			"typescript"
+		],
+		"language": "TypeScript",
+		"stars": 24,
+		"homepage": "https://nirholas.github.io/pumpfun-claims-bot/"
+	},
+	{
 		"name": "visualize-web3-realtime",
 		"url": "https://github.com/nirholas/visualize-web3-realtime",
 		"description": "Real-time multi-chain transaction visualizer: watch Pump.fun, Raydium, Uniswap & PancakeSwap trades as physics-based particle nodes on a dark canvas",
@@ -798,34 +826,6 @@
 		"language": "Shell",
 		"stars": 23,
 		"homepage": "https://github.com/nirholas/gitpretty"
-	},
-	{
-		"name": "pumpfun-claims-bot",
-		"url": "https://github.com/nirholas/pumpfun-claims-bot",
-		"description": "PumpFun GitHub social fee claim monitor: real-time Telegram feed for first-time creator fee claims on Solana",
-		"topics": [
-			"api",
-			"crypto",
-			"cryptocurrency",
-			"helius",
-			"mcp",
-			"memecoin",
-			"pumpfun",
-			"solana",
-			"solano",
-			"telegram",
-			"trade",
-			"trading",
-			"agents-md",
-			"ai-agents",
-			"llms-txt",
-			"open-source",
-			"three-ws",
-			"typescript"
-		],
-		"language": "TypeScript",
-		"stars": 23,
-		"homepage": "https://nirholas.github.io/pumpfun-claims-bot/"
 	},
 	{
 		"name": "pumpkit",

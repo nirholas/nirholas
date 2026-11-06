@@ -41,7 +41,7 @@
 
 <p align="center"><a href="https://www.star-history.com/nirholas"><img alt="GitHub Top Committer 2026, global rank" src="https://api.star-history.com/badge?user=nirholas&year=2026" height="64"/></a></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="406 repositories, 11323 stars" src="./assets/stats-light.svg" width="100%"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="406 repositories, 11326 stars" src="./assets/stats-light.svg" width="100%"/></picture></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/planet-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/planet-light.svg"/><img alt="A rotating 3D planet with one point per repository, sized by stars and colored by section" src="./assets/planet-light.svg" width="100%"/></picture></p>
 
@@ -60,9 +60,9 @@ Today I ship in public: AI agents, MCP servers, 3D, on-chain tooling and the dev
 ## Start here
 
 - [fresh-start](https://github.com/nirholas/fresh-start) ★6235: The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with Anthropic and Github...
-- [XActions](https://github.com/nirholas/XActions) ★643: ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open...
+- [XActions](https://github.com/nirholas/XActions) ★644: ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open...
 - [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) ★331: Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST...
-- [three.ws](https://github.com/nirholas/three.ws) ★268: Give your AI agent a 3D body: text or a photo to a rigged GLB avatar, an LLM brain, a Solana wallet and a one-tag embed. Keyless MCP server...
+- [three.ws](https://github.com/nirholas/three.ws) ★269: Give your AI agent a 3D body: text or a photo to a rigged GLB avatar, an LLM brain, a Solana wallet and a one-tag embed. Keyless MCP server...
 - [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) ★145: Token creation launching, bonding curve trading, AMM migration, tiered fees, creator fee sharing, vanity keygen, MCP server, Telegram bot &...
 - [PAI](https://github.com/nirholas/PAI) ★115: A complete private computer on a USB stick. PAI is a bootable Debian 12 Linux distro that runs Ollama locally on any x86_64 or ARM64...
 
@@ -81,7 +81,7 @@ Every chart below is rendered from the live GitHub listing each time the catalog
 
 ## How I build
 
-Pulled from the GitHub API on November 5, 2026. Commit counts and streaks include private repositories as counts only. Lines and hours come from public repositories, with any commit over 20,000 changed lines left out as a bulk import. Hours are not a stopwatch: a day counts each clock hour (UTC) in which at least one commit landed, so it cannot pass 24.
+Pulled from the GitHub API on November 6, 2026. Commit counts and streaks include private repositories as counts only. Lines and hours come from public repositories, with any commit over 20,000 changed lines left out as a bulk import. Hours are not a stopwatch: a day counts each clock hour (UTC) in which at least one commit landed, so it cannot pass 24.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-volume-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/activity-volume-light.svg"/><img alt="Commits, lines added and lines removed over the last 12 months" src="./assets/activity-volume-light.svg" width="100%"/></picture>
 
@@ -98,19 +98,19 @@ Pulled from the GitHub API on November 5, 2026. Commit counts and streaks includ
 - Busiest day: January 26, 2026 with 5,417 commits.
 - Biggest day for lines: August 7, 2026 with 775,578 lines changed.
 - Most hours with a push in one day: 24 on January 9, 2026.
-- Last 30 days: 4,670 commits, 1,638,593 lines added and 411,867 removed, pushes in 200 separate hours on 26 active days.
-- Current streak: 17 days. Longest: 127 days, ending August 30, 2026.
+- Last 30 days: 4,780 commits, 1,679,993 lines added and 418,414 removed, pushes in 209 separate hours on 27 active days.
+- Current streak: 18 days. Longest: 127 days, ending August 30, 2026.
 
 | Where the lines went | Commits | Added | Removed |
 |---|---:|---:|---:|
-| [three.ws](https://github.com/nirholas/three.ws) | 11,432 | 5,852,758 | 1,474,470 |
+| [three.ws](https://github.com/nirholas/three.ws) | 11,538 | 5,894,153 | 1,481,014 |
 | [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) | 1,184 | 1,214,087 | 217,402 |
 | [three.ws-chat](https://github.com/nirholas/three.ws-chat) | 538 | 449,342 | 133,952 |
 | [XActions](https://github.com/nirholas/XActions) | 460 | 433,297 | 70,087 |
 | [crypto-vision](https://github.com/nirholas/crypto-vision) | 144 | 273,228 | 32,110 |
 | [universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) | 431 | 246,441 | 25,420 |
 | [crypto-data-aggregator](https://github.com/nirholas/crypto-data-aggregator) | 92 | 124,466 | 27,854 |
-| [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) | 3,605 | 113,467 | 16,207 |
+| [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) | 3,607 | 113,472 | 16,210 |
 
 ## Find your way
 
@@ -164,7 +164,7 @@ Pay-per-call APIs and the clients, gates and facilitators that let agents buy.
 <details open>
 <summary>86 repositories</summary>
 
-- [three.ws](https://github.com/nirholas/three.ws) ★268: Give your AI agent a 3D body: text or a photo to a rigged GLB avatar, an LLM brain, a Solana wallet and a one-tag embed. Keyless MCP server...
+- [three.ws](https://github.com/nirholas/three.ws) ★269: Give your AI agent a 3D body: text or a photo to a rigged GLB avatar, an LLM brain, a Solana wallet and a one-tag embed. Keyless MCP server...
 - [agenti](https://github.com/nirholas/agenti) ★82: Give any AI agent a crypto wallet. Agents deserve access to money. Pay x402 APIs, receive USDC, check balances: autonomously. Works with...
 - [x402-deploy](https://github.com/nirholas/x402-deploy) ★26: Turn any API or MCP server into a paid service with x402
 - [modelcontextprotocol.name](https://github.com/nirholas/modelcontextprotocol.name) ★21: Give AI agents access to money 💰1,100+ MCP tools: swap, bridge, stake, lend, trade, and deploy across most blockchains. The open MCP...
@@ -260,7 +260,7 @@ Model Context Protocol servers that give any MCP client new abilities.
 <details>
 <summary>56 repositories</summary>
 
-- [XActions](https://github.com/nirholas/XActions) ★643: ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open...
+- [XActions](https://github.com/nirholas/XActions) ★644: ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open...
 - [universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) ★44: Universal MCP server for AI agents to interact with any* blockchain via natural language and plugins. Supports swaps, bridges, gas...
 - [extract-llms-docs](https://github.com/nirholas/extract-llms-docs) ★35: Extract documentation for AI agents from any site with llms.txt support. Features MCP server, REST API, batch processing, and multiple...
 - [github-to-mcp](https://github.com/nirholas/github-to-mcp) ★34: Convert GitHub repositories to MCP servers automatically. Extract tools from OpenAPI, GraphQL & REST APIs for Claude Desktop, Cursor...
@@ -401,7 +401,7 @@ Wallets, SDKs, claims, vanity addresses and launch tooling on Solana.
 - [pump-swap-sdk](https://github.com/nirholas/pump-swap-sdk) ★36: SDK for interacting with Pump Swap [PumpFun] AMM protocol on Solana
 - [solana-wallet-toolkit](https://github.com/nirholas/solana-wallet-toolkit) ★31: ☀️ Solana Development Toolkit ⚒️Official Solana Labs libraries 🔑 Vanity Address Generation: custom wallet addresses, OG names on the...
 - [ethereum-wallet-toolkit](https://github.com/nirholas/ethereum-wallet-toolkit) ★29: Python toolkit for Ethereum wallets: CLI tools + Model Context Protocol (MCP) servers for wallet generation, BIP39/BIP44 HD wallets, Web3...
-- [pumpfun-claims-bot](https://github.com/nirholas/pumpfun-claims-bot) ★23: PumpFun GitHub social fee claim monitor: real-time Telegram feed for first-time creator fee claims on Solana
+- [pumpfun-claims-bot](https://github.com/nirholas/pumpfun-claims-bot) ★24: PumpFun GitHub social fee claim monitor: real-time Telegram feed for first-time creator fee claims on Solana
 - [pumpkit](https://github.com/nirholas/pumpkit) ★23: Open-source framework for building PumpFun Telegram bots on Solana. Claim monitors, channel feeds, group trackers, whale alerts: build your...
 - [scrape-smart-wallets](https://github.com/nirholas/scrape-smart-wallets) ★21: Browser console scripts that extract smart money wallets, KOL wallets, token rankings, radar signals, and DEX trades from gmgn.ai.
 - [solana-launchpad-ui](https://github.com/nirholas/solana-launchpad-ui) ★20: Token launchpad UI template inspired by pump.fun: dark theme, bonding curves, trading panel, 4 pages, pure HTML/CSS/JS, no dependencies.
@@ -617,4 +617,4 @@ If something here helped you, a star takes one click and tells the next person i
 
 Coding agents and LLM tooling can read this profile directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt) and [repos.json](./repos.json).
 
-<p align="center"><sub>Catalog and charts regenerated from the live GitHub listing: 406 repositories, 11323 stars.</sub></p>
+<p align="center"><sub>Catalog and charts regenerated from the live GitHub listing: 406 repositories, 11326 stars.</sub></p>

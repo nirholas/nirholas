@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 338" width="900" height="338" role="img" aria-labelledby="t d" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
 <title id="t">When the code lands</title>
-<desc id="d">Punchcard of commits by weekday and hour, UTC. Busiest slot: Fri 03:00 UTC with 3,680.</desc>
+<desc id="d">Punchcard of commits by weekday and hour, UTC. Busiest slot: Fri 03:00 UTC with 3,691.</desc>
 <style>.p{transform-box:fill-box;transform-origin:center;animation:pop .7s cubic-bezier(.3,1.6,.5,1) both}@keyframes pop{from{transform:scale(0)}}</style>
 <text x="24" y="36" fill="#e6edf3" font-size="19" font-weight="700">When the code lands</text>
-<text x="24" y="57" fill="#9198a1" font-size="12.5">Commits by weekday and hour (UTC) across public repositories. Busiest slot: Fri 03:00 UTC, 3,680 commits.</text>
+<text x="24" y="57" fill="#9198a1" font-size="12.5">Commits by weekday and hour (UTC) across public repositories. Busiest slot: Fri 03:00 UTC, 3,691 commits.</text>
 <text x="60" y="100" fill="#9198a1" font-size="12" text-anchor="end">Mon</text><line x1="74" y1="96" x2="876" y2="96" stroke="#30363d" stroke-opacity="0.5"/>
 <circle class="p" style="animation-delay:0.1s" cx="90.7" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.13s" cx="124.1" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
@@ -14,7 +14,7 @@
 <circle class="p" style="animation-delay:0.28s" cx="291.2" cy="96" r="4" fill="#3987e5" fill-opacity="0.4"/>
 <circle class="p" style="animation-delay:0.31s" cx="324.6" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.34s" cx="358" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
-<circle class="p" style="animation-delay:0.37s" cx="391.5" cy="96" r="2.2" fill="#3987e5" fill-opacity="0.37"/>
+<circle class="p" style="animation-delay:0.37s" cx="391.5" cy="96" r="2.2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.4s" cx="424.9" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.43s" cx="458.3" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.46s" cx="491.7" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
@@ -22,13 +22,13 @@
 <circle class="p" style="animation-delay:0.52s" cx="558.5" cy="96" r="2" fill="#3987e5" fill-opacity="0.35"/>
 <circle class="p" style="animation-delay:0.55s" cx="592" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.58s" cx="625.4" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
-<circle class="p" style="animation-delay:0.61s" cx="658.8" cy="96" r="13.2" fill="#3987e5" fill-opacity="0.89"/>
+<circle class="p" style="animation-delay:0.61s" cx="658.8" cy="96" r="13.1" fill="#3987e5" fill-opacity="0.88"/>
 <circle class="p" style="animation-delay:0.64s" cx="692.2" cy="96" r="2.1" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.67s" cx="725.6" cy="96" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.7s" cx="759" cy="96" r="3.6" fill="#3987e5" fill-opacity="0.39"/>
 <circle class="p" style="animation-delay:0.73s" cx="792.5" cy="96" r="2.5" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.76s" cx="825.9" cy="96" r="2.4" fill="#3987e5" fill-opacity="0.37"/>
-<circle class="p" style="animation-delay:0.79s" cx="859.3" cy="96" r="2.2" fill="#3987e5" fill-opacity="0.37"/>
+<circle class="p" style="animation-delay:0.79s" cx="859.3" cy="96" r="2.2" fill="#3987e5" fill-opacity="0.36"/>
 <text x="60" y="132" fill="#9198a1" font-size="12" text-anchor="end">Tue</text><line x1="74" y1="128" x2="876" y2="128" stroke="#30363d" stroke-opacity="0.5"/>
 <circle class="p" style="animation-delay:0.15s" cx="90.7" cy="128" r="2.1" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.18s" cx="124.1" cy="128" r="4.5" fill="#3987e5" fill-opacity="0.41"/>
@@ -62,11 +62,11 @@
 <circle class="p" style="animation-delay:0.32s" cx="224.4" cy="160" r="2.7" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.35s" cx="257.8" cy="160" r="4" fill="#3987e5" fill-opacity="0.4"/>
 <circle class="p" style="animation-delay:0.38s" cx="291.2" cy="160" r="3" fill="#3987e5" fill-opacity="0.38"/>
-<circle class="p" style="animation-delay:0.41s" cx="324.6" cy="160" r="2.2" fill="#3987e5" fill-opacity="0.36"/>
+<circle class="p" style="animation-delay:0.41s" cx="324.6" cy="160" r="2.1" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.44s" cx="358" cy="160" r="2.4" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.47s" cx="391.5" cy="160" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.5s" cx="424.9" cy="160" r="2.3" fill="#3987e5" fill-opacity="0.37"/>
-<circle class="p" style="animation-delay:0.53s" cx="458.3" cy="160" r="2.2" fill="#3987e5" fill-opacity="0.37"/>
+<circle class="p" style="animation-delay:0.53s" cx="458.3" cy="160" r="2.2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.56s" cx="491.7" cy="160" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.59s" cx="525.1" cy="160" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.62s" cx="558.5" cy="160" r="2" fill="#3987e5" fill-opacity="0.35"/>
@@ -103,13 +103,13 @@
 <circle class="p" style="animation-delay:0.85s" cx="759" cy="192" r="2.6" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.88s" cx="792.5" cy="192" r="2.6" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.91s" cx="825.9" cy="192" r="2.5" fill="#3987e5" fill-opacity="0.37"/>
-<circle class="p" style="animation-delay:0.94s" cx="859.3" cy="192" r="2.7" fill="#3987e5" fill-opacity="0.37"/>
+<circle class="p" style="animation-delay:0.94s" cx="859.3" cy="192" r="2.6" fill="#3987e5" fill-opacity="0.37"/>
 <text x="60" y="228" fill="#9198a1" font-size="12" text-anchor="end">Fri</text><line x1="74" y1="224" x2="876" y2="224" stroke="#30363d" stroke-opacity="0.5"/>
-<circle class="p" style="animation-delay:0.3s" cx="90.7" cy="224" r="2.4" fill="#3987e5" fill-opacity="0.37"/>
+<circle class="p" style="animation-delay:0.3s" cx="90.7" cy="224" r="2.9" fill="#3987e5" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.33s" cx="124.1" cy="224" r="3.4" fill="#3987e5" fill-opacity="0.39"/>
-<circle class="p" style="animation-delay:0.36s" cx="157.5" cy="224" r="3.2" fill="#3987e5" fill-opacity="0.38"/>
+<circle class="p" style="animation-delay:0.36s" cx="157.5" cy="224" r="3.3" fill="#3987e5" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.39s" cx="191" cy="224" r="14.5" fill="#3987e5" fill-opacity="1"/>
-<circle class="p" style="animation-delay:0.42s" cx="224.4" cy="224" r="2.9" fill="#3987e5" fill-opacity="0.38"/>
+<circle class="p" style="animation-delay:0.42s" cx="224.4" cy="224" r="3" fill="#3987e5" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.45s" cx="257.8" cy="224" r="4.1" fill="#3987e5" fill-opacity="0.4"/>
 <circle class="p" style="animation-delay:0.48s" cx="291.2" cy="224" r="4.1" fill="#3987e5" fill-opacity="0.4"/>
 <circle class="p" style="animation-delay:0.51s" cx="324.6" cy="224" r="3.1" fill="#3987e5" fill-opacity="0.38"/>
@@ -139,7 +139,7 @@
 <circle class="p" style="animation-delay:0.53s" cx="291.2" cy="256" r="2.7" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.56s" cx="324.6" cy="256" r="2.2" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.59s" cx="358" cy="256" r="2" fill="#3987e5" fill-opacity="0.36"/>
-<circle class="p" style="animation-delay:0.62s" cx="391.5" cy="256" r="2.2" fill="#3987e5" fill-opacity="0.36"/>
+<circle class="p" style="animation-delay:0.62s" cx="391.5" cy="256" r="2.1" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.65s" cx="424.9" cy="256" r="3.2" fill="#3987e5" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.68s" cx="458.3" cy="256" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.71s" cx="491.7" cy="256" r="2" fill="#3987e5" fill-opacity="0.36"/>
@@ -153,7 +153,7 @@
 <circle class="p" style="animation-delay:0.95s" cx="759" cy="256" r="2.9" fill="#3987e5" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.98s" cx="792.5" cy="256" r="2.3" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:1.01s" cx="825.9" cy="256" r="5.1" fill="#3987e5" fill-opacity="0.43"/>
-<circle class="p" style="animation-delay:1.04s" cx="859.3" cy="256" r="2.7" fill="#3987e5" fill-opacity="0.37"/>
+<circle class="p" style="animation-delay:1.04s" cx="859.3" cy="256" r="2.6" fill="#3987e5" fill-opacity="0.37"/>
 <text x="60" y="292" fill="#9198a1" font-size="12" text-anchor="end">Sun</text><line x1="74" y1="288" x2="876" y2="288" stroke="#30363d" stroke-opacity="0.5"/>
 <circle class="p" style="animation-delay:0.4s" cx="90.7" cy="288" r="2.9" fill="#3987e5" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.43s" cx="124.1" cy="288" r="3.5" fill="#3987e5" fill-opacity="0.39"/>
