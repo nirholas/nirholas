@@ -42,7 +42,7 @@
 			"three-ws"
 		],
 		"language": "HTML",
-		"stars": 644,
+		"stars": 649,
 		"homepage": "https://xactions.app/features"
 	},
 	{
@@ -72,7 +72,7 @@
 			"moltbot"
 		],
 		"language": "TypeScript",
-		"stars": 331,
+		"stars": 333,
 		"homepage": "https://cryptocurrency.cv"
 	},
 	{
@@ -102,7 +102,7 @@
 			"claude-code"
 		],
 		"language": "JavaScript",
-		"stars": 269,
+		"stars": 272,
 		"homepage": "https://three.ws"
 	},
 	{
@@ -130,7 +130,7 @@
 			"typescript"
 		],
 		"language": "TypeScript",
-		"stars": 145,
+		"stars": 147,
 		"homepage": "https://sdk.pumpk.it"
 	},
 	{
@@ -753,6 +753,32 @@
 		"homepage": "https://nirholas.github.io/pumpfun-claims-bot/"
 	},
 	{
+		"name": "pumpkit",
+		"url": "https://github.com/nirholas/pumpkit",
+		"description": "Open-source framework for building PumpFun Telegram bots on Solana. Claim monitors, channel feeds, group trackers, whale alerts: build your own or use ours.",
+		"topics": [
+			"open-source",
+			"solana",
+			"typescript",
+			"pump-fun",
+			"blockchain",
+			"bot-framework",
+			"crypto",
+			"framework",
+			"pumpfun",
+			"telegram-bot",
+			"web3",
+			"whale-alerts",
+			"agents-md",
+			"ai-agents",
+			"llms-txt",
+			"three-ws"
+		],
+		"language": "TypeScript",
+		"stars": 24,
+		"homepage": "https://nirholas.github.io/pumpkit/"
+	},
+	{
 		"name": "visualize-web3-realtime",
 		"url": "https://github.com/nirholas/visualize-web3-realtime",
 		"description": "Real-time multi-chain transaction visualizer: watch Pump.fun, Raydium, Uniswap & PancakeSwap trades as physics-based particle nodes on a dark canvas",
@@ -826,32 +852,6 @@
 		"language": "Shell",
 		"stars": 23,
 		"homepage": "https://github.com/nirholas/gitpretty"
-	},
-	{
-		"name": "pumpkit",
-		"url": "https://github.com/nirholas/pumpkit",
-		"description": "Open-source framework for building PumpFun Telegram bots on Solana. Claim monitors, channel feeds, group trackers, whale alerts: build your own or use ours.",
-		"topics": [
-			"open-source",
-			"solana",
-			"typescript",
-			"pump-fun",
-			"blockchain",
-			"bot-framework",
-			"crypto",
-			"framework",
-			"pumpfun",
-			"telegram-bot",
-			"web3",
-			"whale-alerts",
-			"agents-md",
-			"ai-agents",
-			"llms-txt",
-			"three-ws"
-		],
-		"language": "TypeScript",
-		"stars": 23,
-		"homepage": "https://nirholas.github.io/pumpkit/"
 	},
 	{
 		"name": "analyze-ethereum-address",
@@ -1202,6 +1202,35 @@
 		"homepage": "https://ctrl.best"
 	},
 	{
+		"name": "solana-sniper-mcp",
+		"url": "https://github.com/nirholas/solana-sniper-mcp",
+		"description": "Lightweight, embeddable pump.fun sniper engine for 3D AI agents: multi-agent, multi-user, with pluggable wallet/store/RPC adapters. Library + CLI + MCP server + x402 paid API.",
+		"topics": [
+			"ai-agent",
+			"mcp",
+			"pumpfun",
+			"solana",
+			"trading-bot",
+			"3d-agent",
+			"ai-agents",
+			"mcp-server",
+			"memecoin",
+			"model-context-protocol",
+			"nodejs",
+			"sniper",
+			"three-ws",
+			"threejs",
+			"x402",
+			"agents-md",
+			"javascript",
+			"llms-txt",
+			"open-source"
+		],
+		"language": "JavaScript",
+		"stars": 17,
+		"homepage": "https://nirholas.github.io/solana-sniper-mcp/"
+	},
+	{
 		"name": "vscode-google-cloud",
 		"url": "https://github.com/nirholas/vscode-google-cloud",
 		"description": "Run unlimited VS Code instances in your browser using Google Cloud. One script, full dev environment, no Codespaces limits.",
@@ -1252,29 +1281,6 @@
 		"homepage": "https://three.ws"
 	},
 	{
-		"name": "scroll-zoom-thing",
-		"url": "https://github.com/nirholas/scroll-zoom-thing",
-		"description": "CSS 3D perspective scrolling: a pure-CSS parallax. perspective on the scroll container pushes each layer back with translateZ; layers farther from the vanishing point move slower. scale() compensates so they fill the viewport. No JS, no scroll events: just the browser's natural 3D projection during...",
-		"topics": [
-			"open-source",
-			"3d",
-			"animation",
-			"css",
-			"css3",
-			"frontend",
-			"parallax",
-			"perspective",
-			"scroll",
-			"agents-md",
-			"ai-agents",
-			"llms-txt",
-			"three-ws"
-		],
-		"language": "CSS",
-		"stars": 15,
-		"homepage": "https://scroll-zoom-thing.pages.dev/"
-	},
-	{
 		"name": "robinhood-chain-alert-bot",
 		"url": "https://github.com/nirholas/robinhood-chain-alert-bot",
 		"description": "Real-time alert bot for Robinhood Chain - Telegram, Discord, and X (Twitter). Tracks new launches, graduations, whale trades, Stock Token premium/discount arbitrage, holder milestones, and liquidity-pull rug warnings. Free tier, x402 USDG premium.",
@@ -1297,8 +1303,31 @@
 			"typescript"
 		],
 		"language": "TypeScript",
-		"stars": 14,
+		"stars": 15,
 		"homepage": "https://github.com/nirholas/robinhood-chain-alert-bot"
+	},
+	{
+		"name": "scroll-zoom-thing",
+		"url": "https://github.com/nirholas/scroll-zoom-thing",
+		"description": "CSS 3D perspective scrolling: a pure-CSS parallax. perspective on the scroll container pushes each layer back with translateZ; layers farther from the vanishing point move slower. scale() compensates so they fill the viewport. No JS, no scroll events: just the browser's natural 3D projection during...",
+		"topics": [
+			"open-source",
+			"3d",
+			"animation",
+			"css",
+			"css3",
+			"frontend",
+			"parallax",
+			"perspective",
+			"scroll",
+			"agents-md",
+			"ai-agents",
+			"llms-txt",
+			"three-ws"
+		],
+		"language": "CSS",
+		"stars": 15,
+		"homepage": "https://scroll-zoom-thing.pages.dev/"
 	},
 	{
 		"name": "robinhood-trading-bot",
@@ -1483,35 +1512,6 @@
 		"language": "JavaScript",
 		"stars": 12,
 		"homepage": "https://nirholas.github.io/pumpfun-mcp/"
-	},
-	{
-		"name": "solana-sniper-mcp",
-		"url": "https://github.com/nirholas/solana-sniper-mcp",
-		"description": "Lightweight, embeddable pump.fun sniper engine for 3D AI agents: multi-agent, multi-user, with pluggable wallet/store/RPC adapters. Library + CLI + MCP server + x402 paid API.",
-		"topics": [
-			"ai-agent",
-			"mcp",
-			"pumpfun",
-			"solana",
-			"trading-bot",
-			"3d-agent",
-			"ai-agents",
-			"mcp-server",
-			"memecoin",
-			"model-context-protocol",
-			"nodejs",
-			"sniper",
-			"three-ws",
-			"threejs",
-			"x402",
-			"agents-md",
-			"javascript",
-			"llms-txt",
-			"open-source"
-		],
-		"language": "JavaScript",
-		"stars": 12,
-		"homepage": "https://nirholas.github.io/solana-sniper-mcp/"
 	},
 	{
 		"name": "3D-AR-Studio",
@@ -1715,6 +1715,36 @@
 		"language": "JavaScript",
 		"stars": 10,
 		"homepage": "https://nirholas.github.io/audio-mcp/"
+	},
+	{
+		"name": "avatar-agent-mcp",
+		"url": "https://github.com/nirholas/avatar-agent-mcp",
+		"description": "3D AI Agent Avatar: MCP server that spawns a textured GLB avatar, inspects/validates/optimizes any 3D model, gives the agent a Solana wallet + a voice, and ships full pump.fun powers (atomic Jito-bundled launches + creator-fee collection). Powered by three.ws.",
+		"topics": [
+			"ai-agents",
+			"model-context-protocol",
+			"solana",
+			"threejs",
+			"wallet",
+			"3d",
+			"agent-payments",
+			"ai-agent",
+			"atomic-bundle",
+			"avatar",
+			"glb",
+			"jito",
+			"mcp",
+			"mcp-server",
+			"nodejs",
+			"pump-fun",
+			"three",
+			"three-ws",
+			"tts",
+			"javascript"
+		],
+		"language": "JavaScript",
+		"stars": 10,
+		"homepage": "https://nirholas.github.io/avatar-agent-mcp/"
 	},
 	{
 		"name": "copy-mcp",
@@ -2073,36 +2103,6 @@
 		"language": "JavaScript",
 		"stars": 9,
 		"homepage": "https://nirholas.github.io/autopilot-mcp/"
-	},
-	{
-		"name": "avatar-agent-mcp",
-		"url": "https://github.com/nirholas/avatar-agent-mcp",
-		"description": "3D AI Agent Avatar: MCP server that spawns a textured GLB avatar, inspects/validates/optimizes any 3D model, gives the agent a Solana wallet + a voice, and ships full pump.fun powers (atomic Jito-bundled launches + creator-fee collection). Powered by three.ws.",
-		"topics": [
-			"ai-agents",
-			"model-context-protocol",
-			"solana",
-			"threejs",
-			"wallet",
-			"3d",
-			"agent-payments",
-			"ai-agent",
-			"atomic-bundle",
-			"avatar",
-			"glb",
-			"jito",
-			"mcp",
-			"mcp-server",
-			"nodejs",
-			"pump-fun",
-			"three",
-			"three-ws",
-			"tts",
-			"javascript"
-		],
-		"language": "JavaScript",
-		"stars": 9,
-		"homepage": "https://nirholas.github.io/avatar-agent-mcp/"
 	},
 	{
 		"name": "billing-mcp",
