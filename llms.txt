@@ -10,13 +10,13 @@
 ## Sections
 
 - Robinhood Chain: 22 repositories
-- x402 payments and agent commerce: 86 repositories
-- MCP servers for AI agents: 56 repositories
-- 3D AI agents and avatars: 61 repositories
+- x402 payments and agent commerce: 83 repositories
+- MCP servers for AI agents: 71 repositories
+- 3D AI agents and avatars: 58 repositories
 - Solana and pump.fun tooling: 24 repositories
-- DeFi mechanisms and Uniswap v4 hooks: 54 repositories
-- On-chain experiments and collectibles: 74 repositories
-- Developer tools and everything else: 29 repositories
+- DeFi mechanisms and Uniswap v4 hooks: 47 repositories
+- On-chain experiments and collectibles: 68 repositories
+- Developer tools and everything else: 33 repositories
 
 ## Featured
 

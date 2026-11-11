@@ -44,15 +44,15 @@
 <circle class="p" style="animation-delay:0.48s" cx="458.3" cy="128" r="2" fill="#3987e5" fill-opacity="0.35"/>
 <circle class="p" style="animation-delay:0.51s" cx="491.7" cy="128" r="5.4" fill="#3987e5" fill-opacity="0.44"/>
 <circle class="p" style="animation-delay:0.54s" cx="525.1" cy="128" r="2" fill="#3987e5" fill-opacity="0.36"/>
-<circle class="p" style="animation-delay:0.57s" cx="558.5" cy="128" r="2.7" fill="#3987e5" fill-opacity="0.37"/>
-<circle class="p" style="animation-delay:0.6s" cx="592" cy="128" r="3" fill="#3987e5" fill-opacity="0.38"/>
-<circle class="p" style="animation-delay:0.63s" cx="625.4" cy="128" r="2" fill="#3987e5" fill-opacity="0.36"/>
+<circle class="p" style="animation-delay:0.57s" cx="558.5" cy="128" r="3" fill="#3987e5" fill-opacity="0.38"/>
+<circle class="p" style="animation-delay:0.6s" cx="592" cy="128" r="3.1" fill="#3987e5" fill-opacity="0.38"/>
+<circle class="p" style="animation-delay:0.63s" cx="625.4" cy="128" r="3.9" fill="#3987e5" fill-opacity="0.4"/>
 <circle class="p" style="animation-delay:0.66s" cx="658.8" cy="128" r="3.1" fill="#3987e5" fill-opacity="0.38"/>
-<circle class="p" style="animation-delay:0.69s" cx="692.2" cy="128" r="3.5" fill="#3987e5" fill-opacity="0.39"/>
-<circle class="p" style="animation-delay:0.72s" cx="725.6" cy="128" r="2.4" fill="#3987e5" fill-opacity="0.37"/>
+<circle class="p" style="animation-delay:0.69s" cx="692.2" cy="128" r="4.7" fill="#3987e5" fill-opacity="0.42"/>
+<circle class="p" style="animation-delay:0.72s" cx="725.6" cy="128" r="3.3" fill="#3987e5" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.75s" cx="759" cy="128" r="2" fill="#3987e5" fill-opacity="0.36"/>
-<circle class="p" style="animation-delay:0.78s" cx="792.5" cy="128" r="2.1" fill="#3987e5" fill-opacity="0.36"/>
-<circle class="p" style="animation-delay:0.81s" cx="825.9" cy="128" r="2" fill="#3987e5" fill-opacity="0.36"/>
+<circle class="p" style="animation-delay:0.78s" cx="792.5" cy="128" r="4.2" fill="#3987e5" fill-opacity="0.4"/>
+<circle class="p" style="animation-delay:0.81s" cx="825.9" cy="128" r="3.6" fill="#3987e5" fill-opacity="0.39"/>
 <circle class="p" style="animation-delay:0.84s" cx="859.3" cy="128" r="2" fill="#3987e5" fill-opacity="0.36"/>
 <text x="60" y="164" fill="#9198a1" font-size="12" text-anchor="end">Wed</text><line x1="74" y1="160" x2="876" y2="160" stroke="#30363d" stroke-opacity="0.5"/>
 <circle class="p" style="animation-delay:0.2s" cx="90.7" cy="160" r="2" fill="#3987e5" fill-opacity="0.36"/>
