@@ -1,6 +1,6 @@
 # nirholas
 
-> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 406 public repositories.
+> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 407 public repositories.
 
 ## Catalog
 
@@ -10,19 +10,19 @@
 ## Sections
 
 - Robinhood Chain: 22 repositories
-- x402 payments and agent commerce: 83 repositories
-- MCP servers for AI agents: 71 repositories
+- x402 payments and agent commerce: 84 repositories
+- MCP servers for AI agents: 78 repositories
 - 3D AI agents and avatars: 58 repositories
-- Solana and pump.fun tooling: 24 repositories
+- Solana and pump.fun tooling: 20 repositories
 - DeFi mechanisms and Uniswap v4 hooks: 47 repositories
-- On-chain experiments and collectibles: 68 repositories
-- Developer tools and everything else: 33 repositories
+- On-chain experiments and collectibles: 67 repositories
+- Developer tools and everything else: 31 repositories
 
 ## Featured
 
-- [fresh-start](https://github.com/nirholas/fresh-start): The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with...
-- [XActions](https://github.com/nirholas/XActions): ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No...
-- [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv): Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required....
-- [three.ws](https://github.com/nirholas/three.ws): Give your AI agent a 3D body: text or a photo to a rigged GLB avatar, an LLM brain, a Solana wallet and a one-tag...
-- [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk): Token creation launching, bonding curve trading, AMM migration, tiered fees, creator fee sharing, vanity keygen, MCP...
-- [PAI](https://github.com/nirholas/PAI): A complete private computer on a USB stick. PAI is a bootable Debian 12 Linux distro that runs Ollama locally on any...
+- [fresh-start](https://github.com/nirholas/fresh-start): Record of the former nirholas/claude-code mirror: the DMCA, the leak timeline and the x402 correction. No Anthropic code
+- [XActions](https://github.com/nirholas/XActions): X/Twitter automation toolkit: scrapers, CLI and an MCP server with approval-gated write actions, no paid API.
+- [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv): Free crypto news API aggregating 300+ sources with REST, RSS, search, sentiment and an MCP server.
+- [three.ws](https://github.com/nirholas/three.ws): Give your AI agent a 3D body: rigged GLB avatars from text or a photo, an LLM brain, a Solana wallet, a one-tag embed.
+- [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk): TypeScript SDK, pump CLI and MCP server for the Pump protocol on Solana: bonding curves, AMM pools and creator fees.
+- [PAI](https://github.com/nirholas/PAI): Bootable Debian 12 live USB that runs Ollama locally for a private, offline AI desktop on x86_64 and ARM64.

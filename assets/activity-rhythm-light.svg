@@ -70,14 +70,14 @@
 <circle class="p" style="animation-delay:0.56s" cx="491.7" cy="160" r="2" fill="#2a78d6" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.59s" cx="525.1" cy="160" r="2" fill="#2a78d6" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.62s" cx="558.5" cy="160" r="2" fill="#2a78d6" fill-opacity="0.35"/>
-<circle class="p" style="animation-delay:0.65s" cx="592" cy="160" r="2.6" fill="#2a78d6" fill-opacity="0.37"/>
-<circle class="p" style="animation-delay:0.68s" cx="625.4" cy="160" r="2.8" fill="#2a78d6" fill-opacity="0.38"/>
-<circle class="p" style="animation-delay:0.71s" cx="658.8" cy="160" r="3" fill="#2a78d6" fill-opacity="0.38"/>
-<circle class="p" style="animation-delay:0.74s" cx="692.2" cy="160" r="3.2" fill="#2a78d6" fill-opacity="0.38"/>
+<circle class="p" style="animation-delay:0.65s" cx="592" cy="160" r="3.7" fill="#2a78d6" fill-opacity="0.39"/>
+<circle class="p" style="animation-delay:0.68s" cx="625.4" cy="160" r="4.1" fill="#2a78d6" fill-opacity="0.4"/>
+<circle class="p" style="animation-delay:0.71s" cx="658.8" cy="160" r="3.8" fill="#2a78d6" fill-opacity="0.39"/>
+<circle class="p" style="animation-delay:0.74s" cx="692.2" cy="160" r="3.8" fill="#2a78d6" fill-opacity="0.39"/>
 <circle class="p" style="animation-delay:0.77s" cx="725.6" cy="160" r="4" fill="#2a78d6" fill-opacity="0.4"/>
 <circle class="p" style="animation-delay:0.8s" cx="759" cy="160" r="2.8" fill="#2a78d6" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.83s" cx="792.5" cy="160" r="3" fill="#2a78d6" fill-opacity="0.38"/>
-<circle class="p" style="animation-delay:0.86s" cx="825.9" cy="160" r="3.7" fill="#2a78d6" fill-opacity="0.39"/>
+<circle class="p" style="animation-delay:0.86s" cx="825.9" cy="160" r="3.8" fill="#2a78d6" fill-opacity="0.39"/>
 <circle class="p" style="animation-delay:0.89s" cx="859.3" cy="160" r="2.2" fill="#2a78d6" fill-opacity="0.37"/>
 <text x="60" y="196" fill="#59636e" font-size="12" text-anchor="end">Thu</text><line x1="74" y1="192" x2="876" y2="192" stroke="#d1d9e0" stroke-opacity="0.5"/>
 <circle class="p" style="animation-delay:0.25s" cx="90.7" cy="192" r="2" fill="#2a78d6" fill-opacity="0.36"/>
