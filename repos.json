@@ -12,8 +12,8 @@
 			"post-mortem"
 		],
 		"language": null,
-		"stars": 6229,
-		"homepage": "https://three.ws"
+		"stars": 6227,
+		"homepage": null
 	},
 	{
 		"name": "XActions",
@@ -30,7 +30,7 @@
 			"claude-code-plugin"
 		],
 		"language": "HTML",
-		"stars": 655,
+		"stars": 658,
 		"homepage": "https://xactions.app/features"
 	},
 	{
@@ -66,7 +66,7 @@
 			"claude-code-plugin"
 		],
 		"language": "JavaScript",
-		"stars": 275,
+		"stars": 282,
 		"homepage": "https://three.ws"
 	},
 	{
@@ -84,7 +84,7 @@
 			"sdk"
 		],
 		"language": "TypeScript",
-		"stars": 149,
+		"stars": 150,
 		"homepage": "https://sdk.pumpk.it"
 	},
 	{
@@ -102,7 +102,7 @@
 			"live-usb"
 		],
 		"language": "Shell",
-		"stars": 122,
+		"stars": 125,
 		"homepage": "https://pai.direct"
 	},
 	{
@@ -228,7 +228,7 @@
 			"mcp-server"
 		],
 		"language": "TypeScript",
-		"stars": 34,
+		"stars": 35,
 		"homepage": "https://github-to-mcp.modelcontextprotocol.name"
 	},
 	{
@@ -994,6 +994,24 @@
 		"homepage": "https://nirholas.github.io/sketchapedia/"
 	},
 	{
+		"name": "3d-avatar-companion",
+		"url": "https://github.com/nirholas/3d-avatar-companion",
+		"description": "Animated 3D avatar mascot that walks and talks over your website, with stroll and platformer playground modes.",
+		"topics": [
+			"3d-avatar",
+			"avatar",
+			"mascot",
+			"threejs",
+			"webgl",
+			"javascript",
+			"claude-code-plugin",
+			"glb"
+		],
+		"language": "JavaScript",
+		"stars": 12,
+		"homepage": "https://nirholas.github.io/3d-avatar-companion/"
+	},
+	{
 		"name": "loom-mcp",
 		"url": "https://github.com/nirholas/loom-mcp",
 		"description": "MCP server for the three.ws Loom gallery: browse, fetch and submit community-forged GLB creations.",
@@ -1064,24 +1082,6 @@
 		"language": "JavaScript",
 		"stars": 11,
 		"homepage": "https://nirholas.github.io/3D-AR-Studio/"
-	},
-	{
-		"name": "3d-avatar-companion",
-		"url": "https://github.com/nirholas/3d-avatar-companion",
-		"description": "Animated 3D avatar mascot that walks and talks over your website, with stroll and platformer playground modes.",
-		"topics": [
-			"3d-avatar",
-			"avatar",
-			"mascot",
-			"threejs",
-			"webgl",
-			"javascript",
-			"claude-code-plugin",
-			"glb"
-		],
-		"language": "JavaScript",
-		"stars": 11,
-		"homepage": "https://nirholas.github.io/3d-avatar-companion/"
 	},
 	{
 		"name": "robinhood-chain-kit",
@@ -1657,6 +1657,24 @@
 		"language": "JavaScript",
 		"stars": 9,
 		"homepage": "https://nirholas.github.io/onchain-agent-wallets/"
+	},
+	{
+		"name": "papertrade-sdk",
+		"url": "https://github.com/nirholas/papertrade-sdk",
+		"description": "Unofficial TypeScript SDK and read-only MCP server for Papertrade, the 1000x perps exchange on HyperEVM.",
+		"topics": [
+			"eip-712",
+			"hyperevm",
+			"hyperliquid",
+			"papertrade",
+			"perps",
+			"typescript",
+			"claude-code-plugin",
+			"mcp-server"
+		],
+		"language": "TypeScript",
+		"stars": 9,
+		"homepage": "https://papertrade-sdk.pages.dev"
 	},
 	{
 		"name": "provenance-mcp",
@@ -2265,22 +2283,22 @@
 		"homepage": "https://three.ws"
 	},
 	{
-		"name": "papertrade-sdk",
-		"url": "https://github.com/nirholas/papertrade-sdk",
-		"description": "Unofficial TypeScript SDK and read-only MCP server for Papertrade, the 1000x perps exchange on HyperEVM.",
+		"name": "pulse",
+		"url": "https://github.com/nirholas/pulse",
+		"description": "Open-source market intelligence for Solana and Robinhood Chain launches, wallets and reports, with an MCP server.",
 		"topics": [
-			"eip-712",
-			"hyperevm",
-			"hyperliquid",
-			"papertrade",
-			"perps",
+			"robinhood-chain",
+			"solana",
+			"crypto-analytics",
+			"mcp-server",
+			"onchain-data",
+			"postgres",
 			"typescript",
-			"claude-code-plugin",
-			"mcp-server"
+			"claude-code-plugin"
 		],
 		"language": "TypeScript",
 		"stars": 8,
-		"homepage": "https://papertrade-sdk.pages.dev"
+		"homepage": "https://nirholas.github.io/pulse/"
 	},
 	{
 		"name": "pumpvault",
@@ -3784,6 +3802,23 @@
 		"homepage": "https://markout-fee.pages.dev"
 	},
 	{
+		"name": "motion",
+		"url": "https://github.com/nirholas/motion",
+		"description": "Text and Motion Score to full-body humanoid three.js AnimationClip using IK and balance, with zero dependencies.",
+		"topics": [
+			"3d",
+			"ai-agents",
+			"animation",
+			"humanoid",
+			"inverse-kinematics",
+			"text-to-motion",
+			"threejs"
+		],
+		"language": "JavaScript",
+		"stars": 7,
+		"homepage": "https://nirholas.github.io/motion/"
+	},
+	{
 		"name": "oracle-band",
 		"url": "https://github.com/nirholas/oracle-band",
 		"description": "Uniswap v4 hook that refuses to settle a pool at a price the wider market does not recognise.",
@@ -3800,6 +3835,24 @@
 		"language": "Solidity",
 		"stars": 7,
 		"homepage": "https://oracle-band.pages.dev"
+	},
+	{
+		"name": "papertrade-explorer",
+		"url": "https://github.com/nirholas/papertrade-explorer",
+		"description": "Block-explorer-style site and read-only MCP server for Papertrade wallets, positions and leaderboards on HyperEVM.",
+		"topics": [
+			"block-explorer",
+			"hyperevm",
+			"hyperliquid",
+			"leaderboard",
+			"papertrade",
+			"calldata-decoder",
+			"claude-code-plugin",
+			"mcp-server"
+		],
+		"language": "TypeScript",
+		"stars": 7,
+		"homepage": "https://papertrade-explorer.pages.dev"
 	},
 	{
 		"name": "power-perp",
@@ -3854,24 +3907,6 @@
 		"language": "TypeScript",
 		"stars": 7,
 		"homepage": "http://promptpad.fun/"
-	},
-	{
-		"name": "pulse",
-		"url": "https://github.com/nirholas/pulse",
-		"description": "Open-source market intelligence for Solana and Robinhood Chain launches, wallets and reports, with an MCP server.",
-		"topics": [
-			"robinhood-chain",
-			"solana",
-			"crypto-analytics",
-			"mcp-server",
-			"onchain-data",
-			"postgres",
-			"typescript",
-			"claude-code-plugin"
-		],
-		"language": "TypeScript",
-		"stars": 7,
-		"homepage": "https://nirholas.github.io/pulse/"
 	},
 	{
 		"name": "pumpfun-github-claims",
@@ -4355,6 +4390,24 @@
 		"homepage": "https://nirholas.github.io/agent-vitals/"
 	},
 	{
+		"name": "anti-rug-receipt",
+		"url": "https://github.com/nirholas/anti-rug-receipt",
+		"description": "Static web checklist that records a token's authorities and allocations in a transparent receipt for retail users.",
+		"topics": [
+			"web3",
+			"checklist",
+			"crypto",
+			"rug-pull",
+			"solana",
+			"token-security",
+			"three-ws",
+			"static-site"
+		],
+		"language": "HTML",
+		"stars": 6,
+		"homepage": "https://three.ws"
+	},
+	{
 		"name": "avatar-stream",
 		"url": "https://github.com/nirholas/avatar-stream",
 		"description": "Progressive 3D over plain HTTP: a layered A3S stream renders a skinned avatar from 50 KB and refines via Range.",
@@ -4552,22 +4605,22 @@
 		"homepage": null
 	},
 	{
-		"name": "papertrade-explorer",
-		"url": "https://github.com/nirholas/papertrade-explorer",
-		"description": "Block-explorer-style site and read-only MCP server for Papertrade wallets, positions and leaderboards on HyperEVM.",
+		"name": "papertrade-liquidations",
+		"url": "https://github.com/nirholas/papertrade-liquidations",
+		"description": "Live Papertrade liquidation map, heatmap and closest-to-bust feed with a JSON API and read-only MCP server.",
 		"topics": [
-			"block-explorer",
+			"cloudflare-pages",
 			"hyperevm",
-			"hyperliquid",
-			"leaderboard",
+			"liquidation-map",
 			"papertrade",
-			"calldata-decoder",
+			"perps",
 			"claude-code-plugin",
+			"liquidations",
 			"mcp-server"
 		],
 		"language": "TypeScript",
 		"stars": 6,
-		"homepage": "https://papertrade-explorer.pages.dev"
+		"homepage": "https://papertrade-liquidations.pages.dev"
 	},
 	{
 		"name": "solana-firsts",
@@ -4945,24 +4998,6 @@
 		"language": "JavaScript",
 		"stars": 5,
 		"homepage": "https://nirholas.github.io/agent-runtime/"
-	},
-	{
-		"name": "anti-rug-receipt",
-		"url": "https://github.com/nirholas/anti-rug-receipt",
-		"description": "Static web checklist that records a token's authorities and allocations in a transparent receipt for retail users.",
-		"topics": [
-			"web3",
-			"checklist",
-			"crypto",
-			"rug-pull",
-			"solana",
-			"token-security",
-			"three-ws",
-			"static-site"
-		],
-		"language": "HTML",
-		"stars": 5,
-		"homepage": "https://three.ws"
 	},
 	{
 		"name": "assistant-mcp",
@@ -5676,23 +5711,6 @@
 		"homepage": "https://three.ws"
 	},
 	{
-		"name": "motion",
-		"url": "https://github.com/nirholas/motion",
-		"description": "Text and Motion Score to full-body humanoid three.js AnimationClip using IK and balance, with zero dependencies.",
-		"topics": [
-			"3d",
-			"ai-agents",
-			"animation",
-			"humanoid",
-			"inverse-kinematics",
-			"text-to-motion",
-			"threejs"
-		],
-		"language": "JavaScript",
-		"stars": 5,
-		"homepage": "https://nirholas.github.io/motion/"
-	},
-	{
 		"name": "multisig-envelope",
 		"url": "https://github.com/nirholas/multisig-envelope",
 		"description": "Estimate nested multisig signer and instruction overhead inside the larger envelope.",
@@ -5852,24 +5870,6 @@
 		"language": "TypeScript",
 		"stars": 5,
 		"homepage": "https://papertrade-copytrade.pages.dev"
-	},
-	{
-		"name": "papertrade-liquidations",
-		"url": "https://github.com/nirholas/papertrade-liquidations",
-		"description": "Live Papertrade liquidation map, heatmap and closest-to-bust feed with a JSON API and read-only MCP server.",
-		"topics": [
-			"cloudflare-pages",
-			"hyperevm",
-			"liquidation-map",
-			"papertrade",
-			"perps",
-			"claude-code-plugin",
-			"liquidations",
-			"mcp-server"
-		],
-		"language": "TypeScript",
-		"stars": 5,
-		"homepage": "https://papertrade-liquidations.pages.dev"
 	},
 	{
 		"name": "papertrade-terminal",
@@ -7181,6 +7181,36 @@
 		"language": "JavaScript",
 		"stars": 3,
 		"homepage": "https://nirholas.github.io/three-ws-walk-sdk/"
+	},
+	{
+		"name": "vid2context",
+		"url": "https://github.com/nirholas/vid2context",
+		"description": "MCP server, CLI and HTTP API that turn any video into context for AI agents and LLMs: YouTube transcripts, captions, speech-to-text, metadata, chapters and cited research briefs. Free-first, works with local LLMs or hosted AI.",
+		"topics": [
+			"youtube",
+			"ai-agents",
+			"captions",
+			"cli",
+			"context-engineering",
+			"http-api",
+			"llm",
+			"local-llm",
+			"mcp",
+			"mcp-server",
+			"model-context-protocol",
+			"rag",
+			"speech-to-text",
+			"transcript",
+			"typescript",
+			"video-to-text",
+			"video-transcription",
+			"whisper",
+			"youtube-transcript",
+			"gemini-cli-extension"
+		],
+		"language": "TypeScript",
+		"stars": 3,
+		"homepage": "https://vid2context.com"
 	},
 	{
 		"name": "voice",
