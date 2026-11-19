@@ -430,23 +430,6 @@
 		"homepage": "https://nirholas.github.io/w3ag/"
 	},
 	{
-		"name": "x402-deploy",
-		"url": "https://github.com/nirholas/x402-deploy",
-		"description": "CLI that turns any API or MCP server into a paid x402 service with pricing, deployment and earnings dashboard.",
-		"topics": [
-			"base",
-			"mcp",
-			"x402",
-			"typescript",
-			"claude-code-plugin",
-			"cli",
-			"monetization"
-		],
-		"language": "TypeScript",
-		"stars": 26,
-		"homepage": "https://x402-deploy.modelcontextprotocol.name"
-	},
-	{
 		"name": "crypto-market-data-ts",
 		"url": "https://github.com/nirholas/crypto-market-data-ts",
 		"description": "TypeScript client for CoinGecko, DeFiLlama and Fear and Greed data with caching, rate limiting and Edge Runtime support.",
