@@ -29,18 +29,28 @@
 
 ## Contributions
 
-Repositories owned by others where nirholas has merged pull requests:
+Repositories owned by others where nirholas has merged pull requests or commits on the default branch:
 
-- [public-apis/public-apis](https://github.com/public-apis/public-apis): 1 merged
-- [x402-foundation/x402](https://github.com/x402-foundation/x402): 1 merged
-- [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers): 3 merged
-- [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3): 1 merged
-- [xai-org/xai-cookbook](https://github.com/xai-org/xai-cookbook): 1 merged
-- [Merit-Systems/x402scan](https://github.com/Merit-Systems/x402scan): 1 merged
-- [jup-ag/token-list](https://github.com/jup-ag/token-list): 1 merged
-- [hridaydutta123/awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools): 1 merged
-- [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers): 2 merged
-- [Sperax/bnb-chain-toolkit](https://github.com/Sperax/bnb-chain-toolkit): 3 merged
-- [Sperax/USDs-x402-facilitator](https://github.com/Sperax/USDs-x402-facilitator): 1 merged
-- [Sperax/sperax-skills](https://github.com/Sperax/sperax-skills): 2 merged
-- [Sperax/x402-archive](https://github.com/Sperax/x402-archive): 1 merged
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): 1 merged pull requests
+- [x402-foundation/x402](https://github.com/x402-foundation/x402): 1 merged pull requests
+- [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers): 3 merged pull requests
+- [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3): 1 merged pull requests
+- [xai-org/xai-cookbook](https://github.com/xai-org/xai-cookbook): 1 merged pull requests
+- [Merit-Systems/x402scan](https://github.com/Merit-Systems/x402scan): 1 merged pull requests
+- [jup-ag/token-list](https://github.com/jup-ag/token-list): 1 merged pull requests, 1 commits
+- [hridaydutta123/awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools): 1 merged pull requests
+- [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers): 2 merged pull requests
+- [Sperax/bnb-chain-toolkit](https://github.com/Sperax/bnb-chain-toolkit): 3 merged pull requests, 396 commits
+- [Sperax/sperax-crypto-mcp](https://github.com/Sperax/sperax-crypto-mcp): 38 commits
+- [Sperax/USDs-x402-facilitator](https://github.com/Sperax/USDs-x402-facilitator): 1 merged pull requests, 48 commits
+- [Sperax/sweep](https://github.com/Sperax/sweep): 29 commits
+- [Sperax/x402-stablecoin](https://github.com/Sperax/x402-stablecoin): 24 commits
+- [Sperax/sperax-skills](https://github.com/Sperax/sperax-skills): 2 merged pull requests
+- [Sperax/erc8004-agents](https://github.com/Sperax/erc8004-agents): 21 commits
+- [Sperax/AI-Plugin-Marketplace-SDK](https://github.com/Sperax/AI-Plugin-Marketplace-SDK): 35 commits
+- [Sperax/Binance-MCP](https://github.com/Sperax/Binance-MCP): 1456 commits
+- [Sperax/Binance-US-MCP](https://github.com/Sperax/Binance-US-MCP): 55 commits
+- [Sperax/bnb-chain-toolkit-dev](https://github.com/Sperax/bnb-chain-toolkit-dev): 392 commits
+- [Sperax/bnbchain-mcp](https://github.com/Sperax/bnbchain-mcp): 1331 commits
+- [Sperax/DeFi-Agents-API](https://github.com/Sperax/DeFi-Agents-API): 1815 commits
+- [Sperax/x402-archive](https://github.com/Sperax/x402-archive): 1 merged pull requests
