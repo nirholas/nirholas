@@ -1,16 +1,16 @@
 <h1 align="center">nirholas</h1>
 
-<p align="center"><b>I build open-source software: AI agents, MCP servers, 3D, on-chain tooling and developer tools.</b><br/>408 public repositories, each documented for people and for AI agents.</p>
+<p align="center"><b>I build open-source software: AI agents, MCP servers, 3D, on-chain tooling and developer tools.</b><br/>409 public repositories, each documented for people and for AI agents.</p>
 
 <p align="center">
 <a href="https://github.com/nirholas?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/nirholas?style=for-the-badge&logo=github&label=followers"/></a>
 <a href="https://github.com/nirholas?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/nirholas?affiliations=OWNER&style=for-the-badge&logo=github&label=stars"/></a>
-<a href="https://github.com/nirholas?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-408-6250d6?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/nirholas?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-409-6250d6?style=for-the-badge&logo=github"/></a>
 </p>
 
 <p align="center"><a href="https://www.star-history.com/nirholas"><img alt="GitHub Top Committer 2026, global rank" src="https://api.star-history.com/badge?user=nirholas&year=2026" height="64"/></a></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="408 repositories, 11403 stars" src="./assets/stats-light.svg" width="100%"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="409 repositories, 11429 stars" src="./assets/stats-light.svg" width="100%"/></picture></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/planet-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/planet-light.svg"/><img alt="A rotating 3D planet with one point per repository, sized by stars and colored by section" src="./assets/planet-light.svg" width="100%"/></picture></p>
 
@@ -67,19 +67,19 @@ Pulled from the GitHub API on November 19, 2026. Commit counts and streaks inclu
 - Busiest day: January 26, 2026 with 5,417 commits.
 - Biggest day for lines: August 7, 2026 with 775,578 lines changed.
 - Most hours with a push in one day: 24 on January 9, 2026.
-- Last 30 days: 6,255 commits, 1,701,235 lines added and 541,494 removed, pushes in 165 separate hours on 30 active days.
+- Last 30 days: 6,387 commits, 1,712,052 lines added and 543,812 removed, pushes in 166 separate hours on 30 active days.
 - Current streak: 31 days. Longest: 127 days, ending August 30, 2026.
 
 | Where the lines went | Commits | Added | Removed |
 |---|---:|---:|---:|
-| [three.ws](https://github.com/nirholas/three.ws) | 13,038 | 6,266,339 | 1,538,687 |
+| [three.ws](https://github.com/nirholas/three.ws) | 13,043 | 6,266,623 | 1,538,790 |
 | [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) | 1,201 | 1,219,488 | 222,719 |
-| [three.ws-chat](https://github.com/nirholas/three.ws-chat) | 544 | 459,438 | 136,897 |
-| [XActions](https://github.com/nirholas/XActions) | 467 | 434,350 | 71,675 |
-| [vid2context](https://github.com/nirholas/vid2context) | 606 | 354,663 | 16,804 |
+| [three.ws-chat](https://github.com/nirholas/three.ws-chat) | 545 | 459,668 | 137,881 |
+| [XActions](https://github.com/nirholas/XActions) | 468 | 434,379 | 71,676 |
+| [vid2context](https://github.com/nirholas/vid2context) | 608 | 354,706 | 16,815 |
 | [crypto-vision](https://github.com/nirholas/crypto-vision) | 146 | 273,289 | 32,110 |
-| [universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) | 457 | 255,610 | 32,392 |
-| [crypto-data-aggregator](https://github.com/nirholas/crypto-data-aggregator) | 94 | 124,533 | 27,854 |
+| [universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) | 461 | 255,652 | 32,426 |
+| [crypto-data-aggregator](https://github.com/nirholas/crypto-data-aggregator) | 100 | 124,772 | 28,073 |
 
 ## Open-source contributions
 
@@ -88,7 +88,7 @@ Pulled from the GitHub API on November 19, 2026. Commit counts and streaks inclu
 <details open>
 <summary>13 repositories</summary>
 
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) ★500293, merged [#7903](https://github.com/public-apis/public-apis/pull/7903): A collective list of free APIs
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) ★500296, merged [#7903](https://github.com/public-apis/public-apis/pull/7903): A collective list of free APIs
 - [x402-foundation/x402](https://github.com/x402-foundation/x402) ★6821, merged [#3514](https://github.com/x402-foundation/x402/pull/3514): A payments protocol for the internet. Built on HTTP.
 - [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) ★1103, merged [#3478](https://github.com/TensorBlock/awesome-mcp-servers/pull/3478), [#3479](https://github.com/TensorBlock/awesome-mcp-servers/pull/3479), [#3480](https://github.com/TensorBlock/awesome-mcp-servers/pull/3480): A comprehensive collection of Model Context Protocol (MCP) servers
 - [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3) ★909, merged [#832](https://github.com/ahmet/awesome-web3/pull/832): A curated list of awesome Web3 resources, libraries, tools and more.
@@ -109,13 +109,13 @@ Pulled from the GitHub API on November 19, 2026. Commit counts and streaks inclu
 Use the repository topics on the left of any repo, or jump to a section below. Every repo ships a README, an [AGENTS.md](https://agents.md) and an [llms.txt](https://llmstxt.org) so a coding agent can pick it up cold. The full machine-readable list is [repos.json](./repos.json).
 
 - [Robinhood Chain](#robinhood-chain) (22)
-- [x402 payments and agent commerce](#x402-payments-and-agent-commerce) (83)
-- [MCP servers for AI agents](#mcp-servers-for-ai-agents) (79)
+- [x402 payments and agent commerce](#x402-payments-and-agent-commerce) (84)
+- [MCP servers for AI agents](#mcp-servers-for-ai-agents) (80)
 - [3D AI agents and avatars](#3d-ai-agents-and-avatars) (58)
 - [Solana and pump.fun tooling](#solana-and-pumpfun-tooling) (20)
 - [DeFi mechanisms and Uniswap v4 hooks](#defi-mechanisms-and-uniswap-v4-hooks) (47)
 - [On-chain experiments and collectibles](#on-chain-experiments-and-collectibles) (67)
-- [Developer tools and everything else](#developer-tools-and-everything-else) (32)
+- [Developer tools and everything else](#developer-tools-and-everything-else) (31)
 
 ## Robinhood Chain
 
@@ -154,11 +154,12 @@ SDKs, bots, alerts and tooling for Robinhood Chain.
 Pay-per-call APIs and the clients, gates and facilitators that let agents buy.
 
 <details open>
-<summary>83 repositories</summary>
+<summary>84 repositories</summary>
 
 - [three.ws](https://github.com/nirholas/three.ws) ★284: Give your AI agent a 3D body: rigged GLB avatars from text or a photo, an LLM brain, a Solana wallet, a one-tag embed.
 - [agenti](https://github.com/nirholas/agenti) ★84: MCP server and SDK that give AI agents wallets, x402 payments, market data and Solana tools.
 - [universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) ★44: MCP server with hundreds of tools for EVM chains: balances, gas, price feeds, wallets, DeFi and x402 payments.
+- [x402-deploy](https://github.com/nirholas/x402-deploy) ★26: CLI that turns any API or MCP server into a paid x402 service with pricing, deployment and earnings dashboard.
 - [modelcontextprotocol.name](https://github.com/nirholas/modelcontextprotocol.name) ★21: Registry content for modelcontextprotocol.name: a Sperax x402 facilitator listing and the facilitator source.
 - [solana-sniper-mcp](https://github.com/nirholas/solana-sniper-mcp) ★19: Embeddable pump.fun sniper engine for AI agents with a CLI, MCP server and x402 API. Simulates by default.
 - [3d-agent-mcp](https://github.com/nirholas/3d-agent-mcp) ★9: MCP server for the three.ws stack: free text-to-3D (TRELLIS) plus paid 3D, avatar, rigging and agent tools over x402.
@@ -247,7 +248,7 @@ Pay-per-call APIs and the clients, gates and facilitators that let agents buy.
 Model Context Protocol servers that give any MCP client new abilities.
 
 <details>
-<summary>79 repositories</summary>
+<summary>80 repositories</summary>
 
 - [XActions](https://github.com/nirholas/XActions) ★662: X/Twitter automation toolkit: scrapers, CLI and an MCP server with approval-gated write actions, no paid API.
 - [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) ★333: Free crypto news API aggregating 300+ sources with REST, RSS, search, sentiment and an MCP server.
@@ -328,6 +329,7 @@ Model Context Protocol servers that give any MCP client new abilities.
 - [three-ws-agent-cli](https://github.com/nirholas/three-ws-agent-cli) ★3: Local runtime for a three.ws agent: sandboxed file and shell tools, three.ws MCP tools, SQLite sessions, approval gate.
 - [three-ws-assets-cli](https://github.com/nirholas/three-ws-assets-cli) ★3: Find a free CC0 3D prop, rigged character or motion clip on three.ws and add it to your project with render code.
 - [vid2context](https://github.com/nirholas/vid2context) ★3: MCP server, CLI and HTTP API that turn any video into context for AI agents and LLMs: YouTube transcripts, captions, speech-to-text...
+- [chatgpt-plugin](https://github.com/nirholas/chatgpt-plugin): Official Sperax Trading Desk plugin for ChatGPT, live in the ChatGPT plugin directory. Read-only crypto analysis: derivatives positioning...
 
 </details>
 
@@ -568,7 +570,7 @@ Small, shippable ideas that live fully on-chain: receipts, postcards, mints and 
 Utilities, data tools and side projects.
 
 <details>
-<summary>32 repositories</summary>
+<summary>31 repositories</summary>
 
 - [fresh-start](https://github.com/nirholas/fresh-start) ★6225: Record of the former nirholas/claude-code mirror: the DMCA, the leak timeline and the x402 correction. No Anthropic code
 - [PAI](https://github.com/nirholas/PAI) ★125: Bootable Debian 12 live USB that runs Ollama locally for a private, offline AI desktop on x86_64 and ARM64.
@@ -601,7 +603,6 @@ Utilities, data tools and side projects.
 - [wire](https://github.com/nirholas/wire) ★7: Resolves a news link to its trade: races eight lanes under a latency budget and streams a sharper answer.
 - [papertrade-copytrade](https://github.com/nirholas/papertrade-copytrade) ★5: Copy-trading CLI and library for Papertrade perps on HyperEVM with required guardrails. Dry run by default.
 - [agent-cli](https://github.com/nirholas/agent-cli) ★3: Local three.ws agent runtime: sandboxed file and shell tools, three.ws MCP tools, SQLite sessions and an approval gate.
-- [chatgpt-plugin](https://github.com/nirholas/chatgpt-plugin): Official Sperax Trading Desk plugin for ChatGPT, live in the ChatGPT plugin directory. Read-only crypto analysis: derivatives positioning...
 
 </details>
 
@@ -611,4 +612,4 @@ If something here helped you, a star takes one click and tells the next person i
 
 Coding agents and LLM tooling can read this profile directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt) and [repos.json](./repos.json).
 
-<p align="center"><sub>Catalog and charts regenerated from the live GitHub listing: 408 repositories, 11403 stars.</sub></p>
+<p align="center"><sub>Catalog and charts regenerated from the live GitHub listing: 409 repositories, 11429 stars.</sub></p>

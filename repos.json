@@ -430,6 +430,23 @@
 		"homepage": "https://nirholas.github.io/w3ag/"
 	},
 	{
+		"name": "x402-deploy",
+		"url": "https://github.com/nirholas/x402-deploy",
+		"description": "CLI that turns any API or MCP server into a paid x402 service with pricing, deployment and earnings dashboard.",
+		"topics": [
+			"base",
+			"mcp",
+			"x402",
+			"typescript",
+			"claude-code-plugin",
+			"cli",
+			"monetization"
+		],
+		"language": "TypeScript",
+		"stars": 26,
+		"homepage": "https://x402-deploy.modelcontextprotocol.name"
+	},
+	{
 		"name": "crypto-market-data-ts",
 		"url": "https://github.com/nirholas/crypto-market-data-ts",
 		"description": "TypeScript client for CoinGecko, DeFiLlama and Fear and Greed data with caching, rate limiting and Edge Runtime support.",
@@ -7216,10 +7233,30 @@
 		"name": "chatgpt-plugin",
 		"url": "https://github.com/nirholas/chatgpt-plugin",
 		"description": "Official Sperax Trading Desk plugin for ChatGPT, live in the ChatGPT plugin directory. Read-only crypto analysis: derivatives positioning, coin analysis, trade sizing, backtests, token safety scans, swap quotes, wallet reviews and 35 live market feeds.",
-		"topics": [],
+		"topics": [
+			"ai-agents",
+			"backtesting",
+			"bitcoin",
+			"chatgpt",
+			"chatgpt-apps",
+			"chatgpt-plugin",
+			"crypto",
+			"crypto-trading",
+			"defi",
+			"ethereum",
+			"market-data",
+			"mcp",
+			"mcp-server",
+			"model-context-protocol",
+			"openai",
+			"risk-management",
+			"solana",
+			"sperax",
+			"trading"
+		],
 		"language": "HTML",
 		"stars": 0,
-		"homepage": "https://chatgpt.com/plugins/plugin_asdk_app_6aea0b5be6608191a02eeebc810e235c"
+		"homepage": "https://nirholas.github.io/chatgpt-plugin/"
 	},
 	{
 		"name": "three-ws-3d-skills",
