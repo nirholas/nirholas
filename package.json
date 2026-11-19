@@ -1,0 +1,13 @@
+{
+	"name": "nirholas-profile",
+	"private": true,
+	"description": "Generator for the github.com/nirholas profile README, charts and machine-readable catalog.",
+	"type": "module",
+	"engines": { "node": ">=22" },
+	"scripts": {
+		"build": "node scripts/build-profile.mjs",
+		"publish:profile": "node scripts/build-profile.mjs --publish",
+		"schedule": "node scripts/schedule.mjs",
+		"test": "node --test tests/*.test.mjs"
+	}
+}
