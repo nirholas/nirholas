@@ -12,7 +12,7 @@
 			"post-mortem"
 		],
 		"language": null,
-		"stars": 6227,
+		"stars": 6225,
 		"homepage": null
 	},
 	{
@@ -30,7 +30,7 @@
 			"claude-code-plugin"
 		],
 		"language": "HTML",
-		"stars": 658,
+		"stars": 662,
 		"homepage": "https://xactions.app/features"
 	},
 	{
@@ -66,7 +66,7 @@
 			"claude-code-plugin"
 		],
 		"language": "JavaScript",
-		"stars": 282,
+		"stars": 284,
 		"homepage": "https://three.ws"
 	},
 	{
@@ -516,7 +516,7 @@
 		],
 		"language": "TypeScript",
 		"stars": 24,
-		"homepage": "https://nirholas.github.io/pumpkit/"
+		"homepage": "https://pumpk.it"
 	},
 	{
 		"name": "visualize-web3-realtime",
@@ -705,7 +705,7 @@
 			"javascript",
 			"ui-template"
 		],
-		"language": "HTML",
+		"language": "JavaScript",
 		"stars": 21,
 		"homepage": "https://nirholas.github.io/solana-launchpad-ui/"
 	},
@@ -905,6 +905,24 @@
 		"homepage": "https://github.com/nirholas/robinhood-chain-alert-bot"
 	},
 	{
+		"name": "robinhood-trading-bot",
+		"url": "https://github.com/nirholas/robinhood-trading-bot",
+		"description": "Robinhood Chain trading bot: rule-based entries on new pairs plus wallet copy trading. Dashboard, CLI, paper mode.",
+		"topics": [
+			"javascript",
+			"robinhood-chain",
+			"claude-code-plugin",
+			"copy-trading",
+			"crypto-bot",
+			"paper-trading",
+			"trading-bot",
+			"uniswap-v3"
+		],
+		"language": "JavaScript",
+		"stars": 15,
+		"homepage": "https://three.ws"
+	},
+	{
 		"name": "scroll-zoom-thing",
 		"url": "https://github.com/nirholas/scroll-zoom-thing",
 		"description": "Pure-CSS 3D perspective scroll parallax for MkDocs Material: translateZ layers, no JavaScript, with site templates.",
@@ -923,24 +941,6 @@
 		"homepage": "https://scroll-zoom-thing.pages.dev/"
 	},
 	{
-		"name": "robinhood-trading-bot",
-		"url": "https://github.com/nirholas/robinhood-trading-bot",
-		"description": "Robinhood Chain trading bot: rule-based entries on new pairs plus wallet copy trading. Dashboard, CLI, paper mode.",
-		"topics": [
-			"javascript",
-			"robinhood-chain",
-			"claude-code-plugin",
-			"copy-trading",
-			"crypto-bot",
-			"paper-trading",
-			"trading-bot",
-			"uniswap-v3"
-		],
-		"language": "JavaScript",
-		"stars": 14,
-		"homepage": "https://three.ws"
-	},
-	{
 		"name": "-w-.---",
 		"url": "https://github.com/nirholas/-w-.---",
 		"description": "Copy of d3-octree: three-dimensional recursive spatial subdivision for nearest-neighbour and collision queries.",
@@ -957,6 +957,24 @@
 		"language": "JavaScript",
 		"stars": 13,
 		"homepage": "https://w-moomsi.vercel.app"
+	},
+	{
+		"name": "3d-avatar-companion",
+		"url": "https://github.com/nirholas/3d-avatar-companion",
+		"description": "Animated 3D avatar mascot that walks and talks over your website, with stroll and platformer playground modes.",
+		"topics": [
+			"3d-avatar",
+			"avatar",
+			"mascot",
+			"threejs",
+			"webgl",
+			"javascript",
+			"claude-code-plugin",
+			"glb"
+		],
+		"language": "JavaScript",
+		"stars": 13,
+		"homepage": "https://nirholas.github.io/3d-avatar-companion/"
 	},
 	{
 		"name": "robinhood-chain-trading-bot",
@@ -992,24 +1010,6 @@
 		"language": "TypeScript",
 		"stars": 13,
 		"homepage": "https://nirholas.github.io/sketchapedia/"
-	},
-	{
-		"name": "3d-avatar-companion",
-		"url": "https://github.com/nirholas/3d-avatar-companion",
-		"description": "Animated 3D avatar mascot that walks and talks over your website, with stroll and platformer playground modes.",
-		"topics": [
-			"3d-avatar",
-			"avatar",
-			"mascot",
-			"threejs",
-			"webgl",
-			"javascript",
-			"claude-code-plugin",
-			"glb"
-		],
-		"language": "JavaScript",
-		"stars": 12,
-		"homepage": "https://nirholas.github.io/3d-avatar-companion/"
 	},
 	{
 		"name": "loom-mcp",
@@ -4390,24 +4390,6 @@
 		"homepage": "https://nirholas.github.io/agent-vitals/"
 	},
 	{
-		"name": "anti-rug-receipt",
-		"url": "https://github.com/nirholas/anti-rug-receipt",
-		"description": "Static web checklist that records a token's authorities and allocations in a transparent receipt for retail users.",
-		"topics": [
-			"web3",
-			"checklist",
-			"crypto",
-			"rug-pull",
-			"solana",
-			"token-security",
-			"three-ws",
-			"static-site"
-		],
-		"language": "HTML",
-		"stars": 6,
-		"homepage": "https://three.ws"
-	},
-	{
 		"name": "avatar-stream",
 		"url": "https://github.com/nirholas/avatar-stream",
 		"description": "Progressive 3D over plain HTTP: a layered A3S stream renders a skinned avatar from 50 KB and refines via Range.",
@@ -4998,6 +4980,24 @@
 		"language": "JavaScript",
 		"stars": 5,
 		"homepage": "https://nirholas.github.io/agent-runtime/"
+	},
+	{
+		"name": "anti-rug-receipt",
+		"url": "https://github.com/nirholas/anti-rug-receipt",
+		"description": "Static web checklist that records a token's authorities and allocations in a transparent receipt for retail users.",
+		"topics": [
+			"web3",
+			"checklist",
+			"crypto",
+			"rug-pull",
+			"solana",
+			"token-security",
+			"three-ws",
+			"static-site"
+		],
+		"language": "HTML",
+		"stars": 5,
+		"homepage": "https://three.ws"
 	},
 	{
 		"name": "assistant-mcp",
@@ -7192,7 +7192,6 @@
 			"captions",
 			"cli",
 			"context-engineering",
-			"http-api",
 			"llm",
 			"local-llm",
 			"mcp",
@@ -7206,7 +7205,8 @@
 			"video-transcription",
 			"whisper",
 			"youtube-transcript",
-			"gemini-cli-extension"
+			"gemini-cli-extension",
+			"twitter"
 		],
 		"language": "TypeScript",
 		"stars": 3,
@@ -7228,6 +7228,15 @@
 		"language": "JavaScript",
 		"stars": 3,
 		"homepage": "https://nirholas.github.io/voice/"
+	},
+	{
+		"name": "chatgpt-plugin",
+		"url": "https://github.com/nirholas/chatgpt-plugin",
+		"description": "Official Sperax Trading Desk plugin for ChatGPT, live in the ChatGPT plugin directory. Read-only crypto analysis: derivatives positioning, coin analysis, trade sizing, backtests, token safety scans, swap quotes, wallet reviews and 35 live market feeds.",
+		"topics": [],
+		"language": "HTML",
+		"stars": 0,
+		"homepage": "https://chatgpt.com/plugins/plugin_asdk_app_6aea0b5be6608191a02eeebc810e235c"
 	},
 	{
 		"name": "three-ws-3d-skills",

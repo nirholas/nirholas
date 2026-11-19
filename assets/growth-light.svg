@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" role="img" aria-labelledby="t d" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
 <title id="t">How the catalog grew</title>
-<desc id="d">Cumulative public repositories by section from Jan 26 to Nov 26, ending at 408.</desc>
+<desc id="d">Cumulative public repositories by section from Jan 26 to Nov 26, ending at 409.</desc>
 <text x="24" y="36" fill="#1f2328" font-size="19" font-weight="700">How the catalog grew</text>
-<text x="24" y="57" fill="#59636e" font-size="12.5">Cumulative repositories by creation month, stacked by section. 401 created so far in 2026.</text>
+<text x="24" y="57" fill="#59636e" font-size="12.5">Cumulative repositories by creation month, stacked by section. 402 created so far in 2026.</text>
 <defs><clipPath id="draw"><rect x="54" y="74" width="638" height="228"><animate attributeName="width" from="0" to="638" dur="2.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></rect></clipPath></defs>
 <line x1="54" y1="300" x2="690" y2="300" stroke="#d1d9e0" stroke-opacity="1"/><text x="46" y="304" fill="#818b98" font-size="11" text-anchor="end">0</text>
 <line x1="54" y1="256.8" x2="690" y2="256.8" stroke="#d1d9e0" stroke-opacity="0.6"/><text x="46" y="260.8" fill="#818b98" font-size="11" text-anchor="end">100</text>
@@ -23,9 +23,9 @@
 <polygon points="54,294 117.6,292.7 181.2,290.1 244.8,289.2 308.4,287.5 372,271.1 435.6,261.1 499.2,236.9 562.8,217.9 626.4,187.7 690,186.4 690,195 626.4,196.3 562.8,226.6 499.2,240 435.6,263.7 372,273.6 308.4,290.1 244.8,290.9 181.2,291.8 117.6,293.1 54,294" fill="#e87ba4" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
 <polygon points="54,292.2 117.6,290.9 181.2,288.3 244.8,287.5 308.4,285.7 372,269.3 435.6,259.4 499.2,235.2 562.8,197.6 626.4,167.4 690,166.1 690,186.4 626.4,187.7 562.8,217.9 499.2,236.9 435.6,261.1 372,271.1 308.4,287.5 244.8,289.2 181.2,290.1 117.6,292.7 54,294" fill="#008300" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
 <polygon points="54,292.2 117.6,290.9 181.2,288.3 244.8,287.5 308.4,285.3 372,268.5 435.6,258.5 499.2,234.3 562.8,169.5 626.4,138.4 690,137.1 690,166.1 626.4,167.4 562.8,197.6 499.2,235.2 435.6,259.4 372,269.3 308.4,285.7 244.8,287.5 181.2,288.3 117.6,290.9 54,292.2" fill="#6250d6" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
-<polygon points="54,287.9 117.6,284.9 181.2,280.1 244.8,277.5 308.4,274.5 372,257.7 435.6,247.7 499.2,223.1 562.8,157 626.4,125 690,123.7 690,137.1 626.4,138.4 562.8,169.5 499.2,234.3 435.6,258.5 372,268.5 308.4,285.3 244.8,287.5 181.2,288.3 117.6,290.9 54,292.2" fill="#e34948" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/></g>
-<circle cx="690" cy="123.7" r="4" fill="#1f2328"><animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.15;1" dur="2s" repeatCount="indefinite"/></circle>
-<text x="682" y="113.7" fill="#1f2328" font-size="13" font-weight="700" text-anchor="end">408</text>
+<polygon points="54,287.9 117.6,284.9 181.2,280.1 244.8,277.5 308.4,274.5 372,257.7 435.6,247.7 499.2,223.1 562.8,157 626.4,125 690,123.3 690,137.1 626.4,138.4 562.8,169.5 499.2,234.3 435.6,258.5 372,268.5 308.4,285.3 244.8,287.5 181.2,288.3 117.6,290.9 54,292.2" fill="#e34948" fill-opacity="0.88" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/></g>
+<circle cx="690" cy="123.3" r="4" fill="#1f2328"><animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.15;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="682" y="113.3" fill="#1f2328" font-size="13" font-weight="700" text-anchor="end">409</text>
 <line x1="694" y1="295.2" x2="706" y2="295.2" stroke="#2a78d6"/><text x="710" y="299.2" fill="#1f2328" font-size="11.5">Robinhood Chain <tspan fill="#59636e">22</tspan></text>
 <line x1="694" y1="272.4" x2="706" y2="272.4" stroke="#eb6834"/><text x="710" y="276.4" fill="#1f2328" font-size="11.5">x402 payments <tspan fill="#59636e">84</tspan></text>
 <line x1="694" y1="237.1" x2="706" y2="237.1" stroke="#1baf7a"/><text x="710" y="241.1" fill="#1f2328" font-size="11.5">MCP servers <tspan fill="#59636e">79</tspan></text>
@@ -33,5 +33,5 @@
 <line x1="694" y1="190.6" x2="706" y2="190.6" stroke="#e87ba4"/><text x="710" y="194.6" fill="#1f2328" font-size="11.5">Solana <tspan fill="#59636e">20</tspan></text>
 <line x1="694" y1="173.6" x2="706" y2="173.6" stroke="#008300"/><text x="710" y="177.6" fill="#1f2328" font-size="11.5">DeFi mechanisms <tspan fill="#59636e">47</tspan></text>
 <line x1="694" y1="151.6" x2="706" y2="151.6" stroke="#6250d6"/><text x="710" y="155.6" fill="#1f2328" font-size="11.5">On-chain experiments <tspan fill="#59636e">67</tspan></text>
-<line x1="694" y1="130.4" x2="706" y2="130.4" stroke="#e34948"/><text x="710" y="134.4" fill="#1f2328" font-size="11.5">Developer tools <tspan fill="#59636e">31</tspan></text>
+<line x1="694" y1="130.2" x2="706" y2="130.2" stroke="#e34948"/><text x="710" y="134.2" fill="#1f2328" font-size="11.5">Developer tools <tspan fill="#59636e">32</tspan></text>
 </svg>

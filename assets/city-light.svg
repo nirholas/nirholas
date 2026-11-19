@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 471" width="900" height="471" role="img" aria-labelledby="t d" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
 <title id="t">Star city</title>
-<desc id="d">An isometric city with one tower per repository. Tower height is stars on a log scale, districts are the 8 catalog sections. Tallest: fresh-start (6227 stars), XActions (658 stars), cryptocurrency.cv (333 stars), three.ws (282 stars), pump-fun-sdk (150 stars), PAI (125 stars).</desc>
+<desc id="d">An isometric city with one tower per repository. Tower height is stars on a log scale, districts are the 8 catalog sections. Tallest: fresh-start (6225 stars), XActions (662 stars), cryptocurrency.cv (333 stars), three.ws (284 stars), pump-fun-sdk (150 stars), PAI (125 stars).</desc>
 <style>.b{transform-box:fill-box;transform-origin:50% 100%;animation:rise 1.3s cubic-bezier(.2,.85,.25,1) both}@keyframes rise{from{transform:scaleY(0);opacity:0}to{transform:scaleY(1);opacity:1}}</style>
 <text x="24" y="36" fill="#1f2328" font-size="19" font-weight="700">Star city</text>
-<text x="24" y="57" fill="#59636e" font-size="12.5">408 towers, one per repository. Height is stars on a log scale; each district is a catalog section.</text>
+<text x="24" y="57" fill="#59636e" font-size="12.5">409 towers, one per repository. Height is stars on a log scale; each district is a catalog section.</text>
 <g transform="translate(180.6 145.4) scale(1)">
 <polygon points="-10,60.8 70.4,75.5 70.4,79.2 -10,64.6" fill="#d1d9e0" fill-opacity="0.9"/><polygon points="19.3,20.7 99.6,35.3 70.4,75.5 -10,60.8" fill="#d1d9e0" fill-opacity="0.45" stroke="#2a78d6" stroke-opacity="0.5"/>
 <polygon points="111.1,102.8 261.9,130.3 261.9,134 111.1,106.6" fill="#d1d9e0" fill-opacity="0.9"/><polygon points="166,27.4 316.8,54.9 261.9,130.3 111.1,102.8" fill="#d1d9e0" fill-opacity="0.45" stroke="#eb6834" stroke-opacity="0.5"/>
@@ -14,9 +14,9 @@
 <polygon points="202.7,251.2 339.4,276.1 339.4,279.8 202.7,254.9" fill="#d1d9e0" fill-opacity="0.9"/><polygon points="252.4,182.8 389.1,207.7 339.4,276.1 202.7,251.2" fill="#d1d9e0" fill-opacity="0.45" stroke="#6250d6" stroke-opacity="0.5"/>
 <polygon points="400.6,275.2 495.1,292.4 495.1,296.2 400.6,279" fill="#d1d9e0" fill-opacity="0.9"/><polygon points="435,228 529.5,245.2 495.1,292.4 400.6,275.2" fill="#d1d9e0" fill-opacity="0.45" stroke="#e34948" stroke-opacity="0.5"/>
 <g class="b" style="animation-delay:0.15s"><polygon points="33.6,27.3 30,32.2 30,3.5 33.6,-1.5" fill="#1d5292"/><polygon points="20.2,30.4 30,32.2 30,3.5 20.2,1.7" fill="#2a78d6"/><polygon points="23.8,-3.3 33.6,-1.5 30,3.5 20.2,1.7" fill="#6aa1e2"/></g>
-<g class="b" style="animation-delay:0.16s"><polygon points="47.7,29.8 44.1,34.8 44.1,6.6 47.7,1.7" fill="#1d5292"/><polygon points="34.3,33 44.1,34.8 44.1,6.6 34.3,4.8" fill="#2a78d6"/><polygon points="37.9,-0.1 47.7,1.7 44.1,6.6 34.3,4.8" fill="#6aa1e2"/></g>
+<g class="b" style="animation-delay:0.16s"><polygon points="47.7,29.8 44.1,34.8 44.1,6 47.7,1.1" fill="#1d5292"/><polygon points="34.3,33 44.1,34.8 44.1,6 34.3,4.2" fill="#2a78d6"/><polygon points="37.9,-0.7 47.7,1.1 44.1,6 34.3,4.2" fill="#6aa1e2"/></g>
 <g class="b" style="animation-delay:0.17s"><polygon points="61.8,32.4 58.2,37.3 58.2,9.7 61.8,4.8" fill="#1d5292"/><polygon points="48.4,35.5 58.2,37.3 58.2,9.7 48.4,7.9" fill="#2a78d6"/><polygon points="51.9,3 61.8,4.8 58.2,9.7 48.4,7.9" fill="#6aa1e2"/></g>
-<g class="b" style="animation-delay:0.25s"><polygon points="180.4,34 176.8,39 176.8,-14.1 180.4,-19" fill="#a04723"/><polygon points="166.9,37.2 176.8,39 176.8,-14.1 166.9,-15.9" fill="#eb6834"/><polygon points="170.5,-20.8 180.4,-19 176.8,-14.1 166.9,-15.9" fill="#f19571"/></g>
+<g class="b" style="animation-delay:0.25s"><polygon points="180.4,34 176.8,39 176.8,-14.2 180.4,-19.1" fill="#a04723"/><polygon points="166.9,37.2 176.8,39 176.8,-14.2 166.9,-16" fill="#eb6834"/><polygon points="170.5,-20.9 180.4,-19.1 176.8,-14.2 166.9,-16" fill="#f19571"/></g>
 <g class="b" style="animation-delay:0.2s"><polygon points="28.5,34.3 24.9,39.3 24.9,14.5 28.5,9.6" fill="#1d5292"/><polygon points="15,37.5 24.9,39.3 24.9,14.5 15,12.7" fill="#2a78d6"/><polygon points="18.6,7.8 28.5,9.6 24.9,14.5 15,12.7" fill="#6aa1e2"/></g>
 <g class="b" style="animation-delay:0.18s"><polygon points="75.9,35 72.3,39.9 72.3,13.6 75.9,8.7" fill="#1d5292"/><polygon points="62.5,38.1 72.3,39.9 72.3,13.6 62.5,11.8" fill="#2a78d6"/><polygon points="66,6.9 75.9,8.7 72.3,13.6 62.5,11.8" fill="#6aa1e2"/></g>
 <g class="b" style="animation-delay:0.26s"><polygon points="194.5,36.6 190.9,41.5 190.9,-1.4 194.5,-6.3" fill="#a04723"/><polygon points="181,39.7 190.9,41.5 190.9,-1.4 181,-3.2" fill="#eb6834"/><polygon points="184.6,-8.1 194.5,-6.3 190.9,-1.4 181,-3.2" fill="#f19571"/></g>
@@ -74,7 +74,7 @@
 <g class="b" style="animation-delay:0.6s"><polygon points="235.4,68 231.9,72.9 231.9,49.1 235.4,44.1" fill="#a04723"/><polygon points="222,71.1 231.9,72.9 231.9,49.1 222,47.3" fill="#eb6834"/><polygon points="225.6,42.3 235.4,44.1 231.9,49.1 222,47.3" fill="#f19571"/></g>
 <g class="b" style="animation-delay:0.53s"><polygon points="282.9,68.6 279.3,73.6 279.3,49.7 282.9,44.8" fill="#a04723"/><polygon points="269.4,71.8 279.3,73.6 279.3,49.7 269.4,47.9" fill="#eb6834"/><polygon points="273,43 282.9,44.8 279.3,49.7 269.4,47.9" fill="#f19571"/></g>
 <g class="b" style="animation-delay:0.75s"><polygon points="154.7,69.3 151.1,74.2 151.1,50.3 154.7,45.4" fill="#a04723"/><polygon points="141.2,72.4 151.1,74.2 151.1,50.3 141.2,48.5" fill="#eb6834"/><polygon points="144.8,43.6 154.7,45.4 151.1,50.3 141.2,48.5" fill="#f19571"/></g>
-<g class="b" style="animation-delay:0.35s"><polygon points="354,69.6 350.4,74.5 350.4,14.3 354,9.4" fill="#127753"/><polygon points="340.5,72.7 350.4,74.5 350.4,14.3 340.5,12.5" fill="#1baf7a"/><polygon points="344.1,7.6 354,9.4 350.4,14.3 340.5,12.5" fill="#5fc7a2"/></g>
+<g class="b" style="animation-delay:0.35s"><polygon points="354,69.6 350.4,74.5 350.4,14.3 354,9.3" fill="#127753"/><polygon points="340.5,72.7 350.4,74.5 350.4,14.3 340.5,12.5" fill="#1baf7a"/><polygon points="344.1,7.5 354,9.3 350.4,14.3 340.5,12.5" fill="#5fc7a2"/></g>
 <g class="b" style="animation-delay:0.68s"><polygon points="202.1,69.9 198.5,74.8 198.5,51 202.1,46" fill="#a04723"/><polygon points="188.7,73 198.5,74.8 198.5,51 188.7,49.2" fill="#eb6834"/><polygon points="192.3,44.3 202.1,46 198.5,51 188.7,49.2" fill="#f19571"/></g>
 <g class="b" style="animation-delay:0.61s"><polygon points="249.5,70.6 245.9,75.5 245.9,51.6 249.5,46.7" fill="#a04723"/><polygon points="236.1,73.7 245.9,75.5 245.9,51.6 236.1,49.8" fill="#eb6834"/><polygon points="239.7,44.9 249.5,46.7 245.9,51.6 236.1,49.8" fill="#f19571"/></g>
 <g class="b" style="animation-delay:0.54s"><polygon points="297,71.2 293.4,76.1 293.4,52.3 297,47.3" fill="#a04723"/><polygon points="283.5,74.3 293.4,76.1 293.4,52.3 283.5,50.5" fill="#eb6834"/><polygon points="287.1,45.5 297,47.3 293.4,52.3 283.5,50.5" fill="#f19571"/></g>
@@ -164,7 +164,7 @@
 <g class="b" style="animation-delay:0.75s"><polygon points="389.8,108.1 386.3,113 386.3,88.2 389.8,83.3" fill="#127753"/><polygon points="376.4,111.2 386.3,113 386.3,88.2 376.4,86.4" fill="#1baf7a"/><polygon points="380,81.5 389.8,83.3 386.3,88.2 376.4,86.4" fill="#5fc7a2"/></g>
 <g class="b" style="animation-delay:0.69s"><polygon points="437.3,108.7 433.7,113.6 433.7,88.9 437.3,84" fill="#127753"/><polygon points="423.8,111.8 433.7,113.6 433.7,88.9 423.8,87.1" fill="#1baf7a"/><polygon points="427.4,82.2 437.3,84 433.7,88.9 423.8,87.1" fill="#5fc7a2"/></g>
 <g class="b" style="animation-delay:0.82s"><polygon points="356.5,110 352.9,114.9 352.9,92 356.5,87.1" fill="#127753"/><polygon points="343.1,113.1 352.9,114.9 352.9,92 343.1,90.3" fill="#1baf7a"/><polygon points="346.7,85.3 356.5,87.1 352.9,92 343.1,90.3" fill="#5fc7a2"/></g>
-<g class="b" style="animation-delay:0.47s"><polygon points="555.8,110.3 552.2,115.3 552.2,88.3 555.8,83.4" fill="#a16d00"/><polygon points="542.3,113.5 552.2,115.3 552.2,88.3 542.3,86.5" fill="#eda100"/><polygon points="545.9,81.6 555.8,83.4 552.2,88.3 542.3,86.5" fill="#f2bd4d"/></g>
+<g class="b" style="animation-delay:0.47s"><polygon points="555.8,110.3 552.2,115.3 552.2,87.7 555.8,82.7" fill="#a16d00"/><polygon points="542.3,113.5 552.2,115.3 552.2,87.7 542.3,85.9" fill="#eda100"/><polygon points="545.9,80.9 555.8,82.7 552.2,87.7 542.3,85.9" fill="#f2bd4d"/></g>
 <g class="b" style="animation-delay:0.76s"><polygon points="403.9,110.6 400.3,115.6 400.3,90.8 403.9,85.9" fill="#127753"/><polygon points="390.5,113.8 400.3,115.6 400.3,90.8 390.5,89" fill="#1baf7a"/><polygon points="394.1,84.1 403.9,85.9 400.3,90.8 390.5,89" fill="#5fc7a2"/></g>
 <g class="b" style="animation-delay:0.7s"><polygon points="451.4,111.3 447.8,116.2 447.8,91.5 451.4,86.5" fill="#127753"/><polygon points="437.9,114.4 447.8,116.2 447.8,91.5 437.9,89.7" fill="#1baf7a"/><polygon points="441.5,84.7 451.4,86.5 447.8,91.5 437.9,89.7" fill="#5fc7a2"/></g>
 <g class="b" style="animation-delay:0.89s"><polygon points="323.2,111.9 319.6,116.8 319.6,95.1 323.2,90.2" fill="#127753"/><polygon points="309.7,115 319.6,116.8 319.6,95.1 309.7,93.3" fill="#1baf7a"/><polygon points="313.3,88.4 323.2,90.2 319.6,95.1 309.7,93.3" fill="#5fc7a2"/></g>
@@ -314,7 +314,7 @@
 <g class="b" style="animation-delay:0.95s"><polygon points="114.3,201.6 110.7,206.5 110.7,183.6 114.3,178.7" fill="#005900"/><polygon points="100.8,204.7 110.7,206.5 110.7,183.6 100.8,181.8" fill="#008300"/><polygon points="104.4,176.9 114.3,178.7 110.7,183.6 100.8,181.8" fill="#4da84d"/></g>
 <g class="b" style="animation-delay:0.86s"><polygon points="289.8,201.6 286.2,206.5 286.2,186.1 289.8,181.2" fill="#433692"/><polygon points="276.4,204.7 286.2,206.5 286.2,186.1 276.4,184.3" fill="#6250d6"/><polygon points="280,179.4 289.8,181.2 286.2,186.1 276.4,184.3" fill="#9185e2"/></g>
 <g class="b" style="animation-delay:0.91s"><polygon points="161.7,202.2 158.1,207.2 158.1,184.3 161.7,179.4" fill="#005900"/><polygon points="148.2,205.4 158.1,207.2 158.1,184.3 148.2,182.5" fill="#008300"/><polygon points="151.8,177.6 161.7,179.4 158.1,184.3 148.2,182.5" fill="#4da84d"/></g>
-<g class="b" style="animation-delay:0.8s"><polygon points="337.2,202.2 333.7,207.2 333.7,185.4 337.2,180.5" fill="#433692"/><polygon points="323.8,205.4 333.7,207.2 333.7,185.4 323.8,183.7" fill="#6250d6"/><polygon points="327.4,178.7 337.2,180.5 333.7,185.4 323.8,183.7" fill="#9185e2"/></g>
+<g class="b" style="animation-delay:0.8s"><polygon points="337.2,202.2 333.7,207.2 333.7,186.8 337.2,181.8" fill="#433692"/><polygon points="323.8,205.4 333.7,207.2 333.7,186.8 323.8,185" fill="#6250d6"/><polygon points="327.4,180 337.2,181.8 333.7,186.8 323.8,185" fill="#9185e2"/></g>
 <g class="b" style="animation-delay:1s"><polygon points="80.9,203.5 77.3,208.4 77.3,185.6 80.9,180.6" fill="#005900"/><polygon points="67.5,206.6 77.3,208.4 77.3,185.6 67.5,183.8" fill="#008300"/><polygon points="71.1,178.8 80.9,180.6 77.3,185.6 67.5,183.8" fill="#4da84d"/></g>
 <g class="b" style="animation-delay:0.93s"><polygon points="256.5,203.5 252.9,208.4 252.9,188 256.5,183.1" fill="#433692"/><polygon points="243,206.7 252.9,208.4 252.9,188 243,186.2" fill="#6250d6"/><polygon points="246.6,181.3 256.5,183.1 252.9,188 243,186.2" fill="#9185e2"/></g>
 <g class="b" style="animation-delay:0.96s"><polygon points="128.4,204.1 124.8,209.1 124.8,186.2 128.4,181.3" fill="#005900"/><polygon points="114.9,207.3 124.8,209.1 124.8,186.2 114.9,184.4" fill="#008300"/><polygon points="118.5,179.5 128.4,181.3 124.8,186.2 114.9,184.4" fill="#4da84d"/></g>
@@ -419,6 +419,7 @@
 <g class="b" style="animation-delay:1.08s"><polygon points="504.4,268.6 500.9,273.5 500.9,248.8 504.4,243.8" fill="#9a3231"/><polygon points="491,271.7 500.9,273.5 500.9,248.8 491,247" fill="#e34948"/><polygon points="494.6,242 504.4,243.8 500.9,248.8 491,247" fill="#eb807f"/></g>
 <g class="b" style="animation-delay:1.15s"><polygon points="423.7,269.9 420.1,274.8 420.1,257.8 423.7,252.9" fill="#9a3231"/><polygon points="410.3,273 420.1,274.8 420.1,257.8 410.3,256" fill="#e34948"/><polygon points="413.8,251.1 423.7,252.9 420.1,257.8 410.3,256" fill="#eb807f"/></g>
 <g class="b" style="animation-delay:1.12s"><polygon points="471.1,270.5 467.5,275.4 467.5,251.6 471.1,246.6" fill="#9a3231"/><polygon points="457.7,273.6 467.5,275.4 467.5,251.6 457.7,249.8" fill="#e34948"/><polygon points="461.3,244.9 471.1,246.6 467.5,251.6 457.7,249.8" fill="#eb807f"/></g>
+<g class="b" style="animation-delay:1.16s"><polygon points="437.8,272.4 434.2,277.4 434.2,272.1 437.8,267.2" fill="#9a3231"/><polygon points="424.3,275.6 434.2,277.4 434.2,272.1 424.3,270.3" fill="#e34948"/><polygon points="427.9,265.4 437.8,267.2 434.2,272.1 424.3,270.3" fill="#eb807f"/></g>
 <g class="b" style="animation-delay:1.13s"><polygon points="485.2,273.1 481.6,278 481.6,255.1 485.2,250.2" fill="#9a3231"/><polygon points="471.8,276.2 481.6,278 481.6,255.1 471.8,253.3" fill="#e34948"/><polygon points="475.4,248.4 485.2,250.2 481.6,255.1 471.8,253.3" fill="#eb807f"/></g>
 <g class="b" style="animation-delay:1.14s"><polygon points="499.3,275.6 495.7,280.6 495.7,260.1 499.3,255.2" fill="#9a3231"/><polygon points="485.9,278.8 495.7,280.6 495.7,260.1 485.9,258.3" fill="#e34948"/><polygon points="489.4,253.4 499.3,255.2 495.7,260.1 485.9,258.3" fill="#eb807f"/></g>
 <text x="-10" y="82.6" fill="#1f2328" font-size="12.5" font-weight="600" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Robinhood Chain <tspan fill="#59636e" font-weight="400">22</tspan></text>
@@ -428,17 +429,17 @@
 <text x="-97.2" y="202.4" fill="#1f2328" font-size="12.5" font-weight="600" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Solana <tspan fill="#59636e" font-weight="400">20</tspan></text>
 <text x="52.7" y="237.7" fill="#1f2328" font-size="12.5" font-weight="600" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">DeFi mechanisms <tspan fill="#59636e" font-weight="400">47</tspan></text>
 <text x="202.7" y="272.9" fill="#1f2328" font-size="12.5" font-weight="600" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">On-chain experiments <tspan fill="#59636e" font-weight="400">67</tspan></text>
-<text x="400.6" y="297" fill="#1f2328" font-size="12.5" font-weight="600" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Developer tools <tspan fill="#59636e" font-weight="400">31</tspan></text>
+<text x="400.6" y="297" fill="#1f2328" font-size="12.5" font-weight="600" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Developer tools <tspan fill="#59636e" font-weight="400">32</tspan></text>
 <line x1="173.6" y1="-20.5" x2="173.6" y2="-37.5" stroke="#59636e" stroke-opacity="0.7"/>
 <circle cx="173.6" cy="-17.5" r="3" fill="#eb6834"><animate attributeName="r" values="3;9;3" dur="2.4s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0.9" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
 <circle cx="173.6" cy="-17.5" r="2.5" fill="#eb6834" stroke="#ffffff"/>
 <rect x="123.7" y="-58.5" width="99.8" height="21" rx="10.5" fill="#ffffff" fill-opacity="0.92" stroke="#eb6834" stroke-opacity="0.8"/>
-<text x="173.6" y="-43.5" fill="#1f2328" font-size="11.5" font-weight="600" text-anchor="middle">three.ws <tspan fill="#59636e" font-weight="400">★282</tspan></text>
-<line x1="347.3" y1="8" x2="347.3" y2="-9" stroke="#59636e" stroke-opacity="0.7"/>
-<circle cx="347.3" cy="11" r="3" fill="#1baf7a"><animate attributeName="r" values="3;9;3" dur="2.4s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0.9" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
-<circle cx="347.3" cy="11" r="2.5" fill="#1baf7a" stroke="#ffffff"/>
-<rect x="297.4" y="-30" width="99.8" height="21" rx="10.5" fill="#ffffff" fill-opacity="0.92" stroke="#1baf7a" stroke-opacity="0.8"/>
-<text x="347.3" y="-15" fill="#1f2328" font-size="11.5" font-weight="600" text-anchor="middle">XActions <tspan fill="#59636e" font-weight="400">★658</tspan></text>
+<text x="173.6" y="-43.5" fill="#1f2328" font-size="11.5" font-weight="600" text-anchor="middle">three.ws <tspan fill="#59636e" font-weight="400">★284</tspan></text>
+<line x1="347.3" y1="7.9" x2="347.3" y2="-9.1" stroke="#59636e" stroke-opacity="0.7"/>
+<circle cx="347.3" cy="10.9" r="3" fill="#1baf7a"><animate attributeName="r" values="3;9;3" dur="2.4s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0.9" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="347.3" cy="10.9" r="2.5" fill="#1baf7a" stroke="#ffffff"/>
+<rect x="297.4" y="-30.1" width="99.8" height="21" rx="10.5" fill="#ffffff" fill-opacity="0.92" stroke="#1baf7a" stroke-opacity="0.8"/>
+<text x="347.3" y="-15.1" fill="#1f2328" font-size="11.5" font-weight="600" text-anchor="middle">XActions <tspan fill="#59636e" font-weight="400">★662</tspan></text>
 <line x1="361.3" y1="16.3" x2="361.3" y2="-30.7" stroke="#59636e" stroke-opacity="0.7"/>
 <circle cx="361.3" cy="19.3" r="3" fill="#1baf7a"><animate attributeName="r" values="3;9;3" dur="2.4s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0.9" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
 <circle cx="361.3" cy="19.3" r="2.5" fill="#1baf7a" stroke="#ffffff"/>
@@ -449,11 +450,11 @@
 <circle cx="375.4" cy="28.6" r="2.5" fill="#1baf7a" stroke="#ffffff"/>
 <rect x="312.3" y="-72.4" width="126.2" height="21" rx="10.5" fill="#ffffff" fill-opacity="0.92" stroke="#1baf7a" stroke-opacity="0.8"/>
 <text x="375.4" y="-57.4" fill="#1f2328" font-size="11.5" font-weight="600" text-anchor="middle">pump-fun-sdk <tspan fill="#59636e" font-weight="400">★150</tspan></text>
-<line x1="442.6" y1="153.9" x2="442.6" y2="136.9" stroke="#59636e" stroke-opacity="0.7"/>
-<circle cx="442.6" cy="156.9" r="3" fill="#e34948"><animate attributeName="r" values="3;9;3" dur="2.4s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0.9" dur="2.4s" begin="0s" repeatCount="indefinite"/></circle>
-<circle cx="442.6" cy="156.9" r="2.5" fill="#e34948" stroke="#ffffff"/>
-<rect x="379.5" y="115.9" width="126.2" height="21" rx="10.5" fill="#ffffff" fill-opacity="0.92" stroke="#e34948" stroke-opacity="0.8"/>
-<text x="442.6" y="130.9" fill="#1f2328" font-size="11.5" font-weight="600" text-anchor="middle">fresh-start <tspan fill="#59636e" font-weight="400">★6.2k</tspan></text>
+<line x1="442.6" y1="154" x2="442.6" y2="137" stroke="#59636e" stroke-opacity="0.7"/>
+<circle cx="442.6" cy="157" r="3" fill="#e34948"><animate attributeName="r" values="3;9;3" dur="2.4s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0.9" dur="2.4s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="442.6" cy="157" r="2.5" fill="#e34948" stroke="#ffffff"/>
+<rect x="379.5" y="116" width="126.2" height="21" rx="10.5" fill="#ffffff" fill-opacity="0.92" stroke="#e34948" stroke-opacity="0.8"/>
+<text x="442.6" y="131" fill="#1f2328" font-size="11.5" font-weight="600" text-anchor="middle">fresh-start <tspan fill="#59636e" font-weight="400">★6.2k</tspan></text>
 <line x1="456.7" y1="189.5" x2="456.7" y2="166.5" stroke="#59636e" stroke-opacity="0.7"/>
 <circle cx="456.7" cy="192.5" r="3" fill="#e34948"><animate attributeName="r" values="3;9;3" dur="2.4s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0.9" dur="2.4s" begin="2s" repeatCount="indefinite"/></circle>
 <circle cx="456.7" cy="192.5" r="2.5" fill="#e34948" stroke="#ffffff"/>

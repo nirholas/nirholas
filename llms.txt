@@ -1,6 +1,6 @@
 # nirholas
 
-> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 408 public repositories.
+> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 409 public repositories.
 
 ## Catalog
 
@@ -16,7 +16,7 @@
 - Solana and pump.fun tooling: 20 repositories
 - DeFi mechanisms and Uniswap v4 hooks: 47 repositories
 - On-chain experiments and collectibles: 67 repositories
-- Developer tools and everything else: 31 repositories
+- Developer tools and everything else: 32 repositories
 
 ## Featured
 
@@ -26,3 +26,21 @@
 - [three.ws](https://github.com/nirholas/three.ws): Give your AI agent a 3D body: rigged GLB avatars from text or a photo, an LLM brain, a Solana wallet, a one-tag embed.
 - [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk): TypeScript SDK, pump CLI and MCP server for the Pump protocol on Solana: bonding curves, AMM pools and creator fees.
 - [PAI](https://github.com/nirholas/PAI): Bootable Debian 12 live USB that runs Ollama locally for a private, offline AI desktop on x86_64 and ARM64.
+
+## Contributions
+
+Repositories owned by others where nirholas has merged pull requests:
+
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): 1 merged
+- [x402-foundation/x402](https://github.com/x402-foundation/x402): 1 merged
+- [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers): 3 merged
+- [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3): 1 merged
+- [xai-org/xai-cookbook](https://github.com/xai-org/xai-cookbook): 1 merged
+- [Merit-Systems/x402scan](https://github.com/Merit-Systems/x402scan): 1 merged
+- [jup-ag/token-list](https://github.com/jup-ag/token-list): 1 merged
+- [hridaydutta123/awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools): 1 merged
+- [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers): 2 merged
+- [Sperax/bnb-chain-toolkit](https://github.com/Sperax/bnb-chain-toolkit): 3 merged
+- [Sperax/USDs-x402-facilitator](https://github.com/Sperax/USDs-x402-facilitator): 1 merged
+- [Sperax/sperax-skills](https://github.com/Sperax/sperax-skills): 2 merged
+- [Sperax/x402-archive](https://github.com/Sperax/x402-archive): 1 merged
