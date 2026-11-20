@@ -30,7 +30,7 @@
 			"claude-code-plugin"
 		],
 		"language": "HTML",
-		"stars": 661,
+		"stars": 662,
 		"homepage": "https://xactions.app/features"
 	},
 	{
@@ -1783,6 +1783,24 @@
 		"homepage": "https://nirholas.github.io/robinhood-chain-launcher/"
 	},
 	{
+		"name": "robinhood-chain-mcp",
+		"url": "https://github.com/nirholas/robinhood-chain-mcp",
+		"description": "MCP servers for Robinhood Chain: read-only data tools plus an opt-in trading server with spend caps and a confirm gate.",
+		"topics": [
+			"model-context-protocol",
+			"typescript",
+			"ai-agents",
+			"mcp",
+			"mcp-server",
+			"robinhood-chain",
+			"claude-code-plugin",
+			"stock-tokens"
+		],
+		"language": "TypeScript",
+		"stars": 9,
+		"homepage": "https://nirholas.github.io/robinhood-chain-mcp/"
+	},
+	{
 		"name": "robinhood-chain-pay",
 		"url": "https://github.com/nirholas/robinhood-chain-pay",
 		"description": "USDG payments for Robinhood Chain: embeddable pay widget, hosted payment links and a receipt verification library.",
@@ -2424,24 +2442,6 @@
 		"language": "TypeScript",
 		"stars": 8,
 		"homepage": "https://nirholas.github.io/robinhood-chain-js/"
-	},
-	{
-		"name": "robinhood-chain-mcp",
-		"url": "https://github.com/nirholas/robinhood-chain-mcp",
-		"description": "MCP servers for Robinhood Chain: read-only data tools plus an opt-in trading server with spend caps and a confirm gate.",
-		"topics": [
-			"model-context-protocol",
-			"typescript",
-			"ai-agents",
-			"mcp",
-			"mcp-server",
-			"robinhood-chain",
-			"claude-code-plugin",
-			"stock-tokens"
-		],
-		"language": "TypeScript",
-		"stars": 8,
-		"homepage": "https://nirholas.github.io/robinhood-chain-mcp/"
 	},
 	{
 		"name": "robinhood-chain-traders",

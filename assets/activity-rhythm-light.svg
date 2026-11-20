@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 338" width="900" height="338" role="img" aria-labelledby="t d" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
 <title id="t">When the code lands</title>
-<desc id="d">Punchcard of commits by weekday and hour, UTC. Busiest slot: Fri 03:00 UTC with 3,691.</desc>
+<desc id="d">Punchcard of commits by weekday and hour, UTC. Busiest slot: Fri 03:00 UTC with 3,693.</desc>
 <style>.p{transform-box:fill-box;transform-origin:center;animation:pop .7s cubic-bezier(.3,1.6,.5,1) both}@keyframes pop{from{transform:scale(0)}}</style>
 <text x="24" y="36" fill="#1f2328" font-size="19" font-weight="700">When the code lands</text>
-<text x="24" y="57" fill="#59636e" font-size="12.5">Commits by weekday and hour (UTC) across public repositories. Busiest slot: Fri 03:00 UTC, 3,691 commits.</text>
+<text x="24" y="57" fill="#59636e" font-size="12.5">Commits by weekday and hour (UTC) across public repositories. Busiest slot: Fri 03:00 UTC, 3,693 commits.</text>
 <text x="60" y="100" fill="#59636e" font-size="12" text-anchor="end">Mon</text><line x1="74" y1="96" x2="876" y2="96" stroke="#d1d9e0" stroke-opacity="0.5"/>
 <circle class="p" style="animation-delay:0.1s" cx="90.7" cy="96" r="2" fill="#2a78d6" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.13s" cx="124.1" cy="96" r="2" fill="#2a78d6" fill-opacity="0.36"/>
@@ -60,10 +60,10 @@
 <circle class="p" style="animation-delay:0.26s" cx="157.5" cy="160" r="2" fill="#2a78d6" fill-opacity="0.35"/>
 <circle class="p" style="animation-delay:0.29s" cx="191" cy="160" r="3" fill="#2a78d6" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.32s" cx="224.4" cy="160" r="2.7" fill="#2a78d6" fill-opacity="0.37"/>
-<circle class="p" style="animation-delay:0.35s" cx="257.8" cy="160" r="4" fill="#2a78d6" fill-opacity="0.4"/>
+<circle class="p" style="animation-delay:0.35s" cx="257.8" cy="160" r="3.9" fill="#2a78d6" fill-opacity="0.4"/>
 <circle class="p" style="animation-delay:0.38s" cx="291.2" cy="160" r="3" fill="#2a78d6" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.41s" cx="324.6" cy="160" r="2.1" fill="#2a78d6" fill-opacity="0.36"/>
-<circle class="p" style="animation-delay:0.44s" cx="358" cy="160" r="2.4" fill="#2a78d6" fill-opacity="0.37"/>
+<circle class="p" style="animation-delay:0.44s" cx="358" cy="160" r="2.3" fill="#2a78d6" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.47s" cx="391.5" cy="160" r="2" fill="#2a78d6" fill-opacity="0.36"/>
 <circle class="p" style="animation-delay:0.5s" cx="424.9" cy="160" r="2.3" fill="#2a78d6" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.53s" cx="458.3" cy="160" r="2.2" fill="#2a78d6" fill-opacity="0.36"/>
@@ -107,7 +107,7 @@
 <text x="60" y="228" fill="#59636e" font-size="12" text-anchor="end">Fri</text><line x1="74" y1="224" x2="876" y2="224" stroke="#d1d9e0" stroke-opacity="0.5"/>
 <circle class="p" style="animation-delay:0.3s" cx="90.7" cy="224" r="3" fill="#2a78d6" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.33s" cx="124.1" cy="224" r="3.4" fill="#2a78d6" fill-opacity="0.39"/>
-<circle class="p" style="animation-delay:0.36s" cx="157.5" cy="224" r="3.3" fill="#2a78d6" fill-opacity="0.38"/>
+<circle class="p" style="animation-delay:0.36s" cx="157.5" cy="224" r="3.5" fill="#2a78d6" fill-opacity="0.39"/>
 <circle class="p" style="animation-delay:0.39s" cx="191" cy="224" r="14.5" fill="#2a78d6" fill-opacity="1"/>
 <circle class="p" style="animation-delay:0.42s" cx="224.4" cy="224" r="3" fill="#2a78d6" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.45s" cx="257.8" cy="224" r="4.1" fill="#2a78d6" fill-opacity="0.4"/>
