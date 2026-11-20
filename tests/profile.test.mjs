@@ -2,7 +2,7 @@ import { describe, it } from 'node:test';
 import { expect } from './expect.mjs';
 import { ABOUT_LINKS, buildProfile, groupContributions, onlyStampChanged } from '../scripts/build-profile.mjs';
 import { renderVisuals, renderActivityVisuals, shortTitle } from '../scripts/lib/profile-visuals.mjs';
-import { summarizeActivity, repoCommits, BULK_LINES } from '../scripts/lib/profile-activity.mjs';
+import { summarizeActivity, repoCommits, planRepo, mergeRows, BULK_LINES } from '../scripts/lib/profile-activity.mjs';
 
 const repo = (name, stars, extra = {}) => ({
 	name,
@@ -253,7 +253,7 @@ describe('repoCommits', () => {
 	};
 
 	it('shrinks the page instead of failing when GitHub times out on a large page', async () => {
-		const rows = await repoCommits('o', 'r', 'id', page);
+		const rows = await repoCommits('o', 'r', 'id', { query: page });
 		expect(rows.length).toBe(130);
 		expect(new Set(rows.map((r) => r[0])).size).toBe(130);
 	});
@@ -261,12 +261,39 @@ describe('repoCommits', () => {
 	it('still fails when even a one-commit page cannot be read', async () => {
 		let threw = false;
 		try {
-			await repoCommits('o', 'r', 'id', () => {
-				throw new Error('gh: HTTP 502');
+			await repoCommits('o', 'r', 'id', {
+				query: () => {
+					throw new Error('gh: HTTP 502');
+				},
 			});
 		} catch {
 			threw = true;
 		}
 		expect(threw).toBe(true);
+	});
+});
+
+describe('incremental activity cache', () => {
+	const day = 86400000;
+	const t0 = Date.parse('2026-11-10T12:00:00Z');
+	const prev = { pushedAt: '2026-11-10T12:00:00Z', commits: [[t0, 5, 1, 'b'], [t0 - day, 3, 0, 'a']] };
+
+	it('reuses a repo with no push since the last run', () => {
+		expect(planRepo(prev, '2026-11-10T12:00:00Z', false)).toEqual({ reuse: true });
+	});
+
+	it('reads a pushed repo from a week before its newest cached commit', () => {
+		expect(planRepo(prev, '2026-11-12T08:00:00Z', false)).toEqual({ since: new Date(t0 - 7 * day).toISOString() });
+	});
+
+	it('reads everything on a full refresh, an uncached repo, or a repo with no cached commits', () => {
+		expect(planRepo(prev, '2026-11-12T08:00:00Z', true)).toEqual({ since: null });
+		expect(planRepo(undefined, '2026-11-12T08:00:00Z', false)).toEqual({ since: null });
+		expect(planRepo({ pushedAt: 'x', commits: [] }, 'y', false)).toEqual({ since: null });
+	});
+
+	it('merges overlapping reads without counting a commit twice', () => {
+		const merged = mergeRows(prev.commits, [[t0 + day, 9, 9, 'c'], [t0, 5, 1, 'b']]);
+		expect(merged.map((r) => r[3])).toEqual(['c', 'b', 'a']);
 	});
 });

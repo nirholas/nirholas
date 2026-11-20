@@ -84,8 +84,10 @@ const clip = (s = '', n = 140) => {
 };
 const line = (r) => `- [${r.name}](https://github.com/${OWNER}/${r.name})${stars(r.stargazerCount)}${r.description ? `: ${clip(r.description)}` : ''}`;
 
-function load() {
-	const rows = JSON.parse(gh(['repo', 'list', OWNER, '--limit', '1000', '--json', 'name,description,stargazerCount,isPrivate,isFork,isArchived,repositoryTopics,primaryLanguage,homepageUrl,pushedAt,createdAt,forkCount']));
+const listRepos = () =>
+	JSON.parse(gh(['repo', 'list', OWNER, '--limit', '1000', '--json', 'name,description,stargazerCount,isPrivate,isFork,isArchived,repositoryTopics,primaryLanguage,homepageUrl,pushedAt,createdAt,forkCount']));
+
+function load(rows) {
 	return rows
 		.filter((r) => !r.isPrivate && !r.isFork && !r.isArchived && r.name !== OWNER)
 		.map((r) => ({ ...r, topics: (r.repositoryTopics || []).map((t) => t.name), language: r.primaryLanguage?.name || null }))
@@ -338,13 +340,14 @@ authors:
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
-	const all = load();
+	const listed = listRepos();
+	const all = load(listed);
 	const activityData = flag('no-activity')
 		? null
 		: await collectActivity({
 				owner: OWNER,
-				repos: JSON.parse(gh(['repo', 'list', OWNER, '--limit', '1000', '--json', 'name,isPrivate,isFork'])).filter((r) => !r.isPrivate && !r.isFork && r.name !== OWNER).map((r) => r.name),
-				cacheFile: join(process.env.TMPDIR || '/tmp', 'profile-activity-cache.json'),
+				repos: listed.filter((r) => !r.isPrivate && !r.isFork && r.name !== OWNER).map((r) => ({ name: r.name, pushedAt: r.pushedAt })),
+				cacheFile: resolve(opt('activity-cache') || join(process.env.TMPDIR || '/tmp', 'profile-activity-cache.json')),
 				log: console.log,
 			});
 	const contributions = loadContributions();

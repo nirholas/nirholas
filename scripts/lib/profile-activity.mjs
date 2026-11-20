@@ -27,10 +27,16 @@ const run = promisify(execFile);
 export const BULK_LINES = 20000;
 const DAY = 86400000;
 const CONCURRENCY = 6;
+// Every FULL_EVERY_DAYS the whole history is read again, so commits a rebase or
+// force-push rewrote drop out of the cache instead of being counted twice.
+const FULL_EVERY_DAYS = 7;
+// An incremental read starts this far before the newest cached commit, so a
+// commit made earlier and pushed later is still picked up.
+const OVERLAP = 7 * DAY;
 
-const HISTORY_QUERY = `query($owner:String!,$name:String!,$id:ID!,$until:GitTimestamp,$first:Int!){
+const HISTORY_QUERY = `query($owner:String!,$name:String!,$id:ID!,$since:GitTimestamp,$until:GitTimestamp,$first:Int!){
   repository(owner:$owner,name:$name){
-    defaultBranchRef{target{... on Commit{history(first:$first,until:$until,author:{id:$id}){
+    defaultBranchRef{target{... on Commit{history(first:$first,since:$since,until:$until,author:{id:$id}){
       nodes{oid committedDate additions deletions}
     }}}}
   }
@@ -96,14 +102,18 @@ async function pool(items, size, fn) {
  * failed page is retried at half the size, down to a single commit, and later
  * pages stay at the size that worked. Only a one-commit page that still fails
  * is an error.
+ *
+ * `since` limits the read to commits at or after that ISO time. Rows are
+ * [time, added, deleted, oid], newest first.
  */
-export async function repoCommits(owner, name, userId, query = (vars) => gql(HISTORY_QUERY, vars, 2)) {
+export async function repoCommits(owner, name, userId, { since = null, query = (vars) => gql(HISTORY_QUERY, vars, 2) } = {}) {
 	const rows = [];
 	const seen = new Set();
 	let until = null;
 	let first = 100;
 	for (;;) {
 		const vars = { owner, name, id: userId, first };
+		if (since) vars.since = since;
 		if (until) vars.until = until;
 		let res;
 		try {
@@ -120,7 +130,7 @@ export async function repoCommits(owner, name, userId, query = (vars) => gql(HIS
 			if (!n || seen.has(n.oid)) continue;
 			seen.add(n.oid);
 			fresh += 1;
-			rows.push([Date.parse(n.committedDate), n.additions, n.deletions]);
+			rows.push([Date.parse(n.committedDate), n.additions, n.deletions, n.oid]);
 		}
 		if (nodes.length < first) break;
 		const oldest = Date.parse(nodes.findLast(Boolean).committedDate);
@@ -130,18 +140,45 @@ export async function repoCommits(owner, name, userId, query = (vars) => gql(HIS
 }
 
 /**
- * Fetch the raw activity. `repos` are the public, non-fork repository names to
- * read history from. A finished run is written to `cacheFile` and reused for
- * `cacheHours` so repeated builds while iterating on the visuals stay cheap.
+ * Decide how to refresh one repo from its cached entry. A repo GitHub reports
+ * no push for since the last run is reused as is; a pushed repo is read from
+ * OVERLAP before its newest cached commit; anything else is read in full.
  */
-export async function collectActivity({ owner, repos, now = new Date(), cacheFile = null, cacheHours = 6, log = () => {} }) {
-	if (cacheFile && existsSync(cacheFile)) {
-		const cached = JSON.parse(readFileSync(cacheFile, 'utf8'));
-		if (cached.owner === owner && now - Date.parse(cached.fetchedAt) < cacheHours * 3600000) {
-			log(`activity: reusing cache from ${cached.fetchedAt}`);
-			return cached;
-		}
+export function planRepo(prev, pushedAt, full) {
+	if (full || !prev) return { since: null };
+	if (prev.pushedAt === pushedAt) return { reuse: true };
+	if (!prev.commits.length) return { since: null };
+	const newest = prev.commits.reduce((m, r) => Math.max(m, r[0]), 0);
+	return { since: new Date(newest - OVERLAP).toISOString() };
+}
+
+/** Union of cached and freshly read rows, deduped by oid, newest first. */
+export function mergeRows(cached, fresh) {
+	const byOid = new Map(cached.map((r) => [r[3], r]));
+	for (const r of fresh) byOid.set(r[3], r);
+	return [...byOid.values()].sort((a, b) => b[0] - a[0]);
+}
+
+function readCache(cacheFile, owner) {
+	if (!cacheFile || !existsSync(cacheFile)) return null;
+	try {
+		const cache = JSON.parse(readFileSync(cacheFile, 'utf8'));
+		return cache.owner === owner && cache.version === 2 && cache.repos ? cache : null;
+	} catch {
+		return null;
 	}
+}
+
+/**
+ * Fetch the raw activity. `repos` are the public, non-fork repositories to read
+ * history from, as { name, pushedAt }. With a `cacheFile` the per-repo commits
+ * of the previous run are kept there, so a daily run only reads the repos that
+ * were pushed since, and only their recent commits. The file is rewritten after
+ * every successful read.
+ */
+export async function collectActivity({ owner, repos, now = new Date(), cacheFile = null, log = () => {} }) {
+	const cache = readCache(cacheFile, owner);
+	const full = !cache || now - Date.parse(cache.fullAt) >= FULL_EVERY_DAYS * DAY;
 	const user = await ghJson(['api', `users/${owner}`]);
 	const created = new Date(user.created_at);
 
@@ -155,18 +192,25 @@ export async function collectActivity({ owner, repos, now = new Date(), cacheFil
 	});
 	calendar.sort((a, b) => (a[0] < b[0] ? -1 : 1));
 
-	let done = 0;
-	const perRepo = await pool(repos, CONCURRENCY, async (name) => {
-		const rows = await repoCommits(owner, name, user.node_id);
-		if (++done % 50 === 0) log(`activity: ${done}/${repos.length} repos read`);
-		return [name, rows];
+	let read = 0;
+	const perRepo = await pool(repos, CONCURRENCY, async ({ name, pushedAt }) => {
+		const prev = cache?.repos[name];
+		const plan = planRepo(prev, pushedAt, full);
+		if (plan.reuse) return [name, pushedAt, prev.commits];
+		const fresh = await repoCommits(owner, name, user.node_id, { since: plan.since });
+		if (++read % 50 === 0) log(`activity: ${read} repos read`);
+		return [name, pushedAt, plan.since ? mergeRows(prev.commits, fresh) : fresh];
 	});
-	const commits = {};
-	for (const [name, rows] of perRepo) if (rows.length) commits[name] = rows;
+	log(`activity: ${full ? 'full' : 'incremental'} read, ${read} of ${repos.length} repos fetched, ${repos.length - read} unchanged`);
 
-	const data = { owner, fetchedAt: now.toISOString(), calendar, commits };
-	if (cacheFile) writeFileSync(cacheFile, JSON.stringify(data));
-	return data;
+	const commits = {};
+	const cached = {};
+	for (const [name, pushedAt, rows] of perRepo) {
+		cached[name] = { pushedAt, commits: rows };
+		if (rows.length) commits[name] = rows;
+	}
+	if (cacheFile) writeFileSync(cacheFile, JSON.stringify({ owner, version: 2, fullAt: full ? now.toISOString() : cache.fullAt, repos: cached }));
+	return { owner, fetchedAt: now.toISOString(), calendar, commits };
 }
 
 const dayKey = (ms) => new Date(ms).toISOString().slice(0, 10);

@@ -8,6 +8,7 @@ It needs Node 22 or newer and an authenticated `gh` (or `GH_TOKEN`). There are n
 npm run build                                    # regenerate the files in this checkout
 node scripts/build-profile.mjs --no-activity     # catalog only, skip the commit-history crawl
 node scripts/build-profile.mjs --out /tmp/p      # write somewhere else to compare
+node scripts/build-profile.mjs --activity-cache c.json   # keep the commit cache in c.json (default: $TMPDIR/profile-activity-cache.json)
 npm run publish:profile                          # regenerate, commit and push to main
 npm test                                         # node:test suite, no network
 ```
@@ -21,6 +22,7 @@ npm test                                         # node:test suite, no network
 | Build identity | `three-ws-build@` (needs `actAs` on itself to start the build) |
 | GitHub token | Secret Manager `github-profile-token`, push access on `nirholas/nirholas` |
 | Build tag | `github-profile-refresh` |
+| Activity cache | `gs://nirholas-profile-state/activity-cache.json`, restored before the generator and saved after it (`three-ws-build@` has object admin on the bucket only) |
 
 The build runs the generator as committed on `main` here, so a change takes effect on the first run after it is pushed. A rebuild where nothing changed except the "Pulled from the GitHub API on" date is not committed.
 
@@ -64,12 +66,12 @@ The same run adds an **About** section (the owner's background, first person; it
 Where the numbers come from, and what they leave out:
 
 - **Commits, active days and streaks** come from the GraphQL contribution calendar, so private repositories count (as counts only; no private name or content is ever read or printed).
-- **Lines and hours** come from each public, non-fork repo's default-branch history filtered to the owner (`history(author:)`, paged by an `until` date because cursor paging 502s deep into large repos). Private repos do not contribute.
+- **Lines and hours** come from each public, non-fork repo's default-branch history filtered to the owner (`history(author:)`, paged by an `until` date because cursor paging 502s deep into large repos, and halving the page size when GitHub 502s on a page of large commits). Private repos do not contribute.
 - **Bulk commits** over `BULK_LINES` (20,000) changed lines are left out of line totals as imports or generated output. A commit GitHub cannot diff comes back as a null node and is skipped.
 - **Hours are not a stopwatch.** A day counts each UTC clock hour in which a commit landed, so it can never exceed 24 and a single push never counts as more than its hour.
 - The README only ever names repos that survive the same gating as the catalog; gated repos still count toward totals.
 
-A cold run reads about 430 repos and takes a few minutes; the API quota cost is a few hundred GraphQL points.
+Each run keeps every repo's commits in the activity cache. The next run reuses a repo GitHub reports no push for (`pushedAt` unchanged) without any API call, and for a pushed repo reads only commits from a week before its newest cached one, merged by commit id. Every 7 days the whole history is read again, so commits a rebase or force-push rewrote drop out instead of counting twice. A missing or unreadable cache simply means a full read. A full read of about 440 repos takes around 13 minutes on Cloud Build; a daily incremental run only touches the repos pushed that day.
 
 An **Open-source contributions** section follows How I build: every public repository owned by someone else where a maintainer merged a pull request the owner authored, most-starred first, each with links to its merged pull requests. It comes from one GraphQL search (`is:pr is:merged author:nirholas -user:nirholas`) on every run, so a newly merged PR shows up at the next daily refresh with no hand edit. It lists every such repo regardless of the catalog's crypto gating, because the owner asked for the full record of accepted contributions. `llms.txt` carries the same list. If the search fails, the run throws before `--publish` pushes, so the live README never loses the section.
 

@@ -1,6 +1,15 @@
 {
 	"steps": [
 		{
+			"id": "restore-activity-cache",
+			"name": "gcr.io/google.com/cloudsdktool/cloud-sdk:slim",
+			"entrypoint": "bash",
+			"args": [
+				"-c",
+				"mkdir -p /workspace/tmp\ngcloud storage cp gs://nirholas-profile-state/activity-cache.json /workspace/tmp/profile-activity-cache.json || echo 'no activity cache yet: this run reads every repository in full'"
+			]
+		},
+		{
 			"id": "refresh-profile",
 			"name": "node:22-bookworm",
 			"entrypoint": "bash",
@@ -16,6 +25,15 @@
 				"GIT_COMMITTER_EMAIL=22895867+nirholas@users.noreply.github.com"
 			],
 			"secretEnv": ["GH_TOKEN"]
+		},
+		{
+			"id": "save-activity-cache",
+			"name": "gcr.io/google.com/cloudsdktool/cloud-sdk:slim",
+			"entrypoint": "bash",
+			"args": [
+				"-c",
+				"gcloud storage cp /workspace/tmp/profile-activity-cache.json gs://nirholas-profile-state/activity-cache.json"
+			]
 		}
 	],
 	"availableSecrets": {
