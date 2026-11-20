@@ -2,7 +2,7 @@ import { describe, it } from 'node:test';
 import { expect } from './expect.mjs';
 import { ABOUT_LINKS, buildProfile, groupContributions, onlyStampChanged } from '../scripts/build-profile.mjs';
 import { renderVisuals, renderActivityVisuals, shortTitle } from '../scripts/lib/profile-visuals.mjs';
-import { summarizeActivity, BULK_LINES } from '../scripts/lib/profile-activity.mjs';
+import { summarizeActivity, repoCommits, BULK_LINES } from '../scripts/lib/profile-activity.mjs';
 
 const repo = (name, stars, extra = {}) => ({
 	name,
@@ -230,5 +230,43 @@ describe('github profile', () => {
 		const out = buildProfile(repos);
 		expect(out.stars).toBe(952);
 		expect(out.readme).toContain(`${out.count} repositories, 952 stars`);
+	});
+});
+
+describe('repoCommits', () => {
+	// 130 commits one minute apart, newest first, read the way GitHub serves them:
+	// at most `first` commits at or before `until`. Pages over 40 commits fail
+	// with HTTP 502, as GitHub does when diffing a large page deep in a long
+	// history (universal-crypto-mcp, 2026-11-18 and 2026-11-19).
+	const START = Date.parse('2026-01-31T16:00:00Z');
+	const history = Array.from({ length: 130 }, (_, i) => ({
+		oid: `c${i}`,
+		committedDate: new Date(START - i * 60000).toISOString(),
+		additions: i,
+		deletions: 1,
+	}));
+	const page = (vars) => {
+		if (vars.first > 40) throw Object.assign(new Error('gh: HTTP 502'), { stdout: '' });
+		const bound = vars.until ? Date.parse(vars.until) : Infinity;
+		const nodes = history.filter((c) => Date.parse(c.committedDate) <= bound).slice(0, vars.first);
+		return { data: { repository: { defaultBranchRef: { target: { history: { nodes } } } } } };
+	};
+
+	it('shrinks the page instead of failing when GitHub times out on a large page', async () => {
+		const rows = await repoCommits('o', 'r', 'id', page);
+		expect(rows.length).toBe(130);
+		expect(new Set(rows.map((r) => r[0])).size).toBe(130);
+	});
+
+	it('still fails when even a one-commit page cannot be read', async () => {
+		let threw = false;
+		try {
+			await repoCommits('o', 'r', 'id', () => {
+				throw new Error('gh: HTTP 502');
+			});
+		} catch {
+			threw = true;
+		}
+		expect(threw).toBe(true);
 	});
 });

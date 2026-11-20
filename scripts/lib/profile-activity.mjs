@@ -28,9 +28,9 @@ export const BULK_LINES = 20000;
 const DAY = 86400000;
 const CONCURRENCY = 6;
 
-const HISTORY_QUERY = `query($owner:String!,$name:String!,$id:ID!,$until:GitTimestamp){
+const HISTORY_QUERY = `query($owner:String!,$name:String!,$id:ID!,$until:GitTimestamp,$first:Int!){
   repository(owner:$owner,name:$name){
-    defaultBranchRef{target{... on Commit{history(first:100,until:$until,author:{id:$id}){
+    defaultBranchRef{target{... on Commit{history(first:$first,until:$until,author:{id:$id}){
       nodes{oid committedDate additions deletions}
     }}}}
   }
@@ -51,7 +51,7 @@ function salvage(stdout) {
 	}
 }
 
-async function ghJson(args) {
+async function ghJson(args, attempts = 6) {
 	for (let attempt = 0; ; attempt++) {
 		try {
 			const { stdout } = await run('gh', args, { maxBuffer: 1 << 28 });
@@ -61,14 +61,14 @@ async function ghJson(args) {
 			// body still carries every other commit, with a null in the failed slot.
 			const partial = salvage(err.stdout);
 			if (partial) return partial;
-			if (attempt >= 5) throw err;
+			if (attempt >= attempts - 1) throw err;
 			await new Promise((r) => setTimeout(r, 2000 * (attempt + 1)));
 		}
 	}
 }
 
-const gql = (query, vars) =>
-	ghJson(['api', 'graphql', '-f', `query=${query}`, ...Object.entries(vars).flatMap(([k, v]) => [typeof v === 'number' ? '-F' : '-f', `${k}=${v}`])]);
+const gql = (query, vars, attempts) =>
+	ghJson(['api', 'graphql', '-f', `query=${query}`, ...Object.entries(vars).flatMap(([k, v]) => [typeof v === 'number' ? '-F' : '-f', `${k}=${v}`])], attempts);
 
 async function pool(items, size, fn) {
 	const out = new Array(items.length);
@@ -90,15 +90,29 @@ async function pool(items, size, fn) {
  * each page, which times out (502) deep into a repo with thousands of commits;
  * a date bound does not. Pages overlap by the boundary second, so commits are
  * deduped by oid.
+ *
+ * GitHub also 502s when diffing a full page of large commits deep in a long
+ * history, and repeating that request fails the same way every time. So a
+ * failed page is retried at half the size, down to a single commit, and later
+ * pages stay at the size that worked. Only a one-commit page that still fails
+ * is an error.
  */
-async function repoCommits(owner, name, userId) {
+export async function repoCommits(owner, name, userId, query = (vars) => gql(HISTORY_QUERY, vars, 2)) {
 	const rows = [];
 	const seen = new Set();
 	let until = null;
+	let first = 100;
 	for (;;) {
-		const vars = { owner, name, id: userId };
+		const vars = { owner, name, id: userId, first };
 		if (until) vars.until = until;
-		const res = await gql(HISTORY_QUERY, vars);
+		let res;
+		try {
+			res = await query(vars);
+		} catch (err) {
+			if (first === 1) throw err;
+			first = Math.ceil(first / 2);
+			continue;
+		}
 		const nodes = res.data?.repository?.defaultBranchRef?.target?.history?.nodes;
 		if (!nodes?.length) break;
 		let fresh = 0;
@@ -108,7 +122,7 @@ async function repoCommits(owner, name, userId) {
 			fresh += 1;
 			rows.push([Date.parse(n.committedDate), n.additions, n.deletions]);
 		}
-		if (nodes.length < 100) break;
+		if (nodes.length < first) break;
 		const oldest = Date.parse(nodes.findLast(Boolean).committedDate);
 		until = new Date(fresh ? oldest : oldest - 1000).toISOString();
 	}
