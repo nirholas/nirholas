@@ -77,7 +77,7 @@
 <circle class="p" style="animation-delay:0.77s" cx="725.6" cy="160" r="4.1" fill="#3987e5" fill-opacity="0.4"/>
 <circle class="p" style="animation-delay:0.8s" cx="759" cy="160" r="2.8" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.83s" cx="792.5" cy="160" r="3" fill="#3987e5" fill-opacity="0.38"/>
-<circle class="p" style="animation-delay:0.86s" cx="825.9" cy="160" r="3.8" fill="#3987e5" fill-opacity="0.39"/>
+<circle class="p" style="animation-delay:0.86s" cx="825.9" cy="160" r="3.7" fill="#3987e5" fill-opacity="0.39"/>
 <circle class="p" style="animation-delay:0.89s" cx="859.3" cy="160" r="2.2" fill="#3987e5" fill-opacity="0.37"/>
 <text x="60" y="196" fill="#9198a1" font-size="12" text-anchor="end">Thu</text><line x1="74" y1="192" x2="876" y2="192" stroke="#30363d" stroke-opacity="0.5"/>
 <circle class="p" style="animation-delay:0.25s" cx="90.7" cy="192" r="2" fill="#3987e5" fill-opacity="0.36"/>
@@ -99,13 +99,13 @@
 <circle class="p" style="animation-delay:0.73s" cx="625.4" cy="192" r="3.2" fill="#3987e5" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.76s" cx="658.8" cy="192" r="2.6" fill="#3987e5" fill-opacity="0.37"/>
 <circle class="p" style="animation-delay:0.79s" cx="692.2" cy="192" r="2" fill="#3987e5" fill-opacity="0.36"/>
-<circle class="p" style="animation-delay:0.82s" cx="725.6" cy="192" r="3.5" fill="#3987e5" fill-opacity="0.39"/>
+<circle class="p" style="animation-delay:0.82s" cx="725.6" cy="192" r="3.4" fill="#3987e5" fill-opacity="0.39"/>
 <circle class="p" style="animation-delay:0.85s" cx="759" cy="192" r="3.6" fill="#3987e5" fill-opacity="0.39"/>
-<circle class="p" style="animation-delay:0.88s" cx="792.5" cy="192" r="2.6" fill="#3987e5" fill-opacity="0.37"/>
-<circle class="p" style="animation-delay:0.91s" cx="825.9" cy="192" r="2.5" fill="#3987e5" fill-opacity="0.37"/>
-<circle class="p" style="animation-delay:0.94s" cx="859.3" cy="192" r="2.6" fill="#3987e5" fill-opacity="0.37"/>
+<circle class="p" style="animation-delay:0.88s" cx="792.5" cy="192" r="2.8" fill="#3987e5" fill-opacity="0.37"/>
+<circle class="p" style="animation-delay:0.91s" cx="825.9" cy="192" r="2.7" fill="#3987e5" fill-opacity="0.37"/>
+<circle class="p" style="animation-delay:0.94s" cx="859.3" cy="192" r="2.7" fill="#3987e5" fill-opacity="0.37"/>
 <text x="60" y="228" fill="#9198a1" font-size="12" text-anchor="end">Fri</text><line x1="74" y1="224" x2="876" y2="224" stroke="#30363d" stroke-opacity="0.5"/>
-<circle class="p" style="animation-delay:0.3s" cx="90.7" cy="224" r="2.9" fill="#3987e5" fill-opacity="0.38"/>
+<circle class="p" style="animation-delay:0.3s" cx="90.7" cy="224" r="3" fill="#3987e5" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.33s" cx="124.1" cy="224" r="3.4" fill="#3987e5" fill-opacity="0.39"/>
 <circle class="p" style="animation-delay:0.36s" cx="157.5" cy="224" r="3.3" fill="#3987e5" fill-opacity="0.38"/>
 <circle class="p" style="animation-delay:0.39s" cx="191" cy="224" r="14.5" fill="#3987e5" fill-opacity="1"/>

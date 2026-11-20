@@ -30,7 +30,7 @@
 			"claude-code-plugin"
 		],
 		"language": "HTML",
-		"stars": 662,
+		"stars": 661,
 		"homepage": "https://xactions.app/features"
 	},
 	{
@@ -7228,35 +7228,6 @@
 		"language": "JavaScript",
 		"stars": 3,
 		"homepage": "https://nirholas.github.io/voice/"
-	},
-	{
-		"name": "chatgpt-plugin",
-		"url": "https://github.com/nirholas/chatgpt-plugin",
-		"description": "Official Sperax Trading Desk plugin for ChatGPT, live in the ChatGPT plugin directory. Read-only crypto analysis: derivatives positioning, coin analysis, trade sizing, backtests, token safety scans, swap quotes, wallet reviews and 35 live market feeds.",
-		"topics": [
-			"ai-agents",
-			"backtesting",
-			"bitcoin",
-			"chatgpt",
-			"chatgpt-apps",
-			"chatgpt-plugin",
-			"crypto",
-			"crypto-trading",
-			"defi",
-			"ethereum",
-			"market-data",
-			"mcp",
-			"mcp-server",
-			"model-context-protocol",
-			"openai",
-			"risk-management",
-			"solana",
-			"sperax",
-			"trading"
-		],
-		"language": "HTML",
-		"stars": 0,
-		"homepage": "https://nirholas.github.io/chatgpt-plugin/"
 	},
 	{
 		"name": "three-ws-3d-skills",
