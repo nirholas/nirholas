@@ -48,7 +48,7 @@
 			"sentiment"
 		],
 		"language": "TypeScript",
-		"stars": 333,
+		"stars": 331,
 		"homepage": "https://cryptocurrency.cv"
 	},
 	{
@@ -2087,7 +2087,7 @@
 	{
 		"name": "x402-server",
 		"url": "https://github.com/nirholas/x402-server",
-		"description": "Merchant-side x402 library: issue 402 challenges, verify and settle payments on Solana, and split platform fees.",
+		"description": "Merchant-side x402 library: issue 402 challenges, verify and settle payments on Solana first (and Base), and split platform fees.",
 		"topics": [
 			"x402",
 			"merchant",
@@ -7228,6 +7228,36 @@
 		"language": "JavaScript",
 		"stars": 3,
 		"homepage": "https://nirholas.github.io/voice/"
+	},
+	{
+		"name": "RepoCard",
+		"url": "https://github.com/nirholas/RepoCard",
+		"description": "AI-designed social preview images for GitHub repos. Paste a link, get four unique 1280x640 cards. Web app, bulk export, API, MCP server for AI agents, CLI and GitHub Action on Cloudflare Workers.",
+		"topics": [
+			"ai",
+			"ai-agents",
+			"cli",
+			"cloudflare-workers",
+			"developer-tools",
+			"github",
+			"github-actions",
+			"image-generation",
+			"llm",
+			"mcp",
+			"mcp-server",
+			"og-image",
+			"open-graph",
+			"readme",
+			"satori",
+			"seo",
+			"social-media",
+			"social-preview",
+			"typescript",
+			"workers-ai"
+		],
+		"language": "TypeScript",
+		"stars": 1,
+		"homepage": "https://repocard.xyz"
 	},
 	{
 		"name": "three-ws-3d-skills",

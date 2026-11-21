@@ -1,6 +1,6 @@
 # nirholas
 
-> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 408 public repositories.
+> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 409 public repositories.
 
 ## Catalog
 
@@ -11,7 +11,7 @@
 
 - Robinhood Chain: 22 repositories
 - x402 payments and agent commerce: 84 repositories
-- MCP servers for AI agents: 79 repositories
+- MCP servers for AI agents: 80 repositories
 - 3D AI agents and avatars: 58 repositories
 - Solana and pump.fun tooling: 20 repositories
 - DeFi mechanisms and Uniswap v4 hooks: 47 repositories
@@ -42,6 +42,6 @@ Repositories owned by others where nirholas has merged pull requests:
 - [hridaydutta123/awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools): 1 merged
 - [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers): 2 merged
 - [Sperax/bnb-chain-toolkit](https://github.com/Sperax/bnb-chain-toolkit): 3 merged
-- [Sperax/USDs-x402-facilitator](https://github.com/Sperax/USDs-x402-facilitator): 1 merged
+- [Sperax/USDs-x402-facilitator](https://github.com/Sperax/USDs-x402-facilitator): 2 merged
 - [Sperax/sperax-skills](https://github.com/Sperax/sperax-skills): 2 merged
 - [Sperax/x402-archive](https://github.com/Sperax/x402-archive): 1 merged
