@@ -10,7 +10,7 @@
 
 <p align="center"><a href="https://www.star-history.com/nirholas"><img alt="GitHub Top Committer 2026, global rank" src="https://api.star-history.com/badge?user=nirholas&year=2026" height="64"/></a></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="409 repositories, 11429 stars" src="./assets/stats-light.svg" width="100%"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="409 repositories, 11434 stars" src="./assets/stats-light.svg" width="100%"/></picture></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/planet-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/planet-light.svg"/><img alt="A rotating 3D planet with one point per repository, sized by stars and colored by section" src="./assets/planet-light.svg" width="100%"/></picture></p>
 
@@ -29,10 +29,10 @@ Today I ship in public: AI agents, MCP servers, 3D, on-chain tooling and the dev
 ## Start here
 
 - [fresh-start](https://github.com/nirholas/fresh-start) ★6225: Record of the former nirholas/claude-code mirror: the DMCA, the leak timeline and the x402 correction. No Anthropic code
-- [XActions](https://github.com/nirholas/XActions) ★662: X/Twitter automation toolkit: scrapers, CLI and an MCP server with approval-gated write actions, no paid API.
-- [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) ★331: Free crypto news API aggregating 300+ sources with REST, RSS, search, sentiment and an MCP server.
+- [XActions](https://github.com/nirholas/XActions) ★665: X/Twitter automation toolkit: scrapers, CLI and an MCP server with approval-gated write actions, no paid API.
+- [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) ★332: Free crypto news API aggregating 300+ sources with REST, RSS, search, sentiment and an MCP server.
 - [three.ws](https://github.com/nirholas/three.ws) ★284: Give your AI agent a 3D body: rigged GLB avatars from text or a photo, an LLM brain, a Solana wallet, a one-tag embed.
-- [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) ★150: TypeScript SDK, pump CLI and MCP server for the Pump protocol on Solana: bonding curves, AMM pools and creator fees.
+- [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) ★151: TypeScript SDK, pump CLI and MCP server for the Pump protocol on Solana: bonding curves, AMM pools and creator fees.
 - [PAI](https://github.com/nirholas/PAI) ★125: Bootable Debian 12 live USB that runs Ollama locally for a private, offline AI desktop on x86_64 and ARM64.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/top-stars-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/top-stars-light.svg"/><img alt="The most-starred repositories on a log scale" src="./assets/top-stars-light.svg" width="100%"/></picture>
@@ -50,7 +50,7 @@ Every chart below is rendered from the live GitHub listing each time the catalog
 
 ## How I build
 
-Pulled from the GitHub API on November 21, 2026. Commit counts and streaks include private repositories as counts only. Lines and hours come from public repositories, with any commit over 20,000 changed lines left out as a bulk import. Hours are not a stopwatch: a day counts each clock hour (UTC) in which at least one commit landed, so it cannot pass 24.
+Pulled from the GitHub API on November 22, 2026. Commit counts and streaks include private repositories as counts only. Lines and hours come from public repositories, with any commit over 20,000 changed lines left out as a bulk import. Hours are not a stopwatch: a day counts each clock hour (UTC) in which at least one commit landed, so it cannot pass 24.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-volume-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/activity-volume-light.svg"/><img alt="Commits, lines added and lines removed over the last 12 months" src="./assets/activity-volume-light.svg" width="100%"/></picture>
 
@@ -67,12 +67,12 @@ Pulled from the GitHub API on November 21, 2026. Commit counts and streaks inclu
 - Busiest day: January 26, 2026 with 5,417 commits.
 - Biggest day for lines: August 7, 2026 with 775,578 lines changed.
 - Most hours with a push in one day: 24 on January 9, 2026.
-- Last 30 days: 6,948 commits, 1,840,867 lines added and 592,726 removed, pushes in 179 separate hours on 30 active days.
-- Current streak: 33 days. Longest: 127 days, ending August 30, 2026.
+- Last 30 days: 6,976 commits, 1,832,954 lines added and 586,542 removed, pushes in 187 separate hours on 30 active days.
+- Current streak: 34 days. Longest: 127 days, ending August 30, 2026.
 
 | Where the lines went | Commits | Added | Removed |
 |---|---:|---:|---:|
-| [three.ws](https://github.com/nirholas/three.ws) | 13,351 | 6,339,007 | 1,564,703 |
+| [three.ws](https://github.com/nirholas/three.ws) | 13,483 | 6,388,410 | 1,566,315 |
 | [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) | 1,209 | 1,220,414 | 223,538 |
 | [three.ws-chat](https://github.com/nirholas/three.ws-chat) | 546 | 459,671 | 137,884 |
 | [XActions](https://github.com/nirholas/XActions) | 518 | 487,233 | 97,972 |
@@ -83,15 +83,15 @@ Pulled from the GitHub API on November 21, 2026. Commit counts and streaks inclu
 
 ## Open-source contributions
 
-21 merged pull requests in 14 repositories maintained by other people and teams, since 2024. Every pull request I authored that a maintainer merged outside my own account, read live from GitHub.
+26 merged pull requests in 14 repositories maintained by other people and teams, since 2024. Every pull request I authored that a maintainer merged outside my own account, read live from GitHub.
 
 <details open>
 <summary>14 repositories</summary>
 
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) ★500550, merged [#7903](https://github.com/public-apis/public-apis/pull/7903): A collective list of free APIs
-- [x402-foundation/x402](https://github.com/x402-foundation/x402) ★6820, merged [#3514](https://github.com/x402-foundation/x402/pull/3514): A payments protocol for the internet. Built on HTTP.
-- [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) ★1277, merged [#583](https://github.com/Jenqyang/Awesome-AI-Agents/pull/583): A collection of autonomous agents 🤖️ powered by LLM.
-- [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) ★1112, merged [#3478](https://github.com/TensorBlock/awesome-mcp-servers/pull/3478), [#3479](https://github.com/TensorBlock/awesome-mcp-servers/pull/3479), [#3480](https://github.com/TensorBlock/awesome-mcp-servers/pull/3480): A comprehensive collection of Model Context Protocol (MCP) servers
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) ★500711, merged [#7903](https://github.com/public-apis/public-apis/pull/7903): A collective list of free APIs
+- [x402-foundation/x402](https://github.com/x402-foundation/x402) ★6821, merged [#3514](https://github.com/x402-foundation/x402/pull/3514): A payments protocol for the internet. Built on HTTP.
+- [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) ★1276, merged [#583](https://github.com/Jenqyang/Awesome-AI-Agents/pull/583): A collection of autonomous agents 🤖️ powered by LLM.
+- [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) ★1117, merged [#3478](https://github.com/TensorBlock/awesome-mcp-servers/pull/3478), [#3479](https://github.com/TensorBlock/awesome-mcp-servers/pull/3479), [#3480](https://github.com/TensorBlock/awesome-mcp-servers/pull/3480): A comprehensive collection of Model Context Protocol (MCP) servers
 - [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3) ★909, merged [#832](https://github.com/ahmet/awesome-web3/pull/832): A curated list of awesome Web3 resources, libraries, tools and more.
 - [xai-org/xai-cookbook](https://github.com/xai-org/xai-cookbook) ★653, merged [#25](https://github.com/xai-org/xai-cookbook/pull/25): A collection of pragmatic, real-world examples guiding you from basic to advanced use of xAI's Grok APIs.
 - [Merit-Systems/x402scan](https://github.com/Merit-Systems/x402scan) ★405, merged [#1032](https://github.com/Merit-Systems/x402scan/pull/1032): x402 Ecosystem Explorer
@@ -99,7 +99,7 @@ Pulled from the GitHub API on November 21, 2026. Commit counts and streaks inclu
 - [hridaydutta123/awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools) ★263, merged [#59](https://github.com/hridaydutta123/awesome-twitter-tools/pull/59): A curated list of awesome twitter tools
 - [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) ★113, merged [#197](https://github.com/mcpHQ/awesome-mcp-servers/pull/197), [#198](https://github.com/mcpHQ/awesome-mcp-servers/pull/198): A curated catalog of Model Context Protocol (MCP) servers for discovering and integrating AI tools, data sources, and services. Explore MCP...
 - [Sperax/bnb-chain-toolkit](https://github.com/Sperax/bnb-chain-toolkit) ★39, merged [#7](https://github.com/Sperax/bnb-chain-toolkit/pull/7), [#8](https://github.com/Sperax/bnb-chain-toolkit/pull/8), [#9](https://github.com/Sperax/bnb-chain-toolkit/pull/9): A modular toolkit for building, deploying, and interacting with smart contracts on BNB Chain. Includes utilities for BEP-20 tokens, DeFi...
-- [Sperax/USDs-x402-facilitator](https://github.com/Sperax/USDs-x402-facilitator) ★14, merged [#1](https://github.com/Sperax/USDs-x402-facilitator/pull/1), [#5](https://github.com/Sperax/USDs-x402-facilitator/pull/5): x402 payment facilitator: verifies and settles EIP-3009 USDC micropayments on Base, Arbitrum, and Ethereum.
+- [Sperax/USDs-x402-facilitator](https://github.com/Sperax/USDs-x402-facilitator) ★14, merged [#1](https://github.com/Sperax/USDs-x402-facilitator/pull/1), [#5](https://github.com/Sperax/USDs-x402-facilitator/pull/5), [#6](https://github.com/Sperax/USDs-x402-facilitator/pull/6), [#7](https://github.com/Sperax/USDs-x402-facilitator/pull/7), [#8](https://github.com/Sperax/USDs-x402-facilitator/pull/8), [#9](https://github.com/Sperax/USDs-x402-facilitator/pull/9), [#10](https://github.com/Sperax/USDs-x402-facilitator/pull/10): x402 payment facilitator: verifies and settles EIP-3009 USDC micropayments on Base, Arbitrum, and Ethereum.
 - [Sperax/sperax-skills](https://github.com/Sperax/sperax-skills) ★8, merged [#1](https://github.com/Sperax/sperax-skills/pull/1), [#2](https://github.com/Sperax/sperax-skills/pull/2): Open-source AI agent skills for DeFi, MCP servers, Web3 tooling, and the Sperax ecosystem. Skills teaching agents crypto trading, yield...
 - [Sperax/x402-archive](https://github.com/Sperax/x402-archive), merged [#1](https://github.com/Sperax/x402-archive/pull/1): A payments protocol for the internet. Built on HTTP.
 
@@ -251,9 +251,9 @@ Model Context Protocol servers that give any MCP client new abilities.
 <details>
 <summary>80 repositories</summary>
 
-- [XActions](https://github.com/nirholas/XActions) ★662: X/Twitter automation toolkit: scrapers, CLI and an MCP server with approval-gated write actions, no paid API.
-- [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) ★331: Free crypto news API aggregating 300+ sources with REST, RSS, search, sentiment and an MCP server.
-- [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) ★150: TypeScript SDK, pump CLI and MCP server for the Pump protocol on Solana: bonding curves, AMM pools and creator fees.
+- [XActions](https://github.com/nirholas/XActions) ★665: X/Twitter automation toolkit: scrapers, CLI and an MCP server with approval-gated write actions, no paid API.
+- [cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv) ★332: Free crypto news API aggregating 300+ sources with REST, RSS, search, sentiment and an MCP server.
+- [pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) ★151: TypeScript SDK, pump CLI and MCP server for the Pump protocol on Solana: bonding curves, AMM pools and creator fees.
 - [extract-llms-docs](https://github.com/nirholas/extract-llms-docs) ★35: Extract llms.txt documentation from any docs site for AI agents, with an MCP server and a Next.js web app.
 - [github-to-mcp](https://github.com/nirholas/github-to-mcp) ★35: Convert GitHub repositories into MCP servers by extracting tools from OpenAPI specs, READMEs, code and GraphQL.
 - [crypto-data-aggregator](https://github.com/nirholas/crypto-data-aggregator) ★33: Crypto market data aggregator with news, DeFi analytics, portfolios, price alerts and sentiment, plus an MCP server.
@@ -613,4 +613,4 @@ If something here helped you, a star takes one click and tells the next person i
 
 Coding agents and LLM tooling can read this profile directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt) and [repos.json](./repos.json).
 
-<p align="center"><sub>Catalog and charts regenerated from the live GitHub listing: 409 repositories, 11429 stars.</sub></p>
+<p align="center"><sub>Catalog and charts regenerated from the live GitHub listing: 409 repositories, 11434 stars.</sub></p>
