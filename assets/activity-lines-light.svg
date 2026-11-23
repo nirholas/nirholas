@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" role="img" aria-labelledby="t d" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
 <title id="t">Lines of code pushed</title>
-<desc id="d">Lines added and removed per month, from the first month with public commits. Last 12 months: 12,793,611 added, 2,680,686 removed.</desc>
+<desc id="d">Lines added and removed per month, from the first month with public commits. Last 12 months: 12,793,612 added, 2,680,687 removed.</desc>
 <style>.b{transform-box:view-box;animation:grow .8s cubic-bezier(.2,.9,.3,1) both}@keyframes grow{from{transform:scaleY(0)}}</style>
 <text x="24" y="36" fill="#1f2328" font-size="19" font-weight="700">Lines of code pushed</text>
 <text x="24" y="57" fill="#59636e" font-size="12.5">Last 12 months: 12.8M added, 2.7M removed. Public repositories, commits over 20k lines left out.</text>
@@ -35,7 +35,7 @@
 <rect class="b" style="animation-delay:0.5s;transform-origin:719.4px 196px" x="696.9" y="196" width="45.1" height="12.7" rx="2" fill="#eb6834"/>
 <rect class="b" style="animation-delay:0.55s;transform-origin:782.1px 196px" x="759.5" y="125.4" width="45.1" height="70.6" rx="2" fill="#1baf7a"><title>Oct 26: 1,261,271 added, 294,385 removed, 3,109 commits</title></rect>
 <rect class="b" style="animation-delay:0.55s;transform-origin:782.1px 196px" x="759.5" y="196" width="45.1" height="16.5" rx="2" fill="#eb6834"/>
-<rect class="b" style="animation-delay:0.6s;transform-origin:844.8px 196px" x="822.2" y="107.1" width="45.1" height="88.9" rx="2" fill="#1baf7a"><title>Nov 26: 1,587,106 added, 411,639 removed, 5,112 commits</title></rect>
+<rect class="b" style="animation-delay:0.6s;transform-origin:844.8px 196px" x="822.2" y="107.1" width="45.1" height="88.9" rx="2" fill="#1baf7a"><title>Nov 26: 1,587,107 added, 411,640 removed, 5,113 commits</title></rect>
 <rect class="b" style="animation-delay:0.6s;transform-origin:844.8px 196px" x="822.2" y="196" width="45.1" height="23" rx="2" fill="#eb6834"/>
 <rect x="726" y="62" width="10" height="10" rx="2" fill="#1baf7a"/><text x="742" y="71" fill="#59636e" font-size="11.5">added</text>
 <rect x="800" y="62" width="10" height="10" rx="2" fill="#eb6834"/><text x="816" y="71" fill="#59636e" font-size="11.5">removed</text>

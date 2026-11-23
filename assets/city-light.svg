@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 471" width="900" height="471" role="img" aria-labelledby="t d" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
 <title id="t">Star city</title>
-<desc id="d">An isometric city with one tower per repository. Tower height is stars on a log scale, districts are the 8 catalog sections. Tallest: fresh-start (6225 stars), XActions (665 stars), cryptocurrency.cv (332 stars), three.ws (284 stars), pump-fun-sdk (151 stars), PAI (125 stars).</desc>
+<desc id="d">An isometric city with one tower per repository. Tower height is stars on a log scale, districts are the 8 catalog sections. Tallest: fresh-start (6225 stars), XActions (666 stars), cryptocurrency.cv (332 stars), three.ws (284 stars), pump-fun-sdk (151 stars), PAI (125 stars).</desc>
 <style>.b{transform-box:fill-box;transform-origin:50% 100%;animation:rise 1.3s cubic-bezier(.2,.85,.25,1) both}@keyframes rise{from{transform:scaleY(0);opacity:0}to{transform:scaleY(1);opacity:1}}</style>
 <text x="24" y="36" fill="#1f2328" font-size="19" font-weight="700">Star city</text>
 <text x="24" y="57" fill="#59636e" font-size="12.5">409 towers, one per repository. Height is stars on a log scale; each district is a catalog section.</text>
@@ -439,7 +439,7 @@
 <circle cx="347.3" cy="10.9" r="3" fill="#1baf7a"><animate attributeName="r" values="3;9;3" dur="2.4s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0.9" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
 <circle cx="347.3" cy="10.9" r="2.5" fill="#1baf7a" stroke="#ffffff"/>
 <rect x="297.4" y="-30.1" width="99.8" height="21" rx="10.5" fill="#ffffff" fill-opacity="0.92" stroke="#1baf7a" stroke-opacity="0.8"/>
-<text x="347.3" y="-15.1" fill="#1f2328" font-size="11.5" font-weight="600" text-anchor="middle">XActions <tspan fill="#59636e" font-weight="400">★665</tspan></text>
+<text x="347.3" y="-15.1" fill="#1f2328" font-size="11.5" font-weight="600" text-anchor="middle">XActions <tspan fill="#59636e" font-weight="400">★666</tspan></text>
 <line x1="361.3" y1="16.3" x2="361.3" y2="-30.7" stroke="#59636e" stroke-opacity="0.7"/>
 <circle cx="361.3" cy="19.3" r="3" fill="#1baf7a"><animate attributeName="r" values="3;9;3" dur="2.4s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0.9" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
 <circle cx="361.3" cy="19.3" r="2.5" fill="#1baf7a" stroke="#ffffff"/>
