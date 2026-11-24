@@ -12,7 +12,7 @@
 			"post-mortem"
 		],
 		"language": null,
-		"stars": 6225,
+		"stars": 6224,
 		"homepage": null
 	},
 	{
@@ -30,7 +30,7 @@
 			"claude-code-plugin"
 		],
 		"language": "HTML",
-		"stars": 666,
+		"stars": 665,
 		"homepage": "https://xactions.app/features"
 	},
 	{
@@ -84,7 +84,7 @@
 			"sdk"
 		],
 		"language": "TypeScript",
-		"stars": 151,
+		"stars": 152,
 		"homepage": "https://sdk.pumpk.it"
 	},
 	{
