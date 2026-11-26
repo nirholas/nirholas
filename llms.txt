@@ -1,6 +1,6 @@
 # nirholas
 
-> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 409 public repositories.
+> Open-source software by nirholas: AI agents, MCP servers, 3D, on-chain tooling and developer tools. 410 public repositories.
 
 ## Catalog
 
@@ -13,7 +13,7 @@
 - x402 payments and agent commerce: 84 repositories
 - MCP servers for AI agents: 80 repositories
 - 3D AI agents and avatars: 58 repositories
-- Solana and pump.fun tooling: 20 repositories
+- Solana and pump.fun tooling: 21 repositories
 - DeFi mechanisms and Uniswap v4 hooks: 47 repositories
 - On-chain experiments and collectibles: 67 repositories
 - Developer tools and everything else: 31 repositories
@@ -32,7 +32,7 @@
 Repositories owned by others where nirholas has merged pull requests:
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis): 1 merged
-- [x402-foundation/x402](https://github.com/x402-foundation/x402): 1 merged
+- [x402-foundation/x402](https://github.com/x402-foundation/x402): 2 merged
 - [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents): 1 merged
 - [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers): 3 merged
 - [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3): 1 merged

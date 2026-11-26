@@ -30,7 +30,7 @@
 			"claude-code-plugin"
 		],
 		"language": "HTML",
-		"stars": 665,
+		"stars": 668,
 		"homepage": "https://xactions.app/features"
 	},
 	{
@@ -66,7 +66,7 @@
 			"claude-code-plugin"
 		],
 		"language": "JavaScript",
-		"stars": 284,
+		"stars": 286,
 		"homepage": "https://three.ws"
 	},
 	{
@@ -590,6 +590,24 @@
 		"homepage": "https://github.com/nirholas/gitpretty"
 	},
 	{
+		"name": "scrape-smart-wallets",
+		"url": "https://github.com/nirholas/scrape-smart-wallets",
+		"description": "Browser console scripts that extract smart money wallets, KOL wallets, token rankings and DEX trades from gmgn.ai.",
+		"topics": [
+			"javascript",
+			"browser-scripts",
+			"gmgn",
+			"scraper",
+			"smart-money",
+			"solana",
+			"wallet-tracking",
+			"web-scraping"
+		],
+		"language": "JavaScript",
+		"stars": 23,
+		"homepage": null
+	},
+	{
 		"name": "analyze-ethereum-address",
 		"url": "https://github.com/nirholas/analyze-ethereum-address",
 		"description": "Placeholder repository for planned tooling to analyze gas-efficient Ethereum addresses with leading zero bytes.",
@@ -639,41 +657,6 @@
 		"homepage": "https://nirholas.github.io/g1t/"
 	},
 	{
-		"name": "scrape-smart-wallets",
-		"url": "https://github.com/nirholas/scrape-smart-wallets",
-		"description": "Browser console scripts that extract smart money wallets, KOL wallets, token rankings and DEX trades from gmgn.ai.",
-		"topics": [
-			"javascript",
-			"browser-scripts",
-			"gmgn",
-			"scraper",
-			"smart-money",
-			"solana",
-			"wallet-tracking",
-			"web-scraping"
-		],
-		"language": "JavaScript",
-		"stars": 22,
-		"homepage": "https://three.ws"
-	},
-	{
-		"name": "atomic",
-		"url": "https://github.com/nirholas/atomic",
-		"description": "Node scripts that launch pump.fun coins, collect creator fees and buy tokens atomically inside Jito bundles on Solana.",
-		"topics": [
-			"pump-fun",
-			"solana",
-			"claude-code-plugin",
-			"creator-fees",
-			"jito",
-			"jito-bundles",
-			"token-launch"
-		],
-		"language": "JavaScript",
-		"stars": 21,
-		"homepage": "https://github.com/nirholas/atomic"
-	},
-	{
 		"name": "modelcontextprotocol.name",
 		"url": "https://github.com/nirholas/modelcontextprotocol.name",
 		"description": "Registry content for modelcontextprotocol.name: a Sperax x402 facilitator listing and the facilitator source.",
@@ -710,6 +693,23 @@
 		"homepage": "https://nirholas.github.io/solana-launchpad-ui/"
 	},
 	{
+		"name": "atomic",
+		"url": "https://github.com/nirholas/atomic",
+		"description": "Node scripts that launch pump.fun coins, collect creator fees and buy tokens atomically inside Jito bundles on Solana.",
+		"topics": [
+			"pump-fun",
+			"solana",
+			"claude-code-plugin",
+			"creator-fees",
+			"jito",
+			"jito-bundles",
+			"token-launch"
+		],
+		"language": "JavaScript",
+		"stars": 20,
+		"homepage": "https://github.com/nirholas/atomic"
+	},
+	{
 		"name": "market-capitalization-data",
 		"url": "https://github.com/nirholas/market-capitalization-data",
 		"description": "Placeholder repository reserved for market capitalization data. No code or data published yet.",
@@ -741,24 +741,6 @@
 		"language": "TypeScript",
 		"stars": 20,
 		"homepage": "https://github.com/nirholas/pump-fun-workers"
-	},
-	{
-		"name": "agent-voice-chat",
-		"url": "https://github.com/nirholas/agent-voice-chat",
-		"description": "Self-hosted multi-agent AI voice chat: Express and Socket.IO server, REST API and embeddable widget.",
-		"topics": [
-			"elevenlabs",
-			"text-to-speech",
-			"ai-agents",
-			"claude-code-plugin",
-			"realtime",
-			"socket-io",
-			"speech-to-text",
-			"voice-chat"
-		],
-		"language": "JavaScript",
-		"stars": 19,
-		"homepage": "https://github.com/nirholas/agent-voice-chat"
 	},
 	{
 		"name": "AuditKit",
@@ -813,6 +795,24 @@
 		"language": "JavaScript",
 		"stars": 19,
 		"homepage": "https://nirholas.github.io/solana-sniper-mcp/"
+	},
+	{
+		"name": "agent-voice-chat",
+		"url": "https://github.com/nirholas/agent-voice-chat",
+		"description": "Self-hosted multi-agent AI voice chat: Express and Socket.IO server, REST API and embeddable widget.",
+		"topics": [
+			"elevenlabs",
+			"text-to-speech",
+			"ai-agents",
+			"claude-code-plugin",
+			"realtime",
+			"socket-io",
+			"speech-to-text",
+			"voice-chat"
+		],
+		"language": "JavaScript",
+		"stars": 18,
+		"homepage": "https://github.com/nirholas/agent-voice-chat"
 	},
 	{
 		"name": "automate-glama-submit",
@@ -1263,6 +1263,24 @@
 		"homepage": "https://nirholas.github.io/intel-mcp/"
 	},
 	{
+		"name": "papertrade-sdk",
+		"url": "https://github.com/nirholas/papertrade-sdk",
+		"description": "Unofficial TypeScript SDK and read-only MCP server for Papertrade, the 1000x perps exchange on HyperEVM.",
+		"topics": [
+			"eip-712",
+			"hyperevm",
+			"hyperliquid",
+			"papertrade",
+			"perps",
+			"typescript",
+			"claude-code-plugin",
+			"mcp-server"
+		],
+		"language": "TypeScript",
+		"stars": 10,
+		"homepage": "https://papertrade-sdk.pages.dev"
+	},
+	{
 		"name": "pumpfun-rust-client",
 		"url": "https://github.com/nirholas/pumpfun-rust-client",
 		"description": "Rust SDK for the pump and pump_amm Solana programs: instruction builders, quoting and transaction building.",
@@ -1657,24 +1675,6 @@
 		"language": "JavaScript",
 		"stars": 9,
 		"homepage": "https://nirholas.github.io/onchain-agent-wallets/"
-	},
-	{
-		"name": "papertrade-sdk",
-		"url": "https://github.com/nirholas/papertrade-sdk",
-		"description": "Unofficial TypeScript SDK and read-only MCP server for Papertrade, the 1000x perps exchange on HyperEVM.",
-		"topics": [
-			"eip-712",
-			"hyperevm",
-			"hyperliquid",
-			"papertrade",
-			"perps",
-			"typescript",
-			"claude-code-plugin",
-			"mcp-server"
-		],
-		"language": "TypeScript",
-		"stars": 9,
-		"homepage": "https://papertrade-sdk.pages.dev"
 	},
 	{
 		"name": "provenance-mcp",
@@ -7228,6 +7228,28 @@
 		"language": "JavaScript",
 		"stars": 3,
 		"homepage": "https://nirholas.github.io/voice/"
+	},
+	{
+		"name": "fomo-wallet-exporter",
+		"url": "https://github.com/nirholas/fomo-wallet-exporter",
+		"description": "Export fomo.family trader wallets (Solana + EVM) into GMGN / Terminal wallet-tracker import format",
+		"topics": [
+			"browser-script",
+			"copy-trading",
+			"crypto",
+			"ethereum",
+			"evm",
+			"gmgn",
+			"javascript",
+			"solana",
+			"userscript",
+			"wallet-tracker",
+			"web3",
+			"wallet-export"
+		],
+		"language": "JavaScript",
+		"stars": 1,
+		"homepage": null
 	},
 	{
 		"name": "RepoCard",
