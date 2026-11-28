@@ -12,7 +12,7 @@
 			"post-mortem"
 		],
 		"language": null,
-		"stars": 6224,
+		"stars": 6225,
 		"homepage": null
 	},
 	{
@@ -657,6 +657,23 @@
 		"homepage": "https://nirholas.github.io/g1t/"
 	},
 	{
+		"name": "atomic",
+		"url": "https://github.com/nirholas/atomic",
+		"description": "Node scripts that launch pump.fun coins, collect creator fees and buy tokens atomically inside Jito bundles on Solana.",
+		"topics": [
+			"pump-fun",
+			"solana",
+			"claude-code-plugin",
+			"creator-fees",
+			"jito",
+			"jito-bundles",
+			"token-launch"
+		],
+		"language": "JavaScript",
+		"stars": 21,
+		"homepage": "https://github.com/nirholas/atomic"
+	},
+	{
 		"name": "modelcontextprotocol.name",
 		"url": "https://github.com/nirholas/modelcontextprotocol.name",
 		"description": "Registry content for modelcontextprotocol.name: a Sperax x402 facilitator listing and the facilitator source.",
@@ -691,23 +708,6 @@
 		"language": "JavaScript",
 		"stars": 21,
 		"homepage": "https://nirholas.github.io/solana-launchpad-ui/"
-	},
-	{
-		"name": "atomic",
-		"url": "https://github.com/nirholas/atomic",
-		"description": "Node scripts that launch pump.fun coins, collect creator fees and buy tokens atomically inside Jito bundles on Solana.",
-		"topics": [
-			"pump-fun",
-			"solana",
-			"claude-code-plugin",
-			"creator-fees",
-			"jito",
-			"jito-bundles",
-			"token-launch"
-		],
-		"language": "JavaScript",
-		"stars": 20,
-		"homepage": "https://github.com/nirholas/atomic"
 	},
 	{
 		"name": "market-capitalization-data",
@@ -7280,6 +7280,36 @@
 		"language": "TypeScript",
 		"stars": 1,
 		"homepage": "https://repocard.xyz"
+	},
+	{
+		"name": "three-ws-cursor-plugin",
+		"url": "https://github.com/nirholas/three-ws-cursor-plugin",
+		"description": "three.ws plugin for Cursor: free text-to-3D models, rigged avatars, auto-rigging and a CC0 3D asset catalog through a hosted MCP server. Generate GLB files from a prompt inside the Cursor agent.",
+		"topics": [
+			"3d-assets",
+			"3d-generation",
+			"3d-models",
+			"ai-agents",
+			"auto-rigging",
+			"avatar",
+			"cc0",
+			"cursor",
+			"cursor-ai",
+			"cursor-plugin",
+			"game-dev",
+			"generative-ai",
+			"glb",
+			"gltf",
+			"mcp",
+			"mcp-server",
+			"model-context-protocol",
+			"rigging",
+			"text-to-3d",
+			"threejs"
+		],
+		"language": null,
+		"stars": 1,
+		"homepage": "https://three.ws/docs/mcp"
 	},
 	{
 		"name": "three-ws-3d-skills",
